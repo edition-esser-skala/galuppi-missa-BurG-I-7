@@ -23,8 +23,8 @@ KyrieAltoNotes = {
 		\mvTr g'4.\fE^\tuttiE g8 g4. g8
 		fis4. fis8 e4 r %10
 		r r16 e a g a2
-		r4 r8 e a16.([ h32 c16 h] a[ g)] fis([ e)]
-		fis4 r8 fis e([ g] fis4
+		r4 r8 e a16.([ h32 c16 h] a[ gis?)] fis([ e)]
+		fis4. fis8 e([ g] fis4
 		g) e fis r16 e e e
 		e4 r16 fis g a h4 fis8. fis16 %15
 		g4 r16 g g fis g4 r
