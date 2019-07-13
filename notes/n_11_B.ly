@@ -8,12 +8,73 @@ KyrieBassoNotes = {
 	\relative c {
 		\clef bass
 		\key e \minor \time 4/4 \autoBeamOff \tempoKyrie
-		
+		R1*8 %8
+		\mvTr e4.\fE^\tuttiE e8 ais,4. ais'8
+		h16.([ cis32 dis?16 cis] h[ a)] g([ fis)] g4. g8 %10
+		a16.([ h32 c16 h] a[ g]) fis([ e)] fis4. fis8
+		e16.([ fis32 g16 fis] e[ d c h] c4.) c8
+		h4 r16 dis e fis g8 e d4(
+		c4.) c8 h4 r16 e fis gis
+		a4 r16 d, e fis g4 d'8. d16 %15
+		h4 r16 h h a g4 r16 g g fis
+		e4 r16 e e d c4 g'8. g16
+		e e e e fis8 g c,2(
+		d8[ g] d8.) d16 g2
+		R1*2 %21
+		g4. g8 gis4. gis8
+		a16.([ h32 c16 h] a[ g)] f([ e)] f4. f8
+		g16.([ a32 h16 a] g[ f]) e([ d)] e4. e8
+		f16.([ g32 a16 g] f[ e]) d([ c)] d4. d8 %25
+		e4( a8.) a16 e4 r16 a, h cis
+		d4 r16 d e fis! g4 c8. c16
+		a4 r16 a a a f4 r16 f f f
+		d4 r16 d' d d h4 r16 h h h
+		g4 c a4. a8 %30
+		g2 e4. e8
+		e4. f16([ e)] d2~
+		d4. c16[ h] c2~
+		c4. c8 h4 r16 h dis h
+		e e g e h' h, dis h e e g e h'4 %35
+		a a8 a a4 a
+		g r e e8 e
+		c c c c h2~
+		h4. h8 e4 r
+		R1*7 %46
+		R1\fermataMarkup \bar "||" %47 finis
 	}
 }
 
 KyrieBassoLyrics = \lyricmode {
+	Ky -- ri -- e e -- %9
+	le -- i -- son, e -- %10
+	le -- i -- son, e --
+	le -- i --
+	son, e -- le -- i -- son, e -- le --
+	i -- son, e -- le -- i --
+	son, e -- le -- i -- son, Ky -- ri -- %15
+	e e -- le -- i -- son, e -- le -- i --
+	son, e -- le -- i -- son, Ky -- ri --
+	e e -- le -- i -- son, e -- le --
+	i -- son.
 	
+	Ky -- ri -- e e -- %22
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- i -- son, e -- %25
+	le -- i -- son, e -- le -- i --
+	son, e -- le -- i -- son, Ky -- ri --
+	e e -- le -- i -- son, e -- le -- i --
+	son, e -- le -- i -- son, e -- le -- i --
+	son, e -- le -- i -- %30
+	son, Ky -- ri --
+	e e -- le --
+	_ _
+	i -- son, e -- le -- i --
+	son, e -- le -- i -- son, e -- le -- i -- son, e -- le -- i -- son, %35
+	Ky -- rie e -- le -- i --
+	son, Ky -- ri -- e,
+	Ky -- ri -- e e -- le --
+	i -- son.
 }
 
 % BassoNotes = {
