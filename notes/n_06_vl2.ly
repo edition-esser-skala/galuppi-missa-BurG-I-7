@@ -57,3 +57,12 @@ KyrieViolinoII = {
 		e8.\f fis16 fis4\trill e r\fermata \bar "||" %47 finis
 	}
 }
+
+ChristeViolinoII = {
+	\relative c' {
+		\clef treble
+		\key g \major \time 3/8 \tempoChriste
+			\set Score.currentBarNumber = #48
+		
+	}
+}

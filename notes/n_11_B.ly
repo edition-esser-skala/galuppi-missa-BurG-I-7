@@ -77,10 +77,23 @@ KyrieBassoLyrics = \lyricmode {
 	i -- son.
 }
 
+ChristeBassoNotes = {
+	\relative c {
+		\clef bass
+		\key g \major \time 3/8 \autoBeamOff \tempoChriste
+			\set Score.currentBarNumber = #48
+		
+	}
+}
+
+ChristeBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c {
 % 		\clef bass
-% 
+% 		
 % 		
 % 	}
 % }
