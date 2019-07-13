@@ -23,14 +23,14 @@ KyrieAltoNotes = {
 		\mvTr g'4.\fE^\tuttiE g8 g4. g8
 		fis4. fis8 e4 r %10
 		r r16 e a g a2
-		r4 r8 e a16.([ h32 c16 h] a[ gis?)] fis([ e)]
+		r4 r8 e a16.([ h32 c16 h] a[ g?)] fis([ e)]
 		fis4. fis8 e([ g] fis4
 		g) e fis r16 e e e
 		e4 r16 fis g a h4 fis8. fis16 %15
 		g4 r16 g g fis g4 r
 		r16 g g fis e g g g g4 g8. g16
-		g g g g a8 g g8.([ fis16] e4
-		d4.) d8 d2
+		g g g g a8 g g8.[ fis16] e4
+		d4. d8 d2
 		R1*2 %21
 		g4. g8 f4. f8
 		e8. e16 e4 r2
@@ -48,8 +48,8 @@ KyrieAltoNotes = {
 		r16 g g g fis4 r16 g g g fis4 %35
 		fis fis8 fis fis4 fis
 		g r g g8 g
-		e e e e fis4( g
-		fis4.) fis8 g4 r
+		e e e e fis4 g
+		fis4. fis8 g4 r
 		R1*7 %46
 		R1\fermataMarkup \bar "||" %47 finis
 	}
@@ -65,8 +65,8 @@ KyrieAltoLyrics = \lyricmode {
 	son, e -- le -- i -- son, Ky -- ri -- %15
 	e e -- le -- i -- son,
 	e -- le -- i -- son, e -- le -- i -- son, Ky -- ri --
-	e e -- le -- i -- son, e -- le --
-	i -- son.
+	e e -- le -- i -- son, e -- le -- _
+	_ i -- son.
 	
 	Ky -- ri -- e e -- %22
 	le -- i -- son,
@@ -84,8 +84,8 @@ KyrieAltoLyrics = \lyricmode {
 	e -- le -- i -- son, e -- le -- i -- son, %35
 	Ky -- rie e -- le -- i --
 	son, Ky -- ri -- e,
-	Ky -- ri -- e e -- le --
-	i -- son. %39 finis
+	Ky -- ri -- e e -- le -- _
+	_ i -- son. %39 finis
 }
 
 % AltoNotes = {

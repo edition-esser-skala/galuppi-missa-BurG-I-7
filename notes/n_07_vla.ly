@@ -6,7 +6,7 @@
 
 KyrieViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key e \minor \time 4/4 \tempoKyrie
 		g'8\fE g g g cis, cis cis cis
 		h fis' fis fis h, h h e
@@ -54,6 +54,6 @@ KyrieViola = {
 		dis dis dis dis g e e e f4 r16 c c c
 		r4 r16 h h h r4 r16 fis' fis fis %45
 		e8 e e e e\p e e e
-		g\f e e dis e4 r\fermata \bar "||"
+		g\f e e dis e4 r\fermata \bar "||" %47 finis
 	}
 }

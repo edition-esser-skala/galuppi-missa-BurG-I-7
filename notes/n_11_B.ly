@@ -12,14 +12,14 @@ KyrieBassoNotes = {
 		\mvTr e4.\fE^\tuttiE e8 ais,4. ais'8
 		h16.([ cis32 dis?16 cis] h[ a)] g([ fis)] g4. g8 %10
 		a16.([ h32 c16 h] a[ g]) fis([ e)] fis4. fis8
-		e16.([ fis32 g16 fis] e[ d c h] c4.) c8
+		e16.[ fis32 g16 fis] e[ d c h] c4. c8
 		h4 r16 dis e fis g8 e d4(
 		c4.) c8 h4 r16 e fis gis
 		a4 r16 d, e fis g4 d'8. d16 %15
 		h4 r16 h h a g4 r16 g g fis
 		e4 r16 e e d c4 g'8. g16
-		e e e e fis8 g c,2(
-		d8[ g] d8.) d16 g2
+		e e e e fis8 g c,2
+		d8[ g] d8. d16 g2
 		R1*2 %21
 		g4. g8 gis4. gis8
 		a16.([ h32 c16 h] a[ g)] f([ e)] f4. f8
@@ -48,14 +48,14 @@ KyrieBassoLyrics = \lyricmode {
 	Ky -- ri -- e e -- %9
 	le -- i -- son, e -- %10
 	le -- i -- son, e --
-	le -- i --
+	le -- _ _ i --
 	son, e -- le -- i -- son, e -- le --
 	i -- son, e -- le -- i --
 	son, e -- le -- i -- son, Ky -- ri -- %15
 	e e -- le -- i -- son, e -- le -- i --
 	son, e -- le -- i -- son, Ky -- ri --
 	e e -- le -- i -- son, e -- le --
-	i -- son.
+	_ _ i -- son.
 	
 	Ky -- ri -- e e -- %22
 	le -- i -- son, e --
