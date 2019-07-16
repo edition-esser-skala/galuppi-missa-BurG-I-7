@@ -63,6 +63,140 @@ ChristeViola = {
 		\clef treble
 		\key g \major \time 3/8 \tempoChriste
 			\set Score.currentBarNumber = #48
-		
+		h8\fE c d
+		g e a
+		d,( c h) %50
+		r e e
+		fis fis fis
+		g h, d
+		c a g'
+		fis g g %55
+		g fis fis
+		g a fis
+		g h, h
+		c c d
+		g, e' e %60
+		d d e
+		a, fis' fis
+		a a a
+		h c, d
+		c16[ g'] g8 fis %65
+		g d g
+		fis a fis
+		g h, d
+		c16[ g'] g8 fis\trill
+		g4. %70
+		h,8\p c d
+		g e a
+		d, c h
+		c c c
+		d d d %75
+		e e h
+		c c c
+		a fis' g
+		g d d
+		h16\f h' a g fis e %80
+		d8\p d d
+		d g a
+		a g fis
+		r h h
+		r cis, cis %85
+		d fis a
+		h h h
+		a a a
+		g fis e
+		fis16\f a d c! h a %90
+		gis8\p gis d'
+		c! a a
+		g d d
+		c e e
+		a, fis' fis %95
+		h, e g
+		e d d
+		d g8. f16
+		e8 e e
+		d d d %100
+		e g h,
+		cis e e
+		a g h,
+		cis e d
+		h a a %105
+		a a' a,
+		h h h
+		cis e d
+		h a a
+		fis fis'\f fis %110
+		g h, g'
+		e cis a'
+		fis d e
+		fis a fis
+		e e cis %115
+		d a' fis
+		g g e
+		a d, d
+		d cis cis
+		d4. %120
+		f8\p e gis
+		a a a
+		h h, dis
+		e g e
+		fis\f dis dis %125
+		fis\p dis dis
+		e g g
+		fis fis ais
+		h h, h
+		cis ais ais %130
+		h d h
+		cis a'! cis,
+		d fis fis
+		g h, h
+		a cis cis %135
+		h d g
+		g c,! e
+		d a' fis
+		g h, e
+		e c e %140
+		d a' g
+		g e e
+		fis fis a
+		a a fis
+		h, g' fis %145
+		a a h
+		e, a h
+		d, d e
+		fis fis e
+		g g a %150
+		d, h h
+		d4 r8
+		e4 r8
+		fis4 r8
+		g g d %155
+		d h h
+		c c e
+		d d fis
+		g g, g
+		a a a %160
+		h h h
+		d d d
+		d h d
+		c16[ e] d8 c
+		h h h %165
+		a a a
+		h h h
+		d d d
+		d d d
+		c16[ e] d8 c %170
+		h\f h h
+		c e e
+		cis e e
+		d fis fis
+		a a a %175
+		h c, d
+		c g' fis
+		g d g
+		fis a fis
+		g h, d %180
+		c16[ g'] g8 fis
+		g4.\fermata \bar "||" %182 finis
 	}
 }

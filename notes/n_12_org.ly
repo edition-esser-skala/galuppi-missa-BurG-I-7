@@ -252,8 +252,8 @@ ChristeOrgano = {
 }
 
 ChristeBassFigures = \figuremode {
-	r4. %48
-	<6>8 <5> <6 5>
+	r8 <[6]> q %48
+	<6> <5> <6 5>
 	r <6> <[6]> %50
 	r4.
 	r
@@ -340,8 +340,8 @@ ChristeBassFigures = \figuremode {
 	r
 	r
 	<_+> %135
-	r
-	r
+	r4 <[6]>8
+	r4.
 	r
 	r
 	r8 <[6]> <7> %140
