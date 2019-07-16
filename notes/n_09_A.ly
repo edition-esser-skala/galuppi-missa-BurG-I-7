@@ -224,6 +224,7 @@ KyrieIIAltoNotes = {
 		fis2 g!~
 		g fis4. fis8 \noBreak
 		fis1\fermata \bar "||"
+		\time 2/2 \tempoKyrieIIFuga
 	}
 }
 

@@ -198,6 +198,7 @@ ChristeViolinoII = {
 		g8 g,4 %180
 		e'32([ d c16)] h8 a\trill
 		g16 d g4\fermata \bar "||" %182 finis
+		\time 2/2 \tempoKyrieIIFuga
 	}
 }
 

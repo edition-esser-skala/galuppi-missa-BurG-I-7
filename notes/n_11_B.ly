@@ -243,6 +243,7 @@ KyrieIIBassoNotes = {
 		h1~
 		\once \tieDashed h2~ h4. h8 \noBreak
 		h1\fermata \bar "||"
+		\time 2/2 \tempoKyrieIIFuga
 	}
 }
 

@@ -198,6 +198,7 @@ ChristeViola = {
 		g h, d %180
 		c16[ g'] g8 fis
 		g4.\fermata \bar "||" %182 finis
+		\time 2/2 \tempoKyrieIIFuga
 	}
 }
 
@@ -213,5 +214,6 @@ KyrieIIViola = {
 		a a g! h
 		ais ais h h, \noBreak
 		h1\fermata \bar "||"
+		\clef "treble_8" \time 2/2 \tempoKyrieIIFuga
 	}
 }

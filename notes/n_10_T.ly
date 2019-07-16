@@ -100,6 +100,7 @@ KyrieIITenoreNotes = {
 		dis e~
 		\once \tieDashed e~ e4. e8 \noBreak
 		dis1\fermata \bar "||"
+		\time 2/2 \tempoKyrieIIFuga
 	}
 }
 

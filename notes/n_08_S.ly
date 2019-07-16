@@ -242,6 +242,61 @@ KyrieIISopranoNotes = {
 		a2 g!4 h
 		ais2 h4. h8 \noBreak
 		h1\fermata \bar "||"
+		\time 2/2 \tempoKyrieIIFuga
+			R1*9 %198
+		e4. e8 e4 e
+		dis8 dis dis4 r d %200
+		cis8 cis cis4 r c
+		h e2 dis4
+		e2. fis8[ e]
+		dis4 h e4. d8
+		cis4 a d2 %205
+		cis h~
+		h a4 a
+		g8 g a h c2
+		r8 e, fis g a2
+		r8 g a h c2 %210
+		r8 fis, g a h2
+		r8 e, fis g a2~
+		a4 g fis fis
+		g2 d'!~
+		d cis %215
+		c h~
+		h a4 d
+		e cis h2~
+		h8[ g] h2 a4
+		h8 fis g a h2 %220
+		r8 gis a h c! c d e
+		f2 r8 h, c d
+		e2 r8 a, h cis
+		d2. c4
+		h h c2 %225
+		e4. e8 e4 e4
+		dis8 dis dis4 r d
+		cis8 cis cis4 r c
+		h e2 dis4
+		e c a h %230
+		c4. c8 h4 h
+		c h c2
+		r8 a h c d2
+		h4( c) c h
+		c2 r %235
+		R1
+		r8 cis d e fis2
+		r8 h, cis d e4 h
+		ais( h e,) fis
+		g2 e'4. e8 %240
+		e4 e dis8 dis dis4
+		r d cis8 cis cis4
+		r c h e~
+		e dis e8 g, a h
+		c2 r8 fis, g a %245
+		h2 r8 e, fis g
+		a4 e' dis2(
+		e4.) e8 e4\fermata \tempoKyrieIIFugaFinis e
+		dis2 e~
+		e4 dis8[ cis] dis4. dis8 %250
+		e1\fermata \bar "|." %251 FINIS
 	}
 }
 
@@ -253,6 +308,60 @@ KyrieIISopranoLyrics = \lyricmode {
 	_ _
 	_ _ i --
 	son.]
+	
+	Ky -- ri -- e e -- %199
+	le -- i -- son, e -- %200
+	le -- i -- son, e --
+	le -- _ _
+	_ _
+	_ _ _ _
+	_ _ _ %205
+	_ _
+	_ i --
+	son, e -- le -- i -- son,
+	e -- le -- i -- son,
+	e -- le -- i -- son, %210
+	e -- le -- i -- son,
+	e -- le -- i -- son, __
+	e -- le -- i --
+	son, e --
+	le -- %215
+	_ _
+	_ _
+	_ _ _
+	_ i --
+	son, e -- le -- i -- son, %220
+	e -- le -- i -- son, e -- le -- i --
+	son, e -- le -- i --
+	son, e -- le -- i --
+	son, e --
+	le -- i -- son, %225
+	Ky -- ri -- e e --
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- _ _
+	_ _ _ _ %230
+	_ i -- son, e --
+	le -- i -- son,
+	e -- le -- i -- son,
+	e -- le -- i --
+	son, %235
+	
+	e -- le -- i -- son,
+	e -- le -- i -- son, e --
+	le -- i --
+	son, Ky -- ri -- %240
+	e e -- le -- i -- son,
+	e -- le -- i -- son,
+	e -- le -- _
+	i -- son, e -- le -- i --
+	son, e -- le -- i -- %245
+	son, e -- le -- i --
+	son, e -- le --
+	i -- son, e --
+	le -- _
+	_ _ i -- %250
+	son. %251 FINIS
 }
 
 % SopranoNotes = {
