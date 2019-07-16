@@ -93,12 +93,24 @@ KyrieIITenoreNotes = {
 		\clef "treble_8"
 		\key e \minor \time 4/4 \autoBeamOff \tempoKyrieII
 			\set Score.currentBarNumber = #183
-		
+		\mvTr d4\fE^\tuttiE d8 d d4. d8
+		dis4 r\fermata e e8 e
+		fis4. fis8 eis4 eis %185
+		fis2 e
+		dis e~
+		\once \tieDashed e~ e4. e8 \noBreak
+		dis1\fermata \bar "||"
 	}
 }
 
 KyrieIITenoreLyrics = \lyricmode {
-	
+	[Ky -- rie e -- le -- i -- %183
+	son, Ky -- rie e --
+	le -- i -- son, e -- %185
+	le -- _
+	_ _
+	i --
+	son.]
 }
 
 % TenoreNotes = {

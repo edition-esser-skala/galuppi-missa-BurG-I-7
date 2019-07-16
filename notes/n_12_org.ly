@@ -395,11 +395,23 @@ KyrieIIOrgano = {
 		\key e \minor \time 4/4 \tempoKyrieII
 			\set Score.currentBarNumber = #183
 		\mvTr g'4\fE-\tuttiE g8 g fis4 fis8 fis
+		fis4 r\fermata e e8 e
+		d4 d8 d cis4 cis %185
+		cis? cis c c
+		h h h h
+		h h h h \noBreak
+		h1\fermata \bar "||"
 	}
 }
 
 KyrieIIBassFigures = \figuremode {
-	
+	r2 <6 4 2> %183
+	<6+ 5! 3> <5>
+	<6> <7 5+ _+> %185
+	<6 4> <6 4+ _!>
+	<7 5 _+> <6! 4>
+	<7+ 6 4> <5 4>
+	<5 _+>1
 }
 
 % Organo = {

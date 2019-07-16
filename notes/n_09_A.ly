@@ -217,12 +217,24 @@ KyrieIIAltoNotes = {
 		\clef treble
 		\key e \minor \time 4/4 \autoBeamOff \tempoKyrieII
 			\set Score.currentBarNumber = #183
-		
+		\mvTr g'4\fE^\tuttiE g8 g d4. h'8
+		a4 r\fermata g g8 g
+		fis4. fis8 gis4 gis %185
+		fis1~
+		fis2 g!~
+		g fis4. fis8 \noBreak
+		fis1\fermata \bar "||"
 	}
 }
 
 KyrieIIAltoLyrics = \lyricmode {
-	
+	[Ky -- rie e -- le -- i -- %183
+	son, Ky -- rie e --
+	le -- i -- son, e -- %185
+	le --
+	_
+	_ i --
+	son.]
 }
 
 % AltoNotes = {

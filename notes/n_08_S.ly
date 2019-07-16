@@ -235,12 +235,24 @@ KyrieIISopranoNotes = {
 		\clef treble
 		\key e \minor \time 4/4 \autoBeamOff \tempoKyrieII
 			\set Score.currentBarNumber = #183
-		
+		\mvTr h'4\fE^\tuttiE h8 h h4 h
+		c! r\fermata h h8 h
+		h4. h8 h4 h %185
+		a1~
+		a2 g!4 h
+		ais2 h4. h8 \noBreak
+		h1\fermata \bar "||"
 	}
 }
 
 KyrieIISopranoLyrics = \lyricmode {
-	
+	[Ky -- rie e -- le -- i -- %183
+	son, Ky -- rie e --
+	le -- i -- son, e -- %185
+	le --
+	_ _
+	_ _ i --
+	son.]
 }
 
 % SopranoNotes = {

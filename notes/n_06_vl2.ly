@@ -206,6 +206,12 @@ KyrieIIViolinoII = {
 		\clef treble
 		\key e \minor \time 4/4 \tempoKyrieII
 			\set Score.currentBarNumber = #183
-		
+		h'4\fE h8 h h4 h
+		c! r\fermata h h8 h
+		h4 h h h %185
+		a a e'! e
+		dis dis e e
+		e e e2 \noBreak
+		dis1\fermata \bar "||"
 	}
 }

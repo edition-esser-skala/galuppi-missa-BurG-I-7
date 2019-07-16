@@ -236,12 +236,24 @@ KyrieIIBassoNotes = {
 		\clef bass
 		\key e \minor \time 4/4 \autoBeamOff \tempoKyrieII
 			\set Score.currentBarNumber = #183
-		
+		\mvTr g'4\fE^\tuttiE g8 g fis4. fis8
+		fis4 r\fermata e e8 e
+		d4. d8 cis4 cis %185
+		cis?2 c
+		h1~
+		\once \tieDashed h2~ h4. h8 \noBreak
+		h1\fermata \bar "||"
 	}
 }
 
 KyrieIIBassoLyrics = \lyricmode {
-	
+	Ky -- rie e -- le -- i -- %183
+	son, Ky -- rie e --
+	le -- i -- son, e -- %185
+	le -- _
+	_
+	i --
+	son.
 }
 
 % BassoNotes = {
