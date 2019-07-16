@@ -389,6 +389,19 @@ ChristeBassFigures = \figuremode {
 	r4. %182 finis
 }
 
+KyrieIIOrgano = {
+	\relative c {
+		\clef bass
+		\key e \minor \time 4/4 \tempoKyrieII
+			\set Score.currentBarNumber = #183
+		\mvTr g'4\fE-\tuttiE g8 g fis4 fis8 fis
+	}
+}
+
+KyrieIIBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

@@ -193,6 +193,8 @@ tempoMarkup =
 
 tempoKyrie = \tempoMarkup "Moderato"
 tempoChriste = \tempoMarkup "Allegro"
+tempoKyrieII = \tempoMarkup "Adagio"
+	tempoKyrieIIFuga = \tempoMarkup "Allegro moderato"
 
 
 

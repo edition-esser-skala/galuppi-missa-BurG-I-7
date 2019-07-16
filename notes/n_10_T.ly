@@ -88,6 +88,19 @@ KyrieTenoreLyrics = \lyricmode {
 	_ i -- son. %39 finis
 }
 
+KyrieIITenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key e \minor \time 4/4 \autoBeamOff \tempoKyrieII
+			\set Score.currentBarNumber = #183
+		
+	}
+}
+
+KyrieIITenoreLyrics = \lyricmode {
+	
+}
+
 % TenoreNotes = {
 % 	\relative c' {
 % 		\clef "treble_8"
