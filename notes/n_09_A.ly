@@ -93,12 +93,123 @@ ChristeAltoNotes = {
 		\clef treble
 		\key g \major \time 3/8 \autoBeamOff \tempoChriste
 			\set Score.currentBarNumber = #48
-		
+		R4.*33 %80
+		\mvTr a'4.(\pE^\soloE
+		g)
+		fis
+		h,8([ g'16 fis e d)]
+		cis8([ a'16 g)] fis([ e)] %85
+		d4.
+		h'
+		a8 cis d
+		h32[( a g16)] fis8 e
+		d4. %90
+		R4.*8 %98
+		e4.(
+		fis) %100
+		g
+		e8[ a16 g fis e]
+		d8[ h'16 a g fis]
+		e4 fis8
+		g([ fis)] e %105
+		fis4.
+		g8[ h16 a g fis]
+		e4 fis8
+		g([ fis)] e
+		fis4. %110
+		R4.*15 %125
+		a4.(
+		g)\trill
+		fis
+		R4.*4 %132
+		r8 r a,
+		h[ g'16 fis e d]
+		cis8[ a'16 g] fis([ e)] %135
+		d4.
+		R4.*4 %140
+		r8 r g
+		g4 g8
+		\appoggiatura g fis4^\critnote a8
+		a([ h16 a)] g([ fis)]
+		g4 r8 %145
+		R4.
+		r8 r g
+		g([ a16 g)] fis([ e)]
+		fis4 r8
+		R4.*10 %159
+		a4. %160
+		g
+		a
+		h
+		c16([ a)] g8 fis
+		\appoggiatura fis4 g4. %165
+		a
+		g
+		a
+		h
+		c16([ a)] g8 fis %170
+		g4 r8
+		R4.*10 %181
+		R4.\fermataMarkup \bar "||" %182 finis
 	}
 }
 
 ChristeAltoLyrics = \lyricmode {
+	Chri -- %81
 	
+	ste
+	e --
+	le -- i -- %85
+	son,
+	e --
+	le -- i -- son,
+	e -- le -- i --
+	son. %90
+	
+	Chri -- %99
+	%100
+	ste
+	e --
+	_
+	_ _
+	le -- i -- %105
+	son,
+	e --
+	_ _
+	le -- i --
+	son. %110
+	
+	Chri -- %126
+	
+	ste
+	
+	e -- %133
+	le --
+	_ i -- %135
+	son,
+	
+	e -- %141
+	le -- i --
+	son, e --
+	le -- i --
+	son, %145
+	
+	e --
+	le -- i --
+	son,
+	
+	Chri -- %160
+	ste,
+	Chri --
+	ste,
+	e -- le -- i --
+	son, %165
+	Chri --
+	ste,
+	Chri --
+	ste,
+	e -- le -- i -- %170
+	son. %171 finis
 }
 
 % AltoNotes = {

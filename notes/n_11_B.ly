@@ -82,12 +82,153 @@ ChristeBassoNotes = {
 		\clef bass
 		\key g \major \time 3/8 \autoBeamOff \tempoChriste
 			\set Score.currentBarNumber = #48
-		
+		R4.*43 %90
+		\mvTr d'8\pE^\soloE h gis
+		a16 h c8 fis,
+		g16 a h8 h,
+		c4.
+		d %95
+		e8. fis16 g8
+		c,16([ e)] d8. d16
+		g4.
+		e8[( a16 g fis e])
+		d8[( h'16 a)] g([ fis]) %100
+		e4 g8
+		a4 g8
+		fis g4
+		a d,8
+		g[ a] a, %105
+		d4.
+		g4.
+		a4 d,8
+		g([ a)] a,
+		d4. %110
+		R4.*10 %120
+		d'8 h gis
+		a16. h32 c8 fis,
+		g!16. a32 h8 dis,
+		e16.([ fis32] g8) a
+		h4. %125
+		a8 fis dis
+		e16. fis32 g8 cis,
+		d16. e32 fis8 ais,
+		h16([ cis] d8) e
+		fis4 ais,8 %130
+		h[ g'16 fis e d]
+		cis8[ a'16 g] fis([ e)]
+		d4 fis8
+		g4.
+		a %135
+		h4 h,8
+		c!4.
+		d
+		e
+		c'8 a fis %140
+		g([ d e]
+		c4) cis8
+		d4 d8
+		dis4 dis8
+		e4 h'8 %145
+		fis4 gis8
+		a4 e8
+		h4 cis8
+		d4 a'8
+		e4 fis8 %150
+		g4 g8
+		h,[ g'16 fis e d]
+		c8[ a'16 g fis e]
+		d8[ h'16 a g fis]
+		e8[ c' fis,] %155
+		g16[ a h8 h,]
+		c4.
+		d4 d8
+		e4.
+		c'8 a fis %160
+		g8. g,16 g8
+		R4.*2
+		c8 d8. d16
+		g4. %165
+		c8 a fis
+		g8. g,16 g8
+		R4.*2
+		c8 d8. d16 %170
+		g,4 r8
+		R4.*10 %181
+		R4.\fermataMarkup \bar "||" %182 finis
 	}
 }
 
 ChristeBassoLyrics = \lyricmode {
+	Chri -- ste e -- %91
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le --
+	_ %95
+	_ i -- son,
+	e -- le -- i --
+	son,
+	e --
+	le -- i -- %100
+	son, e --
+	le -- _
+	_ _
+	_ _
+	_ i -- %105
+	son,
+	e --
+	_ _
+	le -- i --
+	son. %110
 	
+	Chri -- ste e -- %121
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- i --
+	son, %125
+	Chri -- ste e --
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- i --
+	son, e -- %130
+	le --
+	_ i --
+	son, e --
+	le --
+	i -- %135
+	son, e --
+	le --
+	i --
+	son,
+	Chri -- ste e -- %140
+	le --
+	i --
+	son, e --
+	le -- i --
+	son, e -- %145
+	le -- i --
+	son, e --
+	le -- i --
+	son, e --
+	le -- i -- %150
+	son, e --
+	le --
+	_
+	_
+	_ %155
+	_
+	_
+	_ i --
+	son,
+	Chri -- ste e -- %160
+	le -- i -- son,
+	
+	e -- le -- i -- %164
+	son, %165
+	Chri -- ste e --
+	le -- i -- son,
+	
+	e -- le -- i -- %170
+	son. %171 finis
 }
 
 % BassoNotes = {

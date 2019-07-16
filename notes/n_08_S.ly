@@ -93,12 +93,141 @@ ChristeSopranoNotes = {
 		\clef treble
 		\key g \major \time 3/8 \autoBeamOff \tempoChriste
 			\set Score.currentBarNumber = #48
-		
+		R4.*23 %70
+		\mvTr d'4.(\p^\soloE
+		c)
+		h
+		e,8([ c'16 h a g])
+		fis8([ d'16 c)] h([ a)] %75
+		g4.
+		e'
+		d8 fis g
+		e32([ d c16)] h8 a
+		g4. %80
+		R4.*17 %97
+		h4.(
+		cis)
+		d %100
+		e8[ g16 fis e d]
+		cis4.
+		d4 e16[ d]
+		cis4 d8
+		e([ d)] cis %105
+		d4.
+		e8[ g16 fis e d]
+		cis4 d8
+		e([ d)] cis
+		d4. %110
+		R4.*10 %120
+		d4.(
+		c!)
+		h
+		R4.*12 %135
+		r8 r d,
+		e[ c'16 h a g]
+		fis8[ d'16 c] h([ a)]
+		g4.
+		e' %140
+		d8 fis g
+		e16([ d)] c8 h
+		\appoggiatura h a4.
+		R
+		r8 r d %145
+		d([ e16 d)] c([ h)]
+		c4 r8
+		R4.
+		r8 r c!
+		c([ d16 c)] h([ a)] %150
+		h4.
+		R4.*2
+		d4.(
+		c)\trill %155
+		h
+		e,8[( c'16 h a g])
+		fis8([ d'16 c)] h([ a)]
+		g4.
+		c %160
+		h
+		fis'
+		g
+		e16([ c)] h8 a
+		\appoggiatura a4 h4. %165
+		c
+		h
+		fis'
+		g
+		e16([ c)] h8 a %170
+		g4 r8
+		R4.*10 %181
+		R4.\fermataMarkup \bar "||" %182 finis
 	}
 }
 
 ChristeSopranoLyrics = \lyricmode {
+	Chri -- %71
 	
+	ste
+	e --
+	le -- i -- %75
+	son,
+	e --
+	le -- i -- son,
+	e -- le -- i --
+	son. %80
+	
+	Chri -- %98
+	
+	ste %100
+	e --
+	_
+	_ _
+	_ _
+	le -- i -- %105
+	son,
+	e --
+	_ _
+	le -- i --
+	son. %110
+	
+	Chri -- %121
+	
+	ste,
+	
+	e -- %136
+	le --
+	_ i --
+	son,
+	e -- %140
+	le -- i -- son,
+	e -- le -- i --
+	son,
+	
+	e -- %145
+	le -- i --
+	son,
+	
+	e --
+	le -- i -- %150
+	son,
+	
+	Chri -- %154
+	%155
+	ste
+	e --
+	le -- i --
+	son,
+	Chri -- %160
+	ste,
+	Chri --
+	ste
+	e -- le -- i --
+	son, %165
+	Chri --
+	ste,
+	Chri --
+	ste
+	e -- le -- i -- %170
+	son. %171 finis
 }
 
 % SopranoNotes = {
