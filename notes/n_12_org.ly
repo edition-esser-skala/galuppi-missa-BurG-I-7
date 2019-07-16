@@ -401,6 +401,68 @@ KyrieIIOrgano = {
 		h h h h
 		h h h h \noBreak
 		h1\fermata \bar "||"
+		\clef "treble_8" \time 2/2 \tempoKyrieIIFuga e'4. e8 e4 e\noBreak %190
+		dis2 d
+		cis c
+		h4 e2 dis4
+		e8 g fis e d4 h
+		cis d8 e fis4. e8 %195
+		dis4 h e4. d8
+		cis4 a d d8 h
+		cis4 fis8 e d4 h
+		c2 a
+		h4 h8 a gis4 e %200
+		a a8 g fis4 d
+		g e \clef bass h'4. h8
+		h4 h ais2
+		a gis
+		g fis4 h~ %205
+		h ais h a
+		g e fis h
+		e,2 r8 d e fis
+		g2 r8 h, cis dis
+		e4 e e e %210
+		h' h gis gis
+		a a fis fis
+		g e a h8 a
+		g e g a h4 h,
+		e e fis fis %215
+		dis dis e e
+		cis cis d h
+		cis fis8 e dis4 h
+		e d c c
+		h2 r8 h cis dis %220
+		e4 e a a
+		a a gis2
+		g fis!
+		f e4 a~
+		a gis a8 c h a %225
+		g g a h c2
+		r8 fis, g a h2
+		r8 e, fis g a a, a'4~
+		a g fis h8 a
+		g e c'2 h4 %230
+		a a g f
+		e d c8 c d e
+		f4 f f f
+		f e d g
+		c, c a a' %235
+		h4. h8 h4 h
+		ais2 a
+		gis g
+		fis4 h2 a4
+		g g g g %240
+		fis2 r8 h, cis dis
+		e2 r8 a, h cis
+		d!2 g4 c
+		a h e, e
+		e e dis2 %245
+		d cis
+		c h
+		e ais,4\fermata \tempoKyrieIIFugaFinis ais
+		h2 h
+		h h %250
+		e1\fermata \bar "|." %251 FINIS
 	}
 }
 
@@ -412,6 +474,68 @@ KyrieIIBassFigures = \figuremode {
 	<7 5 _+> <6! 4>
 	<7+ 6 4> <5 4>
 	<5 _+>1
+	r %190
+	r
+	r
+	r
+	r2 <6>
+	<7>4 <6> <_+>2 %195
+	<5!>4 <7> <_+>2
+	r4 <7> r <6>
+	<7> <_+> <6>2
+	<5> <7>
+	<_+>2. <7>4 %200
+	<_+>2. <7>4
+	r2 <5 4>4 <\l _+>
+	<6 4 2+>2 <5>4 <6>
+	<6 4+ 2>2 <6>
+	<6 4+ 2> <6> %205
+	<4 _+>4 <7 5> <5 _+> <6 4+ 2>
+	<6> <5> <7> <_+>
+	r1
+	<6>
+	<_!> %210
+	<_+>2 <7 5!>
+	<_+> <7 5!>
+	<9>4 <5> <6 5> <_+>
+	<6>2 <_!>
+	<7 _!> <5+ _+> %215
+	<7! 5> <_+>
+	<7 5!> <9>
+	<7>4 <_+> <6 5>2
+	r4 <6> <7> <6>
+	<_+>1 %220
+	<_+>2 <_!>
+	<6! 5> <5>
+	<6 5> <5>
+	<6 5> <7 _+>
+	<6 4 2>4 <6 5> r2 %225
+	<6> <7>
+	r8 <6+ 5>4. <_!>2
+	r8 <6+ 5>4. <_!>2
+	<6 4+ 2>4 <6> <7> <5 _+>
+	<6> <5 3> <6 4! 2> <_!> %230
+	<7> <6> <5> <6 4 2>
+	<6> <6 _!> r2
+	r1
+	<6 4 2>4 <5> <7 _!> <7!>
+	r1 %235
+	<_+>2 <_!>
+	r <6>
+	<6> <6>
+	<7>4 <3> <6 4 2+> <6 4+>
+	<6>1 %240
+	<_+>2 r8 <_+>4.
+	<_+>2 r8 <_+>4.
+	<_!>1
+	<6 5>4 <5 _+> <5 3>2
+	<6!> <6> %245
+	<6>1
+	<6>2 <_+>
+	r <7 5 _+>
+	<5 _+> <6 4>
+	<[5] 4> <\l _+> %250
+	<[_+]>1 %251 FINIS
 }
 
 % Organo = {
