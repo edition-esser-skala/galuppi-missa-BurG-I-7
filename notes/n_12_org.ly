@@ -194,7 +194,7 @@ ChristeOrgano = {
 		dis\p fis h,
 		e cis a
 		d! d, fis
-		h h h
+		h h g-\critnote
 		fis fis fis %130
 		h h h
 		a! a a
@@ -333,8 +333,8 @@ ChristeBassFigures = \figuremode {
 	<[6]>8 <[6\\]> <[_+]>
 	r <[5]> <[7 _+]>
 	r4 <[7 5+] _+>8
-	r4.
-	<[5+ _+]> %130
+	r4 <[6]>8
+	<[5+ _+]>4. %130
 	r8 <[6]>4
 	<_+>4.
 	r
