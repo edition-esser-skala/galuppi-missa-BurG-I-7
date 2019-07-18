@@ -214,6 +214,68 @@ KyrieIIViola = {
 		a a g! h
 		ais ais h h, \noBreak
 		h1\fermata \bar "||"
-		\clef "treble_8" \time 2/2 \tempoKyrieIIFuga
+		\time 2/2 \tempoKyrieIIFuga
+			e4. e8 e4 e \noBreak %190
+		dis2 d
+		cis c
+		h4 e e dis
+		e8 g fis e d4 h
+		cis d8 e fis4 fis8 e %195
+		dis4 h e4 e8 d
+		cis4 a d4 d8 h
+		cis4 fis8 e d4 h
+		c! c a a
+		h4 h'8 a8 gis4 e %200
+		a a8 g fis4 d
+		g e h' h,
+		cis cis cis cis
+		h h h h
+		a a a h %205
+		cis cis dis dis
+		e g fis fis
+		e2 r
+		R1
+		e4. e8 e4 e %210
+		dis2 d
+		cis c
+		h4 h c h
+		h2 r
+		r8 g' h g fis2 %215
+		r8 fis a! fis gis2
+		r8 e g e fis4 fis
+		e e fis dis
+		e fis e e
+		fis2 fis4 fis %220
+		e e e e
+		c c d d
+		h h c c
+		a a h c
+		d d c c %225
+		g' g r8 e g e
+		fis2 r8 d! fis d
+		e2 r8 c! e c
+		fis,4 g c8 a h4
+		h c a d %230
+		e c d d
+		e f g g
+		f a a,8 a h c
+		d4 e a d,
+		e4. e8 e4 e %235
+		dis2 d
+		cis c
+		h h4 h
+		cis d g fis
+		g2 r8 h, d h %240
+		cis cis ais? cis dis2
+		r8 h' e, gis a!2
+		r8 a d,! fis g4 e
+		a, h h g'
+		g g fis h, %245
+		fis' d! a a
+		e' e fis fis
+		e h cis\fermata \tempoKyrieIIFugaFinis cis
+		h2 h
+		h h4 a %250
+		gis?1\fermata \bar "|." %251 FINIS
 	}
 }
