@@ -132,7 +132,7 @@ KyrieIITenoreNotes = {
 		cis2 dis
 		e4 fis e4. e8
 		dis2 r8 dis e fis %220
-		h, h c d c2
+		h, h c! d c2
 		c h~
 		h a~
 		a gis4 a

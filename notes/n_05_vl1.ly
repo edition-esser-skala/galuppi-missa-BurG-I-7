@@ -214,6 +214,66 @@ KyrieIIViolinoI = {
 		fis fis g! g
 		g g fis2 \noBreak
 		fis1\fermata \bar "||"
+		\time 2/2 \tempoKyrieIIFuga
+			R1*4 %193
+		r2 h4. h8
+		h4 h ais2 %195
+		a gis
+		g fis4 h~
+		h ais h2
+		g g4 g
+		fis g8 a h4 gis %200
+		a e a fis
+		g!2 fis4 h8 a
+		g2 fis~
+		fis e~
+		e^\critnote a4 fis %205
+		e g fis2
+		e4 e e dis
+		e2 r8 fis g a
+		h2 r8 dis, e fis
+		g2 r8 e g e %210
+		fis2 r8 h, d h
+		cis?2 r8 a c? a
+		h4 e e dis
+		e r h'4. h8
+		h4 h ais2 %215
+		a gis
+		g fis4 h~
+		h a!2 h8 a
+		g4 fis g e
+		dis8 fis g a h2 %220
+		r8 gis, a h c! c d e
+		f2 r8 h, c d
+		e2 r8 a, h c
+		d2. c4
+		h h c c8 d %225
+		e4. e8 e4 e
+		dis2 d
+		cis c
+		h4 h a' fis
+		g g fis \once \tieDashed g~ %230
+		g fis g g
+		g f e8 e f g
+		a2. a4
+		g g f f
+		e8 g a h c2 %235
+		r8 fis,! g a h2
+		r8 cis, d e fis2
+		r8 h, cis d e4 e8 h'
+		ais4 h cis, dis
+		e2 e4. e8 %240
+		e4 e dis2
+		r4 d cis2
+		r4 c h e~
+		e dis e8 g, a h
+		c2 r8 fis, g a %245
+		h2 r8 e, fis g
+		a4 e' dis2
+		e4. e8 e4\fermata \tempoKyrieIIFugaFinis e
+		dis2 e~
+		e4 dis8 cis dis4.\trill dis8 %250
+		e1\fermata \bar "|." %251 FINIS
 	}
 }
 

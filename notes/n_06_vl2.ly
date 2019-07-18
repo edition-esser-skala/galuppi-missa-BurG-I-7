@@ -214,5 +214,59 @@ KyrieIIViolinoII = {
 		dis dis e e
 		e e e2 \noBreak
 		dis1\fermata \bar "||"
+			R1*9 %198
+		e4. e8 e4 e
+		dis2 d %200
+		cis c
+		h4 e2 dis4
+		e2. fis8 e
+		dis4 h e4 e8 d
+		cis4 a d2 %205
+		cis4 e dis h
+		h g a a
+		g8 g a h c2
+		r8 e fis g a2
+		r8 g, a h c2 %210
+		r8 fis, g a h2
+		r8 e, fis g a2~
+		a4 g fis fis
+		g2 r8 d'! e fis
+		g2 r8 cis, d e %215
+		fis2 r8 h, cis d
+		e2. d4
+		e cis \once \tieDashed h2~
+		h8 g h4 h' a
+		h2 r8 dis, e fis %220
+		gis h, c! d c2
+		r8 a c a h2
+		r8 g! h g a2
+		r4 a' gis a
+		h e, e e %225
+		h r h2
+		a fis
+		g e4 e'
+		dis e e dis
+		e e d d %230
+		c c h h
+		c h c c
+		c8 a h c d4 a
+		h c c h
+		c2 r8 e a g %235
+		fis2 r8 h, d! h
+		cis2 r8 a c a
+		d2 r8 e h' e,
+		e4 d e fis
+		h,4. h8 h4 h %240
+		ais2 r4 a?
+		gis2 r4 g?
+		fis a g g
+		c fis, g2
+		r8 e' g e fis2 %245
+		r8 d! fis d e2
+		r8 a, c! a h4 fis
+		g4. g8 g4\fermata \tempoKyrieIIFugaFinis e
+		fis2 g
+		fis fis\trill %250
+		gis?1\fermata \bar "|." %251 FINIS
 	}
 }

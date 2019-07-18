@@ -268,7 +268,7 @@ KyrieIISopranoNotes = {
 		h8 fis g a h2 %220
 		r8 gis a h c! c d e
 		f2 r8 h, c d
-		e2 r8 a, h cis
+		e2 r8 a, h c
 		d2. c4
 		h h c2 %225
 		e4. e8 e4 e4

@@ -233,7 +233,7 @@ KyrieIIAltoNotes = {
 		g1
 		fis4 g8[ a] h4 gis %200
 		a e a fis
-		g2 fis4 h8[ a]
+		g!2 fis4 h8[ a]
 		g2 fis~
 		fis e~
 		e a4 fis %205

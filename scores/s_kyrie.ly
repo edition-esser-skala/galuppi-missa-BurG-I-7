@@ -192,7 +192,7 @@
 				}
 			>>
 			\layout { }
-			\midi { \tempo 4 = 40 }
+			\midi { \tempo 2 = 60 }
 		}
 	}
 }
