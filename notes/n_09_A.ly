@@ -315,7 +315,7 @@ KyrieIIAltoLyrics = \lyricmode {
 	le --
 	_
 	_ _ _ i --
-	son, Ky -- ri --
+	son. Ky -- ri --
 	e e -- le -- i -- son, %215
 	e -- le -- i -- son,
 	e -- le -- _
@@ -339,7 +339,7 @@ KyrieIIAltoLyrics = \lyricmode {
 	son, %235
 	e -- le -- i -- son, e --
 	le -- i --
-	son,
+	son.
 	
 	Ky -- ri -- e e -- %240
 	le -- i -- son, e --

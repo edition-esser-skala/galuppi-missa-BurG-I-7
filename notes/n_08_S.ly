@@ -335,7 +335,7 @@ KyrieIISopranoLyrics = \lyricmode {
 	son, e -- le -- i --
 	son, e -- le -- i --
 	son, e --
-	le -- i -- son, %225
+	le -- i -- son. %225
 	Ky -- ri -- e e --
 	le -- i -- son, e --
 	le -- i -- son, e --
@@ -350,7 +350,7 @@ KyrieIISopranoLyrics = \lyricmode {
 	e -- le -- i -- son,
 	e -- le -- i -- son, e --
 	le -- i --
-	son, Ky -- ri -- %240
+	son. Ky -- ri -- %240
 	e e -- le -- i -- son,
 	e -- le -- i -- son,
 	e -- le -- _

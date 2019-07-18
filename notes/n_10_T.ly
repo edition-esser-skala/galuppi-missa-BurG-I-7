@@ -192,7 +192,7 @@ KyrieIITenoreLyrics = \lyricmode {
 	_ _ %205
 	_ _
 	_ i --
-	son,
+	son.
 	
 	Ky -- ri -- e e -- %210
 	le -- i -- son, e --
@@ -218,7 +218,7 @@ KyrieIITenoreLyrics = \lyricmode {
 	_ i -- son, e --
 	le -- i -- son, e --
 	le -- i -- son, e -- le -- i --
-	son, e -- le -- i -- son,
+	son, e -- le -- i -- son.
 	Ky -- ri -- e e -- %235
 	le -- i -- son, e --
 	le -- i -- son, e --

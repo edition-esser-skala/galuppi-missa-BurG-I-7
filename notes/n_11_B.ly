@@ -243,7 +243,57 @@ KyrieIIBassoNotes = {
 		h1~
 		\once \tieDashed h2~ h4. h8 \noBreak
 		h1\fermata \bar "||"
-		\time 2/2 \tempoKyrieIIFuga
+		\time 2/2 \tempoKyrieIIFuga R1*12 %201
+		r2 h'4. h8
+		h4 h ais8 ais ais4
+		r a gis8 gis gis4
+		r g fis h~ %205
+		h ais h a
+		g( e fis) h
+		e,2 r8 d e fis
+		g2 r8 h, cis dis
+		e2 e %210
+		h' gis
+		a fis
+		g!4 e a h8[ a]
+		g[ e g a] h4 h,
+		e2 fis %215
+		dis e
+		cis d4 h
+		cis fis8[ e] dis4 h
+		e d c c
+		h2 r8 h cis dis %220
+		e2 a4. a8
+		a4 a gis8 gis gis4
+		r g fis!8 fis fis4
+		r f e a~
+		a gis a8 c h a %225
+		g g a h c2
+		r8 fis, g a h2
+		r8 e, fis g a2~
+		a4 g fis h8[ a]
+		g[ e] c'2 h4 %230
+		a a g f
+		e d c8 c d e
+		f2. f4
+		f( e d) g
+		c,2 r %235
+		h'4. h8 h4 h
+		ais8 ais ais4 r a
+		gis8 gis gis4 r g
+		fis h2 a4
+		g2. g4 %240
+		fis2 r8 h, cis dis
+		e2 r8 a, h cis
+		d!2 r
+		r e4. e8
+		e4 e dis8 dis dis4 %245
+		r d cis8 cis cis4
+		r c h2(
+		e4.) e8 ais,4\fermata \tempoKyrieIIFugaFinis ais
+		h1~
+		h2. h4 %250
+		e1\fermata \bar "|." %251 FINIS
 	}
 }
 
@@ -253,6 +303,57 @@ KyrieIIBassoLyrics = \lyricmode {
 	le -- i -- son, e -- %185
 	le -- _
 	_
+	i --
+	son.
+	
+	Ky -- ri -- %202
+	e e -- le -- i -- son,
+	e -- le -- i -- son,
+	e -- le -- _ %205
+	i -- son, e --
+	le -- i --
+	son, e -- le -- i --
+	son, e -- le -- i --
+	son, e -- %210
+	le -- _
+	_ _
+	_ _ _ _
+	_ _ _
+	_ _ %215
+	_ _
+	_ _ _
+	_ _ _ _
+	_ _ _ i --
+	son, e -- le -- i -- %220
+	son. Ky -- ri --
+	e e -- le -- i -- son,
+	e -- le -- i -- son,
+	e -- le -- _
+	i -- son, e -- le -- i -- %225
+	son, e -- le -- i -- son,
+	e -- le -- i -- son,
+	e -- le -- i -- son, __
+	e -- le -- _
+	_ _ _ %230
+	_ i -- son, e --
+	le -- i -- son, e -- le -- i --
+	son, e --
+	le -- i --
+	son. %235
+	Ky -- ri -- e e --
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- _ _
+	_ i -- %240
+	son, e -- le -- i --
+	son, e -- le -- i --
+	son.
+	Ky -- ri --
+	e e -- le -- i -- son,
+	e -- le -- i -- son,
+	e -- le --
+	i -- son, e --
+	le --
 	i --
 	son.
 }

@@ -425,7 +425,7 @@ KyrieIIOrgano = {
 		e4 e e e %210
 		h' h gis gis
 		a a fis fis
-		g e a h8 a
+		g! e a h8 a
 		g e g a h4 h,
 		e e fis fis %215
 		dis dis e e
@@ -455,8 +455,8 @@ KyrieIIOrgano = {
 		g g g g %240
 		fis2 r8 h, cis dis
 		e2 r8 a, h cis
-		d!2 g4 c
-		a h e, e
+		d!2 \clef "treble_8" g4 c
+		a h \clef bass e, e
 		e e dis2 %245
 		d cis
 		c h
