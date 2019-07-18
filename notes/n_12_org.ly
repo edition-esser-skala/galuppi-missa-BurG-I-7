@@ -543,12 +543,268 @@ GloriaOrgano = {
 	\relative c {
 		\clef bass
 		\key f \major \time 3/4 \tempoGloria
-		f'4 f,8 f'16 e f8 f
+		\mvTr f'4\fE-\tuttiE f,8 f'16 e f8 f
+		f f, f f' f e
+		d4 d,8 d'16 c d8 d
+		d d, d d' d c
+		b4 b,8 b'16 a b8 b %5
+		b b, b b' a g
+		f e f g a b
+		c4 c, r
+		c' c, r
+		c' c, r %10
+		c' c, r
+		r8 c'16 h c8 c, c c'
+		d, c'16 h? c8 d, d c'
+		e, c'16 h? c8 e, e c'
+		f, c'16 h? c8 f, f c' %15
+		c,\p c'16 h? c8 c, c c'
+		d, c'16 h? c8 d, d c'
+		e, c'16 h? c8 e, e c'
+		f,4\f r r
+		b r r %20
+		a r r
+		g c d
+		b c c,
+		f\p r r
+		b r r %25
+		a r r
+		g c d
+		b c c,
+		f r r
+		r8 f16\f e f8 c c f, %30
+		f4 r r
+		f'' f,8 f'16 e f8 f
+		f f, f f' f e
+		d4 d,8 d'16 c d8 d
+		d d, d d' d c %35
+		b4 b,8 b'16 a b8 b
+		b b, b b' a g
+		f e f g a b
+		c4 c, r
+		c' c, r %40
+		c' c, r
+		c' c, r
+		c' c, c
+		c r r
+		r8 c'16 h? c8 c, c c' %45
+		d, c'16 h? c8 d, d c'
+		e, c'16 h? c8 e, e c'
+		f, c'16 h? c8 f, f c'
+		c,\p c'16 h? c8 c, c c'
+		d, c'16 h? c8 d, d c' %50
+		e, c'16 h? c8 e, e c'
+		f,4\f r r
+		r g b
+		c c, r
+		r f a %55
+		b b, r
+		r e g
+		a a, r
+		r d f
+		g g, g' %60
+		c, c r
+		f f f
+		e e e
+		d g a
+		f g g, %65
+		c c c
+		f\p f f
+		e e e
+		d g a
+		h2\fE c4~ %70
+		c g2
+		c,4 r r
+		c4. c8( f fis)
+		g4\p g, r
+		g' g, r %75
+		g' g, r
+		g' g, r
+		g' g, r
+		r8 g'16 f g8 g, g g'
+		a, g'16 f g8 a, a g' %80
+		h, g'16 f g8 h, h g'
+		c,4. c8 c4
+		R2.
+		r8 a'16 g a8 a, a a'
+		h, a'16 g a8 h, h a' %85
+		cis, a'16 g a8 cis, cis a'
+		d,4. d8 d4
+		d d r8 d
+		g,4 g r8 g'
+		c,4 c r8 c' %90
+		f,4 f r8 f
+		b,4 b r8 b'
+		g4 e r8 e
+		a,4 a r8 a
+		d4 d r %95
+		r8 d'16 c d8 d, d d'
+		e, d'16 c d8 e, e d'
+		fis, d'16 c d8 fis, fis d'
+		g,4. g,8 g4
+		R2.*4 %103
+		r8 c'16 b c8 c, c c'
+		d, c'16 b c8 d, d c' %105
+		e, c'16 b c8 e, e c'
+		f,4 f, r
+		r g' b
+		c c, r
+		r f a %110
+		b b, r
+		r e g
+		a a, r
+		r d f
+		g g, r %115
+		r c e
+		f f, r
+		b' b b
+		a a a
+		g c d %120
+		b c c,
+		f r r
+		b\p b b
+		a a a
+		g c d %125
+		b c2
+		d8 c b\fE a g f
+		e4 e f~
+		f c c
+		f r r %130
+		r8 f16 e f8 c c a
+		f4 r r\fermata \bar "||" %132 finis
 	}
 }
 
 GloriaBassFigures = \figuremode {
-	
+	r2.
+	r
+	r
+	r
+	r %5
+	r
+	r
+	r
+	r
+	r %10
+	r
+	r
+	r
+	r
+	r %15
+	r
+	r
+	r
+	r
+	r %20
+	r
+	r4 <7>2
+	r4 <5 4> <\l 3>
+	r2.
+	r %25
+	r
+	r4 <7>2
+	r4 <5 4> <\l 3>
+	r2.
+	r %30
+	r
+	r
+	r
+	r
+	r %35
+	r
+	r
+	r
+	r
+	r %40
+	r
+	r
+	r
+	r
+	r %45
+	r
+	r
+	r
+	r
+	r %50
+	r
+	r
+	r
+	<7>
+	r %55
+	r
+	r
+	r
+	r
+	<_!> %60
+	r
+	r
+	<6>
+	r4 <_!> <5>
+	<7 5> <_!>2 %65
+	r2.
+	r
+	<6>
+	r4 <7!> <5>
+	<6 5>2. %70
+	r4 <_!>2
+	r2.
+	r
+	r
+	r %75
+	r
+	r
+	r
+	r
+	r %80
+	r
+	r
+	r
+	r
+	r %85
+	r
+	r
+	r
+	r
+	r %90
+	r
+	r
+	r
+	r
+	r %95
+	r
+	r
+	r
+	r
+	r2.*4 %103
+	r2.
+	r %105
+	r
+	r
+	r
+	r
+	r %110
+	r
+	r
+	r
+	r
+	r %115
+	r
+	r
+	r
+	r
+	r %120
+	r
+	r
+	r
+	r
+	r %125
+	r
+	r
+	r
+	r
+	r %130
+	r
+	r %132 finis
 }
 
 % Organo = {
