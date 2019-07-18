@@ -364,7 +364,7 @@ GloriaAltoNotes = {
 }
 
 GloriaAltoLyrics = \lyricmode {
-	
+% 	glo -- ri -- a in ex -- cel -- sis De -- o
 }
 
 % AltoNotes = {

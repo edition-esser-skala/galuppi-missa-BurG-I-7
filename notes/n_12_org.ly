@@ -616,12 +616,12 @@ GloriaOrgano = {
 		c g2
 		c,4 r r
 		c4. c8( f fis)
-		g4\p g, r
+		\mvTr g4\p-\soloE g, r
 		g' g, r %75
 		g' g, r
 		g' g, r
 		g' g, r
-		r8 g'16 f g8 g, g g'
+		r8 \mvTr g'16\fE-\tuttiE f g8 g, g g'
 		a, g'16 f g8 a, a g' %80
 		h, g'16 f g8 h, h g'
 		c,4. c8 c4

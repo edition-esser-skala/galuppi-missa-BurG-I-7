@@ -368,12 +368,197 @@ GloriaSopranoNotes = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 3/4 \autoBeamOff \tempoGloria
-		
+		R2.*31 %31
+		\mvTr c'4.\fE^\tuttiE c8 c4
+		R2.
+		d4. d8 d4
+		R2. %35
+		d4. d8 d4
+		r r8 d([ c)] b
+		c2 f4
+		e e r
+		R2.*4 %43
+		r4 c c
+		c2.~ %45
+		c
+		c~
+		c
+		c~\pE
+		c~ %50
+		c
+		c4 r r
+		r d\fE d
+		e2.~
+		e8[ d16 e] f8[ e d c] %55
+		d2.~
+		d8[ c16 d] e8[ d c b]
+		c2.~
+		c8[ h16 c] d8[ c h a]
+		h2 h4 %60
+		c c r
+		c2.
+		c
+		d2 c4~
+		c h2 %65
+		c4 r r
+		c2.\p
+		c
+		f2 e4
+		d2\f c4~ %70
+		c h2
+		c4 r r
+		R2.*2
+		r8 \mvTr g'16[\pE^\solo fis] g8 d4 e8 %75
+		d8[ h16 a] h8 h4 c8
+		h g'16([ fis] g8 d4) e8
+		d4 r r
+		\mvTr h8.\fE^\tutti h16 h4 r
+		c8. c16 c4 r %80
+		d8. d16 d4 r
+		c4. c8 c4
+		R2.
+		cis8. cis16 cis4 r
+		d8. d16 d4 r %85
+		e8. e16 e4 r
+		d4. d8 d4
+		R2.*2
+		r4 c e %90
+		f f, r
+		r b d
+		e e, r
+		r e e'
+		d a r %95
+		d8. d16 d4 r
+		c8. c16 c4 r
+		c8. c16 c4 r
+		h4. h8 h4
+		R2.*3 %102
+		r4 c c
+		c2.
+		c
+		c
+		c4 r r
+		r d d
+		e2.~
+		e8[ d16 e] f8[ e d c]
+		d2.~
+		d8[ c16 d] e8[ d c b]
+		c2.~
+		c8[ b16 c] d8[ c b a]
+		b2.~
+		b8[ a16 b] c8[ b a g]
+		a4 a r
+		b2.
+		c
+		b2 a4
+		d( c2)
+		c4 r r
+		b2.\p
+		c
+		b2 a4
+		d( c2)
+		a4 b\f b
+		b2 a4~
+		a g2
+		a4 r r
+		R2.
+		R\fermataMarkup \bar "||"
 	}
 }
 
 GloriaSopranoLyrics = \lyricmode {
+	[Glo -- ri -- a, %32
 	
+	glo -- ri -- a,
+	%35
+	glo -- ri -- a
+	
+	in ex --
+	cel -- sis
+	De -- o,] %40
+	
+	in ex -- %44
+	cel -- %45
+	
+	sis __
+	
+	De --
+	
+	o, %52
+	in ex --
+	cel --
+	_ %55
+	_
+	_
+	_
+	_
+	_ sis %60
+	De -- o,
+	in
+	ex --
+	cel -- sis __
+	De -- %65
+	o,
+	in
+	ex --
+	cel -- sis
+	De -- _ %70
+	_
+	o.
+	
+	Glo -- _ _ _ %75
+	_ _ _ ri --
+	a, glo -- ri --
+	a,
+	glo -- ri -- a,
+	glo -- ri -- a, %80
+	glo -- ri -- a,
+	glo -- ri -- a,
+	
+	glo -- ri -- a,
+	glo -- ri -- a, %85
+	glo -- ri -- a,
+	glo -- ri -- a
+	
+	in ex -- %90
+	cel -- sis,
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis %95
+	glo -- ri -- a,
+	glo -- ri -- a,
+	glo -- ri -- a,
+	glo -- ri -- a
+	
+	in ex -- %103
+	cel --
+	sis %105
+	De --
+	o,
+	in ex --
+	cel --
+	_ %110
+	_
+	_
+	_
+	_
+	_ %115
+	_
+	_ sis,
+	[in
+	ex --
+	cel -- sis %120
+	De --
+	o,
+	in
+	ex --
+	cel -- sis %125
+	De --
+	o, in ex --
+	cel -- sis __
+	De --
+	o.] %130 finis
 }
 
 % SopranoNotes = {
