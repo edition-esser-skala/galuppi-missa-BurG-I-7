@@ -101,6 +101,68 @@ KyrieIITenoreNotes = {
 		\once \tieDashed e~ e4. e8 \noBreak
 		dis1\fermata \bar "||"
 		\time 2/2 \tempoKyrieIIFuga
+			e4. e8 e4 e \noBreak %190
+		dis8 dis dis4 r d
+		cis8 cis cis4 r c
+		h e2 dis4
+		e8[ g fis e] d4 h
+		cis d8[ e] fis4. e8 %195
+		dis4 h e4. d?8
+		cis4 a d4. h8
+		cis4 fis8[ e] d4 h
+		c!2 a
+		h4. a8 gis4 e %200
+		a4. g8 fis4 d
+		g e h'2
+		cis1
+		h
+		a2. h4 %205
+		cis2 dis
+		e2. dis4
+		e2 r
+		R1
+		e4. e8 e4 e %210
+		dis8 dis dis4 r d
+		cis8 cis cis4 r c
+		h( e2) dis4
+		e2 r8 d e fis
+		g2 r8 cis, d e %215
+		fis2 r8 h, cis d
+		e2. d4
+		cis2 dis
+		e4 fis e4. e8
+		dis2 r8 dis e fis %220
+		h, h c d c2
+		c h~
+		h a~
+		a gis4 a
+		h2 a %225
+		h e
+		c d!
+		h c!4 e
+		dis8[ fis] h,4 a h~
+		h c d2 %230
+		e4 c d d
+		c d g, c
+		c a a8 a h c
+		d4 e f8 f d4
+		e4. e8 e4 e %235
+		dis8 dis dis4 r d
+		cis8 cis cis4 r c
+		h2. e4~
+		e d cis dis
+		e2 r8 c d e %240
+		fis2 fis
+		h, a~
+		a g4 c
+		a h h2
+		g h~ %245
+		h4 fis a2~
+		a1
+		g4 h cis\fermata \tempoKyrieIIFugaFinis cis
+		h1~
+		h2. h4 %250
+		h1\fermata \bar "|." %251 FINIS
 	}
 }
 
@@ -112,6 +174,68 @@ KyrieIITenoreLyrics = \lyricmode {
 	_ _
 	i --
 	son.]
+	Ky -- ri -- e e -- %190
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- _ _
+	_ _ _
+	_ _ _ _ %195
+	_ _ _ _
+	_ _ _ _
+	_ _ _ _
+	_ _
+	_ _ _ _ %200
+	_ _ _ _
+	_ _ _
+	_
+	_
+	_ _ %205
+	_ _
+	_ i --
+	son,
+	
+	Ky -- ri -- e e -- %210
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- i --
+	son, e -- le -- i --
+	son, e -- le -- i -- %215
+	son, e -- le -- i --
+	son, e --
+	le -- _
+	_ _ _ i --
+	son, e -- le -- i -- %220
+	son, e -- le -- i -- son,
+	e -- le --
+	_
+	_ _
+	_ _ %225
+	_ _
+	_ _
+	_ _ _
+	_ _ _ _
+	_ _ %230
+	_ i -- son, e --
+	le -- i -- son, e --
+	le -- i -- son, e -- le -- i --
+	son, e -- le -- i -- son,
+	Ky -- ri -- e e -- %235
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- _
+	_ _ i --
+	son, e -- le -- i -- %240
+	son, e --
+	le -- _
+	_ _
+	_ i -- son,
+	e -- le -- %245
+	_ _
+	
+	_ i -- son, e --
+	le --
+	i -- %250
+	son. %251 FINIS
 }
 
 % TenoreNotes = {
