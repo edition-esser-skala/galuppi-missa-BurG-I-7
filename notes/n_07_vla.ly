@@ -95,7 +95,7 @@ ChristeViola = {
 		c c c
 		a fis' g
 		g d d
-		h16\f h' a g fis e %80
+		h16 h'\f a g fis e %80
 		d8\p d d
 		d g a
 		a g fis
@@ -105,7 +105,7 @@ ChristeViola = {
 		h h h
 		a a a
 		g fis e
-		fis16\f a d c! h a %90
+		fis16 a\f d c! h a %90
 		gis8\p gis d'
 		c! a a
 		g d d
@@ -140,7 +140,7 @@ ChristeViola = {
 		a a a
 		h h, dis
 		e g e
-		fis\f dis dis %125
+		fis dis\f dis %125
 		fis\p dis dis
 		e g g
 		fis fis ais
@@ -198,7 +198,6 @@ ChristeViola = {
 		g h, d %180
 		c16[ g'] g8 fis
 		g4.\fermata \bar "||" %182 finis
-		\time 2/2 \tempoKyrieIIFuga
 	}
 }
 
@@ -277,5 +276,13 @@ KyrieIIViola = {
 		h2 h
 		h h4 a %250
 		gis?1\fermata \bar "|." %251 FINIS
+	}
+}
+
+GloriaViola = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/4 \tempoGloria
+		
 	}
 }

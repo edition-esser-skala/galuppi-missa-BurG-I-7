@@ -4,3 +4,10 @@
 
 \version "2.18.0"
 
+GloriaTrombaII = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/4 \tempoGloria
+		
+	}
+}

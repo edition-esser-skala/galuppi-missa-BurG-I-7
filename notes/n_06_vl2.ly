@@ -95,7 +95,7 @@ ChristeViolinoII = {
 		e( fis g)
 		fis a g
 		e16[ c] h8 a
-		g16\f h a g fis e %80
+		g16 h\f a g fis e %80
 		d8~\p d16. cis'32 d16. fis,32
 		g16. d'32 e16. g,32 fis16. e32
 		fis8 g a
@@ -105,7 +105,7 @@ ChristeViolinoII = {
 		d g d
 		cis4 d8
 		h16[ d] d8 cis
-		d16\f a d c h a %90
+		d16 a\f d c h a %90
 		gis8\p gis gis
 		a c! c
 		h h h
@@ -140,7 +140,7 @@ ChristeViolinoII = {
 		c!8 a fis
 		g16[ a] h8 fis'
 		g16[ fis] e8 e\trill
-		dis16\f ais' h fis dis h %125
+		dis16 ais'\f h fis dis h %125
 		a'4\p fis8
 		g8 e e,
 		fis fis' cis
@@ -198,7 +198,6 @@ ChristeViolinoII = {
 		g8 g,4 %180
 		e'32([ d c16)] h8 a\trill
 		g16 d g4\fermata \bar "||" %182 finis
-		\time 2/2 \tempoKyrieIIFuga
 	}
 }
 
@@ -268,5 +267,13 @@ KyrieIIViolinoII = {
 		fis2 g
 		fis fis\trill %250
 		gis?1\fermata \bar "|." %251 FINIS
+	}
+}
+
+GloriaViolinoII = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/4 \tempoGloria
+		
 	}
 }

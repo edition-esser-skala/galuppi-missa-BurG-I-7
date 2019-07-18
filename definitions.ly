@@ -197,6 +197,7 @@ tempoKyrieII = \tempoMarkup "Adagio"
 	tempoKyrieIIFuga = \tempoMarkup "Allegro moderato"
 	tempoKyrieIIFugaFinis = \tempoMarkup "Adagio"
 
+tempoGloria = \tempoMarkup "[Tempo deest]"
 
 
 

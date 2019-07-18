@@ -145,7 +145,7 @@ ChristeOrgano = {
 		c c c
 		d c h
 		c d d,
-		g16\f h' a g fis e %80
+		g16 h'\f a g fis e %80
 		d8\p e fis
 		h, e cis
 		d e fis
@@ -155,7 +155,7 @@ ChristeOrgano = {
 		g g g
 		a g fis
 		g a a,
-		d16\f a' d c! h a %90
+		d16 a'\f d c! h a %90
 		gis8\p h e,
 		a, a' d,
 		g! d g,
@@ -190,7 +190,7 @@ ChristeOrgano = {
 		a a' d,
 		g4 h,8
 		e e c
-		h\fE h h %125
+		h h\fE h %125
 		dis\p fis h,
 		e cis a
 		d! d, fis
@@ -537,6 +537,18 @@ KyrieIIBassFigures = \figuremode {
 	<5 _+> <6 4>
 	<[5] 4> <\l _+> %250
 	<[_+]>1 %251 FINIS
+}
+
+GloriaOrgano = {
+	\relative c {
+		\clef bass
+		\key f \major \time 3/4 \tempoGloria
+		f'4 f,8 f'16 e f8 f
+	}
+}
+
+GloriaBassFigures = \figuremode {
+	
 }
 
 % Organo = {
