@@ -224,7 +224,65 @@ KyrieIIAltoNotes = {
 		fis2 g!~
 		g fis4. fis8 \noBreak
 		fis1\fermata \bar "||"
-		\time 2/2 \tempoKyrieIIFuga
+		\time 2/2 \tempoKyrieIIFuga R1*4 %193
+		r2 h4. h8
+		h4 h ais8 ais ais4 %195
+		r a gis8 gis gis4
+		r g fis h~
+		h ais h2
+		g1
+		fis4 g8[ a] h4 gis %200
+		a e a fis
+		g2 fis4 h8[ a]
+		g2 fis~
+		fis e~
+		e a4 fis %205
+		e g fis2
+		g fis4 fis
+		e2 r8 fis g a
+		h2 r8 dis, e fis
+		g2 g %210
+		fis1
+		e
+		d4 e c h
+		h2 h'4. h8
+		h4 h ais8 ais ais4 %215
+		r a gis8 gis gis4
+		r g fis h~
+		h a!2 h8[ a]
+		g4 fis g e
+		fis2 fis %220
+		e1~
+		e4 c d2~
+		d4 h c2~
+		c4 a h c
+		d2 e4. fis!8 %225
+		g1
+		a
+		g
+		fis4 g a fis
+		g e fis g~ %230
+		g fis g g
+		g f e8 e f g
+		a2. a4
+		g2( a4) g
+		g2 r %235
+		r8 fis! g a h4 fis
+		fis2 fis
+		e r
+		R1
+		h'4. h8 h4 h %240
+		ais8 ais ais4 r a
+		gis8 gis gis4 r g
+		fis2 g
+		fis g~
+		g fis~ %245
+		fis e~
+		e fis
+		g4. g8 g4\fermata \tempoKyrieIIFugaFinis e
+		fis2 g
+		fis2. fis4 %250
+		gis?1\fermata \bar "|." %251 FINIS
 	}
 }
 
@@ -236,6 +294,65 @@ KyrieIIAltoLyrics = \lyricmode {
 	_
 	_ i --
 	son.]
+	
+	Ky -- ri -- %194
+	e e -- le -- i -- son, %195
+	e -- le -- i -- son,
+	e -- le -- _
+	i -- son,
+	e --
+	le -- _ _ _ %200
+	_ _ _ _
+	_ _ _
+	_ _
+	_
+	_ _ %205
+	_ _ _
+	_ _ i --
+	son, e -- le -- i --
+	son, e -- le -- i --
+	son, e -- %210
+	le --
+	_
+	_ _ _ i --
+	son, Ky -- ri --
+	e e -- le -- i -- son, %215
+	e -- le -- i -- son,
+	e -- le -- _
+	_ _
+	_ _ _ i --
+	son, e -- %220
+	le --
+	_ _
+	_ _
+	_ _ _
+	_ _ _ %225
+	_
+	_
+	_
+	_ _ _ _
+	_ _ _ _ %230
+	i -- son, e --
+	le -- i -- son, e -- le -- i --
+	son, e --
+	le -- i --
+	son, %235
+	e -- le -- i -- son, e --
+	le -- i --
+	son,
+	
+	Ky -- ri -- e e -- %240
+	le -- i -- son, e --
+	le -- i -- son, e --
+	le -- _
+	_ _
+	_ %245
+	_
+	_
+	_ i -- son, e --
+	le -- _
+	_ i -- %250
+	son. %251 FINIS
 }
 
 % AltoNotes = {
