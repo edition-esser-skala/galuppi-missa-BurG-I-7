@@ -677,10 +677,10 @@ GloriaOrgano = {
 
 GloriaBassFigures = \figuremode {
 	r2.
-	r
-	r
-	r
-	r %5
+	r2 r8 <6>
+	r2.
+	r2 r8 <6>
+	r2. %5
 	r2 <6>8 q
 	r2.
 	r
@@ -708,10 +708,10 @@ GloriaBassFigures = \figuremode {
 	r %30
 	r
 	r
-	r
-	r
-	r %35
-	r
+	r2 r8 <6>
+	r2.
+	r2 r8 <6> %35
+	r2.
 	r2 <6>8 q
 	r2.
 	r

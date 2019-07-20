@@ -274,6 +274,137 @@ GloriaViolinoII = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 3/4 \tempoGloria
-		
+		c'4\fE a8 c c c
+		c a f c' c c
+		d4 d,8 a' a a
+		a f d a' a a
+		b4 f8 f f f %5
+		f d b f' a b
+		c4 a a
+		\kneeBeam g8 c'16 b c8 g g a
+		g e16 d e8 e e f
+		e c'16 b c8 g g a %10
+		g e16 d e8 e e f
+		e4 c r8 c
+		c4 c, r8 c'
+		c4 c, r8 c'
+		c4 c, r8 c'\p %15
+		c4 c, r8 c'
+		c4 c, r8 c'
+		c4 c, r8 c'
+		c8\f f16 e f8 f f f
+		d f16 e f8 f f f %20
+		c f16 e f8 f f f
+		d4 e f
+		f f e\trill
+		f8\p f16 e f8 f f f
+		d f16 e f8 f f f %25
+		c f16 e f8 f f f
+		d4 e f
+		f f e\trill
+		f8\f a,16 g a8 a a f
+		f4 r r %30
+		R2.
+		c'4 a8 c c c
+		c a f c' c c
+		d4 d,8 a' a a
+		a f d a' a a %35
+		b4 f8 f f f
+		f d b f' a b
+		c4 a a
+		g g r
+		r8 c'16 b c8 g g a %40
+		g e16 d e8 e e f
+		e c'16 b c8 g g a
+		g e16 d e8 e e f
+		e4 r r
+		c c, r8 c' %45
+		c4 c, r8 c'
+		c4 c, r8 c'
+		c4 c, r8 c'\p
+		c4 c, r8 c'
+		c4 c, r8 c' %50
+		c4 c, r8 c'\f
+		c4 r r
+		r8 d16 c d8 d, d d'
+		e4 e, r
+		r8 c'16 b c8 c, c c' %55
+		d4 d, r
+		r8 b'16 a b8 b, b b'
+		c4 c, r
+		r8 a'16 g a8 a, a a'
+		h4 h, r %60
+		c'8^\critnote c16 h c8 c c c
+		a c16 h? c8 c c c
+		g c16h? c8 c c c
+		a4 h c~
+		c h2\trill %65
+		c8 c16\p h c8 c c c
+		a c16 h c8 c c c
+		g c16 h c8 c c c
+		a4 h c
+		d2\f c4~ %70
+		c h2
+		c8 e16 d e8 f e d
+		c e16 d e8 e d c
+		h4 g r
+		g\p g, r %75
+		g' g, r
+		g' g, r
+		g' g, r
+		r8 g'16\fE f g8 g, g g'
+		a, g'16 f g8 a, a g' %80
+		h, g'16 f g8 h, h g'
+		c, d16 e f g a h c8 c
+		c4 r r
+		r8 a16 g a8 a, a a'
+		h, a'16 g a8 h, h a' %85
+		cis, a'16 g a8 cis, cis a'
+		d, e16 f g a h? cis d8 d
+		d4 r r
+		r8 d16 c d8 d, d d'
+		e4 e, r %90
+		r8 c'16 b c8 c, c c'
+		d4 d, r
+		r8 b'16 a g8 e g h
+		cis4 cis, r8 cis'
+		d4 d, r %95
+		d' d, r8 d'
+		d4 d, r8 d'
+		c4 c, r8 c'
+		h4. g8-\critnote g4
+		r8 g'16 f g8 g, g g' %100
+		a, g'16 f g8 a, a g'
+		h, g'16 f g8 h, h g'
+		c,4 r r
+		c c, r8 c'
+		c4 c, r8 c' %105
+		b4 b, r8 b'
+		a4 c r
+		r8 d16 c d8 d, d d'
+		e4 e, r
+		r8 c'16 b c8 c, c c' %110
+		d4 d, r
+		r8 b'16 a b8 b, b b'
+		c4 c, r
+		r8 a'16 g a8 a, a a'
+		b4 b, r %115
+		r8 g'16 f g8 g, g g'
+		a f'16 e f8 f f f
+		d f16 e f8 f f f
+		c f16 e f8 f f f
+		d4 e f %120
+		f f e\trill
+		f8 f16\p e f8 f f f
+		d f16 e f8 f f f
+		c f16 e f8 f f f
+		d4 e f~ %125
+		f f e\trillE
+		f f\f g
+		g2 f4~
+		f e2
+		f8 a,16 g a8 a a f %130
+		f4 r r
+		R2.\fermataMarkup \bar "||" %132 finis
 	}
 }
