@@ -456,10 +456,9 @@ GloriaAltoLyrics = \lyricmode {
 	glo -- ri -- a,
 	%35
 	glo -- ri -- a
-	
 	in ex --
 	cel -- sis
-	De -- o,] %40
+	De -- o,]
 	
 	in ex -- %52
 	cel --

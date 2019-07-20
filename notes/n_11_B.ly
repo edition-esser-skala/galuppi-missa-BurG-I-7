@@ -362,12 +362,171 @@ GloriaBassoNotes = {
 	\relative c {
 		\clef bass
 		\key f \major \time 3/4 \autoBeamOff \tempoGloria
-		
+		R2.*31 %31
+		\mvTr f4.\fE^\tutti f8 f4
+		R2.
+		d'4. d,8 d4
+		R2. %35
+		b'4. b8 b4
+		r r8 b([ a)] g
+		f([ e f g)] a([ b)]
+		c4 c, r
+		R2.*13 %52
+		r4 g' b
+		c c, r
+		r f a %55
+		b b, r
+		r e g
+		a a, r
+		r d f
+		g( g,) g' %60
+		c c, r
+		f2.
+		e
+		d4( g) a
+		f( g2)
+		c,4 r r
+		f2.\p
+		e
+		d4( g) a
+		h2\f c4~
+		c g2
+		c,4 r r
+		R2.*6
+		g'8. g16 g4 r
+		a8. a16 a4 r
+		h8. h16 h4 r
+		c4. c,8 c4
+		R2.
+		a'8. a16 a4 r
+		h8. h16 h4 r
+		cis8. cis16 cis4 r
+		d4. d,8 d4
+		r a' a
+		b2.~
+		b8[ a16 b] c8[ b a g]
+		a2.~
+		a8[ g16 a] b8[ a g f]
+		g2.~
+		g8[ f16 g] a8[ g f e]
+		f4 d r
+		d8. d16 d4 r
+		e8. e16 e4 r
+		fis8. fis16 fis4 r
+		g4. g8 g4
+		R2.*4
+		c,8. c16 c4 r
+		d8. d16 d4 r
+		e8. e16 e4 e8 e
+		f4 f r
+		r g b
+		c c, r
+		r f a
+		b b, r
+		r e g
+		a a, r
+		r d f
+		g g, r
+		r c e
+		f f, r
+		b'2.
+		a
+		g4( c) d
+		b( c2)
+		f,4 r r
+		b2.\p
+		a
+		g4( c) d
+		b( c2)
+		d8([ c)] b([ a)] g([ f)]
+		e2 f4~
+		f c2
+		f4 r r
+		R2.
+		R\fermataMarkup \bar "||"
 	}
 }
 
 GloriaBassoLyrics = \lyricmode {
-% 	glo -- ri -- a in ex -- cel -- sis De -- o
+	Glo -- ri -- a, %32
+	
+	glo -- ri -- a,
+	%35
+	glo -- ri -- a
+	in __ ex --
+	cel -- sis __
+	De -- o,
+	
+	in ex -- %53
+	cel -- sis,
+	in ex -- %55
+	cel -- sis,
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis %60
+	De -- o,
+	in
+	ex --
+	cel -- sis
+	De -- %65
+	o,
+	in
+	ex --
+	cel -- sis
+	De -- _ %70
+	_
+	o.
+	
+	Glo -- ri -- a, %79
+	glo -- ri -- a, %80
+	glo -- ri -- a,
+	glo -- ri -- a,
+	
+	glo -- ri -- a,
+	glo -- ri -- a, %85
+	glo -- ri -- a,
+	glo -- ri -- a
+	in ex --
+	cel --
+	_ %90
+	_
+	_
+	_
+	_
+	_ sis, %95
+	glo -- ri -- a,
+	glo -- ri -- a,
+	glo -- ri -- a,
+	glo -- ri -- a,
+	
+	glo -- ri -- a, %104
+	glo -- ri -- a, %105
+	glo -- ri -- a in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis,
+	in ex -- %110
+	cel -- sis,
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis, %115
+	in ex --
+	cel -- sis,
+	in
+	ex --
+	cel -- sis %120
+	De --
+	o,
+	in
+	ex --
+	cel -- sis %125
+	De --
+	o, __ in __ ex --
+	cel -- sis __
+	De --
+	o. %130 finis
 }
 
 % BassoNotes = {

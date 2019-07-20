@@ -243,7 +243,7 @@ GloriaTenoreNotes = {
 		\clef "treble_8"
 		\key f \major \time 3/4 \autoBeamOff \tempoGloria
 		R2.*31 %31
-		\mvTr f4.\fE^\markup { \remarkE "Alto tutti" } f8 f4
+		\mvTr f4.\fE^\tutti f8 f4
 		R2.
 		f4. f8 f4
 		R2. %35
@@ -332,10 +332,9 @@ GloriaTenoreLyrics = \lyricmode {
 	glo -- ri -- a,
 	%35
 	glo -- ri -- a
-	
-	in ex --
-	cel -- sis
-	De -- o,] %40
+	in __ ex --
+	cel -- sis __
+	De -- o,]
 	
 	in ex -- %54
 	cel -- sis, %55

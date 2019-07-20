@@ -472,10 +472,9 @@ GloriaSopranoLyrics = \lyricmode {
 	glo -- ri -- a,
 	%35
 	glo -- ri -- a
-	
-	in ex --
+	in __ ex --
 	cel -- sis
-	De -- o,] %40
+	De -- o,]
 	
 	in ex -- %44
 	cel -- %45
