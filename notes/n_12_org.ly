@@ -739,7 +739,7 @@ GloriaBassFigures = \figuremode {
 	r
 	r
 	<6>
-	r4 <_!> <5>
+	r4 <[7] _!> <5>
 	<7 5> <_!>2 %65
 	r2.
 	r
@@ -756,20 +756,20 @@ GloriaBassFigures = \figuremode {
 	q
 	r8 <\t> r2
 	<7>2. %80
-	<6>
+	<6 5>
 	r
 	r
 	r8 <_+> r2
 	<7>2. %85
-	<6>
+	<6 5>
 	r
 	r
 	r
-	r %90
-	r
-	r
-	r
-	r
+	<7> %90
+	q
+	q
+	<6 5>4 <7>2
+	<7 _+>2.
 	r %95
 	r
 	<7>

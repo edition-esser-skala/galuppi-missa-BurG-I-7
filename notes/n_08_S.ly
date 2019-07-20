@@ -429,40 +429,40 @@ GloriaSopranoNotes = {
 		r e e'
 		d a r %95
 		d8. d16 d4 r
-		c8. c16 c4 r
+		d8.^\critnote d16 d4 r
 		c8. c16 c4 r
 		h4. h8 h4
 		R2.*3 %102
 		r4 c c
 		c2.
-		c
+		c %105
 		c
 		c4 r r
 		r d d
 		e2.~
-		e8[ d16 e] f8[ e d c]
+		e8[ d16 e] f8[ e d c] %110
 		d2.~
 		d8[ c16 d] e8[ d c b]
 		c2.~
 		c8[ b16 c] d8[ c b a]
-		b2.~
+		b2.~ %115
 		b8[ a16 b] c8[ b a g]
 		a4 a r
 		b2.
 		c
-		b2 a4
+		b2 a4 %120
 		d( c2)
 		c4 r r
 		b2.\p
 		c
-		b2 a4
+		b2 a4 %125
 		d( c2)
 		a4 b\f b
 		b2 a4~
 		a g2
-		a4 r r
+		a4 r r %130
 		R2.
-		R\fermataMarkup \bar "||"
+		R\fermataMarkup \bar "||" %132 finis
 	}
 }
 

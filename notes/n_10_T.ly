@@ -242,12 +242,170 @@ GloriaTenoreNotes = {
 	\relative c' {
 		\clef "treble_8"
 		\key f \major \time 3/4 \autoBeamOff \tempoGloria
-		
+		R2.*31 %31
+		\mvTr f4.\fE^\markup { \remarkE "Alto tutti" } f8 f4
+		R2.
+		f4. f8 f4
+		R2. %35
+		f4. f8 f4
+		r r8 d([ f)] b,
+		a([ g a b)] c([ d)]
+		e4 c r
+		R2.*14 %53
+		r4 c e
+		f c r %55
+		r b d
+		e e, r
+		r a c
+		d a r
+		r d d %60
+		c e r
+		c2.
+		e
+		f2 e4~
+		e d2 %65
+		e4 r r
+		f2.\p
+		e
+		d2 c4
+		f2\f e4~ %70
+		e d2
+		e4 r r
+		R2.*6 %78
+		d8. d16 d4 r
+		c8. c16 c4 r %80
+		f8. f16 f4 r
+		e4. e8 e4
+		R2.
+		e8. e16 e4 r
+		d8. d16 d4 r %85
+		g8. g16 g4 r
+		f4. f8 f4
+		R2.
+		r4 d d
+		e2.~ %90
+		e8[ d16 e] f8[ e d cis]
+		d2.~
+		d8[ cis?16 d] e8[ d cis? h]
+		cis2.
+		d4 d d %95
+		d2.
+		d
+		d
+		d
+		R2.*4 %103
+		e8. e16 e4 r
+		d8. d16 d4 r %105
+		g8. g16 g4 g8 g
+		f4 c r
+		R2.
+		r4 c e
+		f f, r %110
+		r b d
+		e e, r
+		r a c
+		d d, r
+		r g b %115
+		c g c8 c
+		c4 c r
+		d2.
+		c
+		d4( e) f~ %120
+		f f( e)
+		f r r
+		d2.\p
+		c
+		d4( e) f~ %125
+		f f( e)
+		f d\f d
+		c2 c4~
+		c c2
+		c4 r r %130
+		R2.
+		R\fermataMarkup \bar "||" %132 finis
 	}
 }
 
 GloriaTenoreLyrics = \lyricmode {
-% 	glo -- ri -- a in ex -- cel -- sis De -- o
+	[Glo -- ri -- a, %32
+	
+	glo -- ri -- a,
+	%35
+	glo -- ri -- a
+	
+	in ex --
+	cel -- sis
+	De -- o,] %40
+	
+	in ex -- %54
+	cel -- sis, %55
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis,
+	in ex -- %60
+	cel -- sis,
+	[in
+	ex --
+	cel -- sis __
+	De -- %65
+	o,
+	in
+	ex --
+	cel -- sis
+	De -- _ %70
+	_
+	o.]
+	
+	Glo -- ri -- a, %79
+	glo -- ri -- a, %80
+	glo -- ri -- a,
+	glo -- ri -- a,
+	
+	glo -- ri -- a,
+	glo -- ri -- a, %85
+	glo -- ri -- a,
+	glo -- ri -- a
+	
+	in ex --
+	cel -- %90
+	_
+	_
+	_
+	_
+	sis, in ex -- %95
+	cel --
+	sis
+	De --
+	o,
+	
+	glo -- ri -- a, %104
+	glo -- ri -- a, %105
+	glo -- ri -- a in ex --
+	cel -- sis,
+	
+	in ex --
+	cel -- sis, %110
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis,
+	in ex -- %115
+	cel -- sis, in ex --
+	cel -- sis,
+	[in
+	ex --
+	cel -- sis __ %120
+	De --
+	o,
+	in
+	ex --
+	cel -- sis __ %125
+	De --
+	o, in ex --
+	cel -- sis __
+	De --
+	o.] %130 finis
 }
 
 % TenoreNotes = {
