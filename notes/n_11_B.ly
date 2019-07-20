@@ -384,66 +384,66 @@ GloriaBassoNotes = {
 		f2.
 		e
 		d4( g) a
-		f( g2)
+		f( g2) %65
 		c,4 r r
 		f2.\p
 		e
 		d4( g) a
-		h2\f c4~
+		h2\f c4~ %70
 		c g2
 		c,4 r r
-		R2.*6
+		R2.*6 %78
 		g'8. g16 g4 r
-		a8. a16 a4 r
+		a8. a16 a4 r %80
 		h8. h16 h4 r
 		c4. c,8 c4
 		R2.
 		a'8. a16 a4 r
-		h8. h16 h4 r
+		h8. h16 h4 r %85
 		cis8. cis16 cis4 r
 		d4. d,8 d4
 		r a' a
 		b2.~
-		b8[ a16 b] c8[ b a g]
+		b8[ a16 b] c8[ b a g] %90
 		a2.~
 		a8[ g16 a] b8[ a g f]
 		g2.~
 		g8[ f16 g] a8[ g f e]
-		f4 d r
+		f4 d r %95
 		d8. d16 d4 r
 		e8. e16 e4 r
 		fis8. fis16 fis4 r
 		g4. g8 g4
-		R2.*4
+		R2.*4 %103
 		c,8. c16 c4 r
-		d8. d16 d4 r
+		d8. d16 d4 r %105
 		e8. e16 e4 e8 e
 		f4 f r
 		r g b
 		c c, r
-		r f a
+		r f a %110
 		b b, r
 		r e g
 		a a, r
 		r d f
-		g g, r
+		g g, r %115
 		r c e
 		f f, r
 		b'2.
 		a
-		g4( c) d
+		g4( c) d %120
 		b( c2)
 		f,4 r r
 		b2.\p
 		a
-		g4( c) d
+		g4( c) d %125
 		b( c2)
-		d8([ c)] b([ a)] g([ f)]
+		d8([ c)] b([\f a)] g([ f)]
 		e2 f4~
 		f c2
-		f4 r r
+		f4 r r %130
 		R2.
-		R\fermataMarkup \bar "||"
+		R\fermataMarkup \bar "||" %132 finis
 	}
 }
 

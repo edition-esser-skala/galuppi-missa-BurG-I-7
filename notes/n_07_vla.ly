@@ -283,6 +283,131 @@ GloriaViola = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 3/4 \tempoGloria
-		
+		f4\fE f,8 f'16 e f8 f
+		f f, f f' f e
+		d4 d,8 d'16 c d8 d
+		d d, d d' d c
+		b4 b8 b'16 a b8 b %5
+		b b, b b' a g
+		f4 c d
+		c c r
+		c' c, r
+		c' c, r %10
+		c' c, r
+		r8 c'16 h c8 c, c c'
+		d, c'16 h? c8 d, d c'
+		e, c'16 h? c8 e, e c'
+		f, c'16 h? c8 f, f c' %15
+		c,\p c'16 h? c8 c, c c'
+		d, c'16 h? c8 d, d c'
+		e, c'16 h? c8 e, e c'
+		f,4\f r r
+		f r r %20
+		f r r
+		g g f
+		f8 d c4 c8 b
+		a4\p r r
+		f' r r %25
+		f r r
+		g g f
+		f8 d c4. b8
+		a4 r r
+		r8 a'16\f g a8 g g f %30
+		f4 r r
+		f f,8 f'16 e f8 f
+		f f, f f' f e
+		d4 d,8 d'16 c d8 d
+		d d, d d' d c %35
+		b4 b8 b'16 a b8 b
+		b b, b b' a g
+		f4 c d
+		c c r
+		c' c, r %40
+		c' c, r
+		c' c, r
+		c' c, c
+		c r r
+		r8 c'16 h? c8 c, c c' %45
+		d, c'16 h? c8 d, d c'
+		e, c'16 h? c8 e, e c'
+		f, c'16 h? c8 f, f c'
+		c,\p c'16 h? c8 c, c c'
+		d, c'16 h? c8 d, d c' %50
+		e, c'16 h? c8 e, e c'
+		f,4\f r f
+		g d g~
+		g c, e
+		f c f~ %55
+		f b, d
+		e e, e'~
+		e a, c
+		d a d~
+		d g, h %60
+		c e r
+		c a a
+		g c e
+		d2 c4
+		a' g4. f8 %65
+		e4 c\p e
+		f c f
+		e c e
+		d2 c4
+		f2\fE e4~ %70
+		e d2
+		e4 r r
+		g4. g8 a a
+		g4\pE d r
+		R2.*4 %78
+		r8 g16\fE f g8 g, g g'
+		a, g'16 f g8 a, a g' %80
+		h, g'16 f g8 h, h g'
+		c,4. c8 c4
+		R2.
+		r8 a'16 g a8 a, a a'
+		h, a'16 g a8 h, h a' %85
+		cis, a'16 g a8 cis, cis a'
+		d,4. d8 d4
+		f f r8 f
+		g4 b r8 g
+		e4 e r8 e %90
+		f4 a r8 f
+		d4 d r8 d
+		e4 g r8 e
+		e4 e r8 a,
+		a4 a r %95
+		r8 d'16 c d8 d, d d'
+		e, d'16 c d8 e, e d'
+		fis, d'16 c d8 fis, fis d'
+		g,4. g,8 g4
+		R2.*4 %103
+		r8 c'16 b c8 c, c c'
+		d, c'16 b c8 d, d c' %105
+		e, c'16 b c8 e, e c'
+		f,4 f, r
+		r g' b
+		g c, e
+		f c f~ %110
+		f b, d
+		e e, e'~
+		e a, c
+		d a d~
+		d g, b %115
+		c g c
+		c c r
+		d f d
+		f a f
+		g2 f4 %120
+		f c'4. b8
+		a4 c\p a
+		b f b
+		a f a
+		g2 f4 %125
+		f c'4. b8
+		a4 d8\f c b a
+		g2 c,4~
+		c c2
+		c4 r r %130
+		r8 a16 g a8 g g f
+		f4 r r\fermata \bar "||" %132 finis
 	}
 }

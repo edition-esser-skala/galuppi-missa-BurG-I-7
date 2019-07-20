@@ -302,7 +302,7 @@ GloriaViolinoII = {
 		c f16 e f8 f f f
 		d4 e f
 		f f e\trill
-		f8\f a,16 g a8 a a f
+		f8 a,16\f g a8 a a f
 		f4 r r %30
 		R2.
 		c'4 a8 c c c
