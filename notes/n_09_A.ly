@@ -426,8 +426,8 @@ GloriaAltoNotes = {
 		b8[ a16 b] c8[ b a g]
 		a2.~ %110
 		a8[ g16 a] b8[ a g f]
-		f2.~
-		f8[ e16 f] g8[ f e d]
+		g2.~
+		g8[ f16 g] a8[ g f e]
 		f2.~
 		f8[ e16 f] g8[ f e d] %115
 		e2.

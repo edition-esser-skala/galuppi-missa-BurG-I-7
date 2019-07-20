@@ -280,7 +280,138 @@ GloriaViolinoI = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 3/4 \tempoGloria
-		
+		a''4\fE a,8 a'16 g a8 a
+		a a, a a' a g
+		f4 f,8 f'16 e f8 f
+		f f, f f' f e
+		d4 d,8 d'16 c d8 d %5
+		d d, d d' c-\critnote b
+		a4 c f
+		e e r
+		r8 c'16 b c8 g g a
+		g e16 d e8 e e f %10
+		e c'16 b c8 g g a
+		g4 e r8 e
+		f4 f, r8 f'
+		g4 g, r8 g'
+		a4 a, r8 f'\p %15
+		e4 e, r8 e'
+		f4 f, r8 f'
+		g4 g, r8 g'
+		a8\f f16 e f8 f f f
+		d f16 e f8 f f f %20
+		c f16 e f8 f f f
+		b4~ b16 g a b a8 f
+		d b' g2\trill
+		f8\p f16 e f8 f f f
+		d f16 e f8 f f f %25
+		c f16 e f8 f f f
+		b4~ b16 g a b a8 f
+		d b' g2\trill
+		f8\f f16 e f8 c c a
+		f4 r r %30
+		R2.
+		a'4 a,8 a'16 g a8 a
+		a a, a a' a g
+		f4 f,8 f'16 e f8 f
+		f f, f f' f e %35
+		d4 d,8 d'16 c d8 d
+		d d, d d' c-\critnote b
+		a4 c f
+		e e r
+		R2. %40
+		r8 c'16 b c8 g g a
+		g e16 d e8 e e f
+		e c'16 b c8 g g a
+		g4 r r
+		e e, r8 e' %45
+		f4 f, r8 f'
+		g4 g, r8 g'
+		a4 a, r8 f'\p
+		e4 e, r8 e'
+		f4 f, r8 f' %50
+		g4 g, r8 g'\f
+		a a16 g a8 a, a a'
+		b4 b, r
+		r8 g'16 f g8 g, g g'
+		a4 a, r %55
+		r8 f'16 e f8 f, f f'
+		g4 g, r
+		r8 e'16 d e8 e, e e'
+		f4 f, r
+		r8 d'16 c d8 d, d d' %60
+		e c16 h c8 c c c
+		a c16 h? c8 c c c
+		g c16h? c8 c c c
+		f4~ f16 d e f e8 c
+		a f' d2\trill %65
+		e8 c16\p h c8 c c c
+		a c16 h c8 c c c
+		g c16 h c8 c c c
+		f4~ f16 d e f e8 c
+		g'2\f g4~ %70
+		g g2
+		g8 g16 f g8 a g f
+		e g16 f g8 g f e
+		d4 h r
+		g\p g, r %75
+		g' g, r
+		g' g, r
+		g' g, r
+		r8 g'16\fE f g8 g, g g'
+		a, g'16 f g8 a, a g' %80
+		h, g'16 f g8 h, h g'
+		c, d16 e f g a h c8 c
+		c4 r r
+		r8 a16 g a8 a, a a'
+		h, a'16 g a8 h, h a' %85
+		cis, a'16 g a8 cis, cis a'
+		d, e16 f g a h? cis d8 d
+		d a'16 g a8 a, a a'
+		b4 b, r
+		r8 g'16 f g8 g, g g' %90
+		a4 a, r
+		r8 f'16 e f8 f, f f'
+		g4 g, r
+		r8 e'16 d e8 e, e e'
+		f4 f, r %95
+		f' f, r8 f'
+		g4 g, r8 g'
+		a4 a, r8 a'
+		h4. h,8 h4
+		r8 g'16 f g8 g, g g' %100
+		a, g'16 f g8 a, a g'
+		h, g'16 f g8 h, h g'
+		c,4 r r
+		e e, r8 e'
+		f4 f, r8 f' %105
+		g4 g, r8 g'
+		a a16 g a8 a, a a'
+		b4 b, r
+		r8 g'16 f g8 g, g g'
+		a4 a, r %110
+		r8 f'16 e f8 f, f f'
+		g4 g, r
+		r8 e'16 d e8 e, e e'
+		f4 f, r
+		r8 d'16 c d8 d, d d' %115
+		e4 e, r
+		r8 f'16 e f8 f f f
+		d f16 e f8 f f f
+		c f16 e f8 f f f
+		b4~ b16 g a b a8 f %120
+		d b' g2\trill
+		a8 f16\p e f8 f f f
+		d f16 e f8 f f f
+		c f16 e f8 f f f
+		b4~ b16 g a b a8 f %125
+		d b' g2\trill
+		f4 b\f b
+		b2 a4~
+		a g2
+		a8 f16 e f8 c c a %130
+		a4 r r
+		R2.\fermataMarkup \bar "||" %132 finis
 	}
 }
 

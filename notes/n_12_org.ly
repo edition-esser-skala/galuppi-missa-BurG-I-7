@@ -608,8 +608,8 @@ GloriaOrgano = {
 		e e e
 		d g a
 		f g g, %65
-		c c c
-		f\p f f
+		c c\p c
+		f f f
 		e e e
 		d g a
 		h2\fE c4~ %70
@@ -681,27 +681,27 @@ GloriaBassFigures = \figuremode {
 	r
 	r
 	r %5
-	r
-	r
+	r2 <6>8 q
+	r2.
 	r
 	r
 	r %10
 	r
 	r
-	r
-	r
+	<7>
+	<6>
 	r %15
 	r
-	r
-	r
+	<7>
+	<6>
 	r
 	r %20
-	r
+	<6>
 	r4 <7>2
 	r4 <5 4> <\l 3>
 	r2.
 	r %25
-	r
+	<6>
 	r4 <7>2
 	r4 <5 4> <\l 3>
 	r2.
@@ -748,8 +748,8 @@ GloriaBassFigures = \figuremode {
 	<6 5>2. %70
 	r4 <_!>2
 	r2.
-	r
-	<_!>
+	r2 r8 <7>
+	<_!>2.
 	<\t> %75
 	q
 	q
