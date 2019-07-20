@@ -247,7 +247,7 @@ GloriaTenoreNotes = {
 }
 
 GloriaTenoreLyrics = \lyricmode {
-	
+% 	glo -- ri -- a in ex -- cel -- sis De -- o
 }
 
 % TenoreNotes = {

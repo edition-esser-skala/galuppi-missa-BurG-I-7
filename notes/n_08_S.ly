@@ -494,7 +494,7 @@ GloriaSopranoLyrics = \lyricmode {
 	_
 	_ sis %60
 	De -- o,
-	in
+	[in
 	ex --
 	cel -- sis __
 	De -- %65
@@ -504,7 +504,7 @@ GloriaSopranoLyrics = \lyricmode {
 	cel -- sis
 	De -- _ %70
 	_
-	o.
+	o.]
 	
 	Glo -- _ _ _ %75
 	_ _ _ ri --

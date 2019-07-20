@@ -359,12 +359,185 @@ GloriaAltoNotes = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 3/4 \autoBeamOff \tempoGloria
-		
+		R2.*31 %31
+		\mvTr a'4.\fE^\markup { \remarkE "Alto tutti" } a8 a4
+		R2.
+		a4. a8 a4
+		R2. %35
+		b4. b8 b4
+		r r8 f4 g8
+		a2 a4
+		g g r
+		R2.*12 %51
+		r4 f f
+		b2.~
+		b8[ a16 b] c8[ b a g]
+		a2.~ %55
+		a8[ g16 a] b8[ a g f]
+		g2.~
+		g8[ f16 g] a8[ g f e]
+		f2.~
+		f8[ e16 f] g8[ f] e([ d]) %60
+		e4 g r
+		a2.
+		g
+		a4( h) c
+		a( g2) %65
+		g4 r r
+		a2.\p
+		g
+		a4( h) c
+		g2.~\f %70
+		g
+		g4 r r
+		R2.
+		r8 \mvTr g'16[\pE^\markup { \remark "Soprano II solo" } fis] g8 d4 e8
+		d[ h16 a] h8 h4 c8 %75
+		h g'16[ fis] g8 d4 e8
+		d[ h16 a] h8 h4 c8
+		h4 \mvTr g\fE^\markup { \remark "Alto tutti" } g
+		g2.
+		g %80
+		g
+		g4 r r
+		r a a
+		a2.
+		a %85
+		a
+		a
+		R
+		r4 g b
+		c c, r %90
+		r f a
+		b b, r
+		r e g
+		a a, a'8 a
+		a4 f r %95
+		f8. f16 f4 r
+		g8. g16 g4 r
+		a8. a16 a4 r
+		g4. g8 g4
+		R2.*4 %103
+		g8. g16 g4 r
+		f8. f16 f4 r %105
+		b8. b16 b4 r
+		r a a
+		b2.~
+		b8[ a16 b] c8[ b a g]
+		a2.~ %110
+		a8[ g16 a] b8[ a g f]
+		f2.~
+		f8[ e16 f] g8[ f e d]
+		f2.~
+		f8[ e16 f] g8[ f e d] %115
+		e2.
+		f4 f r
+		f2.
+		f
+		g2 f4 %120
+		b( g2)
+		a4 r r
+		f2.\p
+		f
+		g2 f4 %125
+		b( g2)
+		f4 f\f g
+		g2 f4~
+		f e2
+		f4 r r %130
+		R2.
+		R\fermataMarkup \bar "||" %132 finis
 	}
 }
 
 GloriaAltoLyrics = \lyricmode {
-% 	glo -- ri -- a in ex -- cel -- sis De -- o
+	[Glo -- ri -- a, %32
+	
+	glo -- ri -- a,
+	%35
+	glo -- ri -- a
+	
+	in ex --
+	cel -- sis
+	De -- o,] %40
+	
+	in ex -- %52
+	cel --
+	_
+	_ %55
+	_
+	_
+	_
+	_
+	_ sis %60
+	De -- o,
+	[in
+	ex --
+	cel -- sis
+	De -- %65
+	o,
+	in
+	ex --
+	cel -- sis
+	De -- %70
+	
+	o.]
+	
+	Glo -- _ _ _
+	_ _ _ ri -- %75
+	a, glo -- _ _ _
+	_ _ _ ri --
+	a, in ex --
+	cel --
+	sis %80
+	De --
+	o,
+	in ex --
+	cel --
+	sis %85
+	De --
+	o,
+	
+	in ex --
+	cel -- sis, %90
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis, in ex --
+	cel -- sis, %95
+	glo -- ri -- a,
+	glo -- ri -- a,
+	glo -- ri -- a,
+	glo -- ri -- a,
+	
+	
+	glo -- ri -- a, %104
+	glo -- ri -- a, %105
+	glo -- ri -- a
+	in ex --
+	cel --
+	_
+	_ %110
+	_
+	_
+	_
+	_
+	_ %115
+	_
+	_ sis,
+	[in
+	ex --
+	cel -- sis %120
+	De --
+	o,
+	in
+	ex --
+	cel -- sis %125
+	De --
+	o, in ex --
+	cel -- sis __
+	De --
+	o.] %130 finis
 }
 
 % AltoNotes = {

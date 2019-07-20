@@ -66,7 +66,7 @@
 					\new Lyrics \lyricsto Soprano \GloriaSopranoLyrics
 					
 					\new Staff {
-						\set Staff.instrumentName = "Alto"
+						\set Staff.instrumentName = \markup { \center-column { "Soprano II" "Alto" } }
 						\new Voice = "Alto" { \dynamicUp \GloriaAltoNotes }
 					}
 					\new Lyrics \lyricsto Alto \GloriaAltoLyrics
