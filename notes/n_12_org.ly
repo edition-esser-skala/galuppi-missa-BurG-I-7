@@ -880,11 +880,247 @@ LaudamusOrgano = {
 		\key g \dorian \time 3/8 \tempoLaudamus
 			\set Score.currentBarNumber = #161
 		\mvTr g'4\fE-\soloE r8
+		c,4 r8
+		d4 r8
+		g4 r8
+		g4\pE r8 %165
+		c,4 r8
+		d4 r8
+		g,4 r8
+		g'8\f b g
+		d fis g %170
+		cis,4.
+		d8 d' fis,
+		g4 r8
+		a4 r8
+		d,4 r8 %175
+		g4 r8
+		c,4 c8
+		d es c
+		d4 d,8
+		g4 r8 %180
+		es'4 r8
+		c4 r8
+		d4.
+		g4\p r8
+		es4 r8 %185
+		c4 r8
+		d4.\f
+		g,4 r8
+		g'4\p r8
+		c,4 r8 %190
+		d4 r8
+		g4 r8
+		g,4 r8
+		c4.
+		cis %195
+		d8 c'! c
+		b4 g8
+		f!4 d'8
+		c4 f,8
+		b,4 b8 %200
+		f4 r8
+		f'4 f8
+		d4 c8
+		b4 b8
+		f'4 b8 %205
+		es, f f,
+		b4\fE r8
+		g'4\pE r8
+		es4 r8
+		f4. %210
+		b,\fE
+		g'4\pE r8
+		es4.
+		e8 e e
+		f b es, %215
+		f4 f,8
+		b\f d b
+		f' a b
+		e,!4 r8
+		f8 a f %220
+		b4 r8
+		c4 r8
+		f,4 r8
+		b4 r8
+		es,4 es8 %225
+		f g es
+		f4 f,8
+		b4 r8
+		b'4\p r8
+		es,4 r8 %230
+		f4 r8
+		b,4 r8
+		b'4 r8
+		a4 r8
+		g4 cis,8 %235
+		d4.
+		g8 b g
+		d'4 fis,8
+		g4 g,8
+		d' d'16 c b a %240
+		g4 r8
+		d4 fis8
+		g fis g
+		d d'16 c b a
+		g4 r8 %245
+		a4 r8
+		fis4 r8
+		g4r8
+		es4 es8
+		d d' g, %250
+		c d d,
+		g4 r8
+		es4 r8
+		c4 r8
+		d4. %255
+		g,4 r8
+		es'4 r8
+		c4 r8
+		cis cis cis
+		d4 r8 %260
+		g,4 g'8
+		c4 cis8~
+		cis d d,
+		g4\fE r8
+		a4 r8 %265
+		d,4 r8
+		g4 r8
+		c,4 r8
+		d es c
+		d4 d8 %270
+		g4 r8
+		es4 r8
+		c4 r8
+		d4 d,8
+		g4\pE r8 %275
+		es'4 r8
+		c4 r8
+		d\fE d d,
+		g4 r8\fermata \bar "||" %279 finis
 	}
 }
 
 LaudamusBassFigures = \figuremode {
-	
+	r4. %161
+	r
+	r
+	r
+	r %165
+	r
+	r
+	r
+	r
+	r %170
+	<7 5>8 <6> <5>
+	<_+>4 <6>8
+	r4.
+	<5->
+	<_+> %175
+	r
+	<_->
+	<7 5 _+>8 r <_->
+	<6 4> <5 _+> <7>
+	r4. %180
+	r
+	<_->
+	<5 _+>8 <6 4> <5 _+>
+	r4.
+	r %185
+	<_->
+	<5 _+>8 <6 4> <7 5 _+>
+	r4.
+	r
+	r %190
+	r
+	r
+	r
+	r
+	<7 5> %195
+	<_+>8 <_->4
+	<6> <6->8
+	r4 <6!>8
+	<_->4 <7 ->8
+	r4. %200
+	r
+	<7 5 3>8 <6 4> <5 3>
+	r4.
+	r
+	r %205
+	r
+	r
+	r
+	<6 5>
+	<5 3>8 <6 4> <5 3> %210
+	r4.
+	<5>
+	<6 5>
+	<6 5>
+	r %215
+	<6 4>8 <[5 \t]> <[\t 3]>
+	r4.
+	r
+	<7>8 <6> <5>
+	r4. %220
+	r
+	r
+	r
+	r
+	r %225
+	<7>
+	<6 4>8 <5 3>4
+	r4.
+	r
+	<6 5> %230
+	r
+	r
+	r
+	r
+	r %235
+	r
+	r
+	r
+	r
+	r %240
+	r
+	r
+	r
+	<_+>
+	r %245
+	r
+	r
+	r
+	r
+	r %250
+	r
+	r
+	r
+	<6 5>
+	r %255
+	r
+	r
+	r
+	r
+	r %260
+	r
+	r
+	r8 <_+>4
+	r4.
+	<5-> %265
+	<_+>
+	r
+	r
+	<7 5 _+>8 <5> <_->
+	<6 4> <5 4> <5 _+> %270
+	r4.
+	r
+	<6 [_-]>
+	r4.
+	r %275
+	r
+	r
+	r
+	r %279 finis
 }
 
 % Organo = {
