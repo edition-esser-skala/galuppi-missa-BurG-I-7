@@ -607,12 +607,141 @@ LaudamusSopranoNotes = {
 		\clef treble
 		\key g \dorian \time 3/8 \autoBeamOff \tempoLaudamus
 			\set Score.currentBarNumber = #161
-		
+		R4.*28 %188
+		\mvTr d'8\pE^\soloE c b
+		c4 r8 %190
+		c b a
+		b4 r8
+		d es d
+		c d c
+		b8. c16 b8 %195
+		a r r
+		r d es
+		f([ es16 d)] c([ d)]
+		es8 d16([ c)] b c
+		d8[ c16 b] a[ b] %200
+		c16.[ d32] c8[ d]
+		es[ d c]
+		d16.[ es?32] d8[ es?]
+		f[ es? d]
+		c4 d8~ %205
+		d16[ es?] c8. c16
+		b4 r8
+		R4.
+		c
+		c8 d c %210
+		d4 r8
+		R4.
+		c~
+		c8 c c
+		c[ d es] %215
+		d c4\trill
+		b r8
+		R4.*11 %228
+		d8 c b
+		c4 r8 %230
+		c b a
+		b4 r8
+		d es d
+		c d c
+		b8. a16 b8 %235
+		a d d
+		d4.~
+		d~
+		d~
+		d~ %240
+		d~
+		d
+		d
+		d4 r8
+		R4. %245
+		c8 c c
+		c[ d16. c32 b16. a32]
+		b4.~
+		b8[ c16. b32 a16. g32]
+		a8.[ a16] b8~ %250
+		b16[ c] a8. a16
+		g4 r8
+		R4.
+		a
+		a8 b a %255
+		b4 r8
+		R4.
+		a4.~
+		a8 a a
+		a[ b c] %260
+		b[ c d]
+		c4 b8~
+		b16[ c] a8. a16
+		g4 r8
+		R4.*14 %278
+		R4.\fermataMarkup \bar "||" %279 finis
 	}
 }
 
 LaudamusSopranoLyrics = \lyricmode {
+	Lau -- da -- mus %189
+	te, %190
+	lau -- da -- mus
+	te,
+	lau -- da -- mus
+	te, be -- ne --
+	di -- ci -- mus %195
+	te,
+	ad -- o --
+	ra -- mus
+	te, glo -- ri -- fi --
+	ca -- _ %200
+	_ _
+	_
+	_ _
+	_
+	_ _ %205
+	_ mus
+	te,
 	
+	ad --
+	o -- ra -- mus %210
+	te,
+	
+	glo --
+	ri -- fi --
+	ca -- %215
+	_ mus
+	te.
+	
+	Lau -- da -- mus %229
+	te, %230
+	lau -- da -- mus
+	te,
+	lau -- da -- mus
+	te, be -- ne --
+	di -- ci -- mus %235
+	te, ad -- o --
+	ra --
+	
+	mus %243
+	te,
+	%245
+	glo -- ri -- fi --
+	ca --
+	_
+	
+	_ _ %250
+	_ mus
+	te,
+	
+	ad --
+	o -- ra -- mus %255
+	te,
+	
+	glo --
+	ri -- fi --
+	ca -- %260
+	_
+	_ _
+	_ mus
+	te. %264 finis
 }
 
 % SopranoNotes = {
