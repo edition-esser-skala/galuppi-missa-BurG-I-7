@@ -925,12 +925,12 @@ LaudamusOrgano = {
 		b4 b8
 		f'4 b8 %205
 		es, f f,
-		b4\fE r8
-		g'4\pE r8
+		b4 r8
+		g'4 r8
 		es4 r8
 		f4. %210
-		b,\fE
-		g'4\pE r8
+		b,
+		g'4 r8
 		es4.
 		e8 e e
 		f b es, %215
@@ -1003,11 +1003,11 @@ LaudamusOrgano = {
 
 LaudamusBassFigures = \figuremode {
 	r4. %161
-	<[6 _-]>
+	<[6 5 _-]>
 	<[7 _+]>
 	r
 	r %165
-	<[6 _-]>
+	<[6 5 _-]>
 	<[7 _+]>
 	r
 	r8 <[6]> r
@@ -1031,14 +1031,14 @@ LaudamusBassFigures = \figuremode {
 	<5 _+>8 <6 4> <7 5 _+>
 	r4.
 	r
-	<[6 _-]> %190
+	<[6 5 _-]> %190
 	<[7 _+]>
 	r
 	r
-	<[6 _-]>
+	<[6 5 _-]>
 	<7 5> %195
 	<_+>8 <_->4
-	<6> <6->8
+	<[5 3]> <6->8
 	r4 <6!>8
 	<_->4 <7 ->8
 	r4. %200
@@ -1087,12 +1087,12 @@ LaudamusBassFigures = \figuremode {
 	r8 <[6]>4
 	<_+>4.
 	r %245
-	<[9]>8 <[8]>4
+	<[9 5-]>8 <[8]>4
 	<[6]>4.
 	<[9]>8 <[8]>4
 	r4 <[6]>8
 	<[_+]>4. %250
-	<[7 5]>16 <[8 6]> <[_+]>4
+	<[7 5 _-]>16 <[8 6]> <[_+]>4
 	r4.
 	r
 	<6 5 [_-]>
@@ -1115,12 +1115,25 @@ LaudamusBassFigures = \figuremode {
 	r4.
 	r
 	<6 [_-]>
-	<[5 _+]>8 <[6 4]> <[5 _+]>
-	r %275
+	<[6 4]>4 <[5 _+]>8
+	r4. %275
 	r
 	<[6 _-]>
 	<[5 _+]>8 <[6 4]> <[5 _+]>
 	r4. %279 finis
+}
+
+GratiasOrgano = {
+	\relative c {
+		\clef bass
+		\key es \major \time 4/4 \tempoGratias
+			\set Score.currentBarNumber = #280
+		\mvTr es8-!\pE-\tutti r es-! r d-! r d-! r
+	}
+}
+
+GratiasBassFigures = \figuremode {
+	
 }
 
 % Organo = {

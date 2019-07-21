@@ -741,6 +741,19 @@ LaudamusAltoLyrics = \lyricmode {
 	te. %264 finis
 }
 
+GratiasAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key es \major \time 4/4 \autoBeamOff \tempoGratias
+			\set Score.currentBarNumber = #280
+		
+	}
+}
+
+GratiasAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble

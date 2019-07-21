@@ -450,9 +450,134 @@ EtInTerraViola = {
 
 LaudamusViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key g \dorian \time 3/8 \tempoLaudamus
 			\set Score.currentBarNumber = #161
+		g'4\fE r8
+		g4 r8
+		fis4 r8
+		g4 r8
+		g4\pE r8 %165
+		g4 r8
+		fis4 r8
+		g4 r8
+		b\f d b
+		a a b %170
+		g e e
+		a, fis' a
+		d,4 r8
+		c4 r8
+		d4 r8 %175
+		d4 r8
+		c4 c8
+		c b es
+		d d8. c16
+		b4 r8 %180
+		b4 r8
+		c4 r8
+		a d c
+		b4\p r8
+		b4 r8 %185
+		c4 r8
+		a\f d c
+		b4 r8
+		R4.
+		g'4\pE r8 %190
+		fis4 r8
+		g4 r8
+		R4.*3 %195
+		r8 g es
+		d4 b'8
+		a4 f8
+		g4 f8
+		f4 f8 %200
+		f4 r8
+		f4 r8
+		f4 r8
+		f4 r8
+		f4 r8 %205
+		R4.
+		d4 r8
+		d4 r8
+		g4 r8
+		f4 r8 %210
+		d4 r8
+		d4\p r8
+		g4 r8
+		g c c
+		c b g %215
+		f4 es8
+		d\f f d
+		c c' d
+		b g g
+		a c a %220
+		b4 r8
+		g4 r8
+		a4 r8
+		f4 r8
+		g4 g8 %225
+		a d, g
+		f f es
+		d4 r8
+		b'4\pE r8
+		b4 r8 %230
+		a4 r8
+		b4 r8
+		b4 r8
+		a4 r8
+		g4 g8 %235
+		a4 r8
+		b d b
+		a4 a8
+		g a b
+		a g fis %240
+		g4.
+		a8 fis a
+		g a b
+		a fis fis
+		g4 r8 %245
+		es4 r8
+		d4 r8
+		d4 r8
+		g4 g8
+		a4 b8 %250
+		es, d c
+		b4 r8
+		b'4 r8
+		a4 r8
+		a4 r8 %255
+		b4 r8
+		b4 r8
+		a4 r8
+		a a a
+		fis4 r8 %260
+		d4 r8
+		c4 r8
+		R4.
+		d4\fE r8
+		c4 r8 %265
+		d4 r8
+		d4 r8
+		c4 r8
+		c b es
+		d4 c8 %270
+		b4 r8
+		b4 r8
+		es4 g8
+		g4 a8
+		b4\pE r8 %275
+		b4 r8
+		es,4 g8
+		d\fE d c
+		b4 r8\fermata \bar "||" %279 finis
+	}
+}
+
+GratiasViola = {
+	\relative c' {
+		\clef treble
+		\key es \major \time 4/4 \tempoGratias
+			\set Score.currentBarNumber = #280
 		
 	}
 }

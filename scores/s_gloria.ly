@@ -158,9 +158,58 @@
 % 			\midi { \tempo 4. = 60 }
 % 		}
 % 	}
+% 	\bookpart {
+% 		\header {
+% 			movement = "2.3 LAUDAMUS TE"
+% 		}
+% 		\score {
+% 			<<
+% 				\new StaffGroup <<
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino I"
+% 							\LaudamusViolinoI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino II"
+% 							\LaudamusViolinoII
+% 						}
+% 					>>
+% 					\new Staff <<
+% 						\set Staff.instrumentName = "Viola"
+% 						\LaudamusViola
+% 					>>
+% 				>>
+% 				\new ChoirStaff <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Soprano"
+% 						\new Voice = "Soprano" { \dynamicUp \LaudamusSopranoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Soprano \LaudamusSopranoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Alto"
+% 						\new Voice = "Alto" { \dynamicUp \LaudamusAltoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Alto \LaudamusAltoLyrics
+% 				>>
+% 				\new StaffGroup <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Organo"
+% 						\LaudamusOrgano
+% 					}
+% 				>>
+% 				\new FiguredBass {
+% 					\LaudamusBassFigures
+% 				}
+% 			>>
+% 			\layout { }
+% 			\midi { \tempo 4. = 45 }
+% 		}
+% 	}
 	\bookpart {
 		\header {
-			movement = "2.3 LAUDAMUS TE"
+			movement = "2.4 GRATIAS"
 		}
 		\score {
 			<<
@@ -168,43 +217,55 @@
 					\new GrandStaff <<
 						\new Staff {
 							\set Staff.instrumentName = "Violino I"
-							\LaudamusViolinoI
+							\GratiasViolinoI
 						}
 						\new Staff {
 							\set Staff.instrumentName = "Violino II"
-							\LaudamusViolinoII
+							\GratiasViolinoII
 						}
 					>>
 					\new Staff <<
 						\set Staff.instrumentName = "Viola"
-						\LaudamusViola
+						\GratiasViola
 					>>
 				>>
 				\new ChoirStaff <<
 					\new Staff {
 						\set Staff.instrumentName = "Soprano"
-						\new Voice = "Soprano" { \dynamicUp \LaudamusSopranoNotes }
+						\new Voice = "Soprano" { \dynamicUp \GratiasSopranoNotes }
 					}
-					\new Lyrics \lyricsto Soprano \LaudamusSopranoLyrics
+					\new Lyrics \lyricsto Soprano \GratiasSopranoLyrics
 					
 					\new Staff {
 						\set Staff.instrumentName = "Alto"
-						\new Voice = "Alto" { \dynamicUp \LaudamusAltoNotes }
+						\new Voice = "Alto" { \dynamicUp \GratiasAltoNotes }
 					}
-					\new Lyrics \lyricsto Alto \LaudamusAltoLyrics
+					\new Lyrics \lyricsto Alto \GratiasAltoLyrics
+					
+					\new Staff {
+						\set Staff.instrumentName = "Tenore"
+						\new Voice = "Tenore" { \dynamicUp \GratiasTenoreNotes }
+					}
+					\new Lyrics \lyricsto Tenore \GratiasTenoreLyrics
+					
+					\new Staff {
+						\set Staff.instrumentName = "Basso"
+						\new Voice = "Basso" { \dynamicUp \GratiasBassoNotes }
+					}
+					\new Lyrics \lyricsto Basso \GratiasBassoLyrics
 				>>
 				\new StaffGroup <<
 					\new Staff {
 						\set Staff.instrumentName = "Organo"
-						\LaudamusOrgano
+						\GratiasOrgano
 					}
 				>>
 				\new FiguredBass {
-					\LaudamusBassFigures
+					\GratiasBassFigures
 				}
 			>>
 			\layout { }
-			\midi { \tempo 4. = 80 }
+			\midi { \tempo 4 = 45 }
 		}
 	}
 }

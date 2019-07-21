@@ -200,6 +200,7 @@ tempoKyrieII = \tempoMarkup "Adagio"
 tempoGloria = \tempoMarkup "[Tempo deest]"
 tempoEtInTerra = \tempoMarkup "Larghetto"
 tempoLaudamus = \tempoMarkup "Allegretto"
+tempoGratias = \tempoMarkup "Largo"
 
 
 

@@ -569,3 +569,12 @@ LaudamusViolinoII = {
 		g8 g, r\fermata \bar "||" %279 finis
 	}
 }
+
+GratiasViolinoII = {
+	\relative c' {
+		\clef treble
+		\key es \major \time 4/4 \tempoGratias
+			\set Score.currentBarNumber = #280
+		
+	}
+}

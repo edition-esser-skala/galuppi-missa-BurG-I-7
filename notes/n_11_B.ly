@@ -575,6 +575,19 @@ EtInTerraBassoLyrics = \lyricmode {
 	pax. %157 finis
 }
 
+GratiasBassoNotes = {
+	\relative c {
+		\clef bass
+		\key es \major \time 4/4 \autoBeamOff \tempoGratias
+			\set Score.currentBarNumber = #280
+		
+	}
+}
+
+GratiasBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c {
 % 		\clef bass
