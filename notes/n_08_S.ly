@@ -599,7 +599,7 @@ EtInTerraSopranoLyrics = \lyricmode {
 	
 	[in ter -- ra %155
 	pax, pax, in ter -- ra
-	pax.]
+	pax.] %157 finis
 }
 
 % SopranoNotes = {

@@ -544,12 +544,61 @@ EtInTerraAltoNotes = {
 		\clef treble
 		\key b \major \time 12/8 \autoBeamOff \tempoEtInTerra
 			\set Score.currentBarNumber = #133
-		
+		R1.
+		r2*3/2 \mvTr b'2.~\pE^\solo
+		b4. a b f4 f8 %135
+		g4.( b4) g8 f2.
+		r4 r8 b4. b a
+		b \mvTr b\fE^\tuttiE b a
+		b b r4 r8 \mvTr f4\pE^\solo f8
+		e4 e8 f4. f4 f8 g4 f8 %140
+		e2. f4 g8 a4.
+		g4 a8 b4. a4 g8 f4 g8
+		f4. e f \mvTr a\fE^\tutti
+		g g a a
+		r2*3/2 r4 r8 \mvTr c,4\pE^\solo c8 %145
+		fis4 fis8 fis4. fis4 fis8 g4 b8
+		g2. fis4. \mvTr a\fE^\tutti
+		a b a a
+		\mvTr a4\pE^\solo a8 a4 a8 g4 g8 a4 g8
+		fis4. g4 a8 g4. fis %150
+		g \mvTr g\fE^\tutti \mvTr g\pE^\solo \mvTr g\fE^\tutti
+		\mvTr f\pE^\solo r4 r8 r4 r8 a4.
+		b c4 b8 a4 b8 c4 a8
+		b4 a8 b4 c8 b4. a\trill
+		b \mvTr b\fE^\tutti b a %155
+		b b4 b8 b4. b
+		b r4 r8 r2*3/2
+		R1.*2
+		R1.\fermataMarkup \bar "||" %160 finis
 	}
 }
 
 EtInTerraAltoLyrics = \lyricmode {
-	
+	Et __ %134
+	in ter -- ra, in %135
+	ter -- ra pax,
+	in ter -- ra
+	pax, [in ter -- ra
+	pax, pax,] pax ho --
+	mi -- ni -- bus bo -- nae vo -- lun -- %140
+	ta -- _ _ _
+	_ _ _ _ _ _ _
+	_ _ tis, [in
+	ter -- ra pax, pax,]
+	pax ho -- %145
+	mi -- ni -- bus bo -- nae vo -- lun --
+	ta -- tis, [in
+	ter -- ra pax, pax,]
+	bo -- nae vo -- lun -- ta -- _ _ _
+	_ _ _ _ _ %150
+	tis, pax, pax, pax,
+	pax, ho --
+	mi -- ni -- bus bo -- nae vo -- lun --
+	ta -- _ _ _ _ _
+	tis, [in ter -- ra %155
+	pax, pax, in ter -- ra
+	pax.] %157 finis
 }
 
 % AltoNotes = {
