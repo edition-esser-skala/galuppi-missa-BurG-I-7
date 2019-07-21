@@ -549,7 +549,7 @@ EtInTerraAltoNotes = {
 		b4. a b f4 f8 %135
 		g4.( b4) g8 f2.
 		r4 r8 b4. b a
-		b \mvTr b\fE^\tuttiE b a
+		b \mvTr b\fE^\tutti b a
 		b b r4 r8 \mvTr f4\pE^\solo f8
 		e4 e8 f4. f4 f8 g4 f8 %140
 		e2. f4 g8 a4.
@@ -561,7 +561,7 @@ EtInTerraAltoNotes = {
 		g2. fis4. \mvTr a\fE^\tutti
 		a b a a
 		\mvTr a4\pE^\solo a8 a4 a8 g4 g8 a4 g8
-		fis4. g4 a8 g4. fis %150
+		fis4. g4 a8 g4. fis\trillE %150
 		g \mvTr g\fE^\tutti \mvTr g\pE^\solo \mvTr g\fE^\tutti
 		\mvTr f\pE^\solo r4 r8 r4 r8 a4.
 		b c4 b8 a4 b8 c4 a8
