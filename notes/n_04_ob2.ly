@@ -202,9 +202,9 @@ GloriaOboeII = {
 		b4 f8 f f f %5
 		f d d f a b
 		c4 a a
-		\kneeBeam g8 c'16 b c8 g g a
+		\kneeBeam g8 c'16 h? c8 g g a
 		g e16 d e8 e e f
-		e c'16 b c8 g g a %10
+		e c'16 h? c8 g g a %10
 		g e16 d e8 e e f
 		e4 c r8 c
 		c4 c, r8 c'
@@ -234,9 +234,9 @@ GloriaOboeII = {
 		f d d f a b
 		c4 a a
 		g g r
-		r8 c'16 b c8 g g a %40
+		r8 c'16 h? c8 g g a %40
 		g e16 d e8 e e f
-		e c'16 b c8 g g a
+		e c'16 h? c8 g g a
 		g e16 d e8 e e f
 		e4 r r
 		c c, r8 c' %45

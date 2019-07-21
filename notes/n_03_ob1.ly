@@ -209,9 +209,9 @@ GloriaOboeI = {
 		d d, d d' c-\critnote b
 		a4 c f
 		e e r
-		r8 c'16 b c8 g g a
+		r8 c'16 h? c8 g g a
 		g e16 d e8 e e f %10
-		e c'16 b c8 g g a
+		e c'16 h? c8 g g a
 		g4 e r8 e
 		f4 f, r8 f'
 		g4 g, r8 g'
@@ -241,9 +241,9 @@ GloriaOboeI = {
 		a4 c f
 		e e r
 		R2. %40
-		r8 c'16 b c8 g g a
+		r8 c'16 h? c8 g g a
 		g e16 d e8 e e f
-		e c'16 b c8 g g a
+		e c'16 h? c8 g g a
 		g4 r r
 		e e, r8 e' %45
 		f4 f, r8 f'
