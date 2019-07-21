@@ -422,32 +422,32 @@ EtInTerraViolinoI = {
 			\set Score.currentBarNumber = #133
 		b'4\p b8 a4 a8 b4 b8 b4 b8
 		b4 b8 a4 a8 b4 b8 a4 a8
-		b4 b8 c4 c8 d4 d8 d4 d8
+		b4 b8 c4 c8 d4 d8 d4 d8 %135
 		es4 g,8 g4 g8 f4 f8 f4 f8
 		b4 b8 b4 b8 b4 b8 a4 a8
 		b4. f'4\f f8 g4 g8 a4 a8
 		b4 b8 b4. r4 r8 f,4\p f8
-		c'4 c8 c4 c8 b4 b8 b4 b8
+		c'4 c8 c4 c8 b4 b8 b4 b8 %140
 		b4 b8 b4 b8 a4 b8 c4 c8
 		d4 d8 d4 d8 c4 e8 f4 f,8
 		a4 a8 g4 g8 f4. f'4\f a8
 		f4 f8 e4 e8 f4 c8 c4 a8
-		f4. c'4\p c8 c4 c8 c4 c8
+		f4. c'4\p c8 c4 c8 c4 c8 %145
 		c4 c8 d4 d8 b4 b8 b4 b8
 		b4 b8 b4 b8 a4. a'4\f a8
 		a4 a8 b4 b8 a4 fis8 d4.
 		d4\p d8 d4 d8 d4 d8 es4 es8
-		d4 c8 b4 c8 b4 b8 a4 a8
+		d4 c8 b4 c8 b4 b8 a4 a8 %150
 		b4 b8 d4\f d8 e4\p e8 e4\f e8
 		f4\p c8 c4 c8 c4 c8 c4 c8
 		d4 d8 es4 d8 c4 d8 es4 c8
 		d4 c8 d4 es8 d4 d8 c4 c8
-		b4. f'4\f f8 g4 g8 a4 a8
+		b4. f'4\f f8 g4 g8 a4 a8 %155
 		b4 b8 f4 f8 d4 d8 b4 b8
 		b4\p b8 a4 a8 b4 b8 b4 b8
 		b4 b8 a4 a8 b4 b8 b4 b8
 		c4 c8 c4 c8 d4 d8 c4 c8
-		b4 f8 d4 f8 b,4. r4 r8\fermata \bar "||"
+		b4 f8 d4 f8 b,4. r4 r8\fermata \bar "||" %160 finis
 	}
 }
 
