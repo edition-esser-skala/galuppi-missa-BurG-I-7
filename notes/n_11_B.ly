@@ -534,12 +534,45 @@ EtInTerraBassoNotes = {
 		\clef bass
 		\key b \major \time 12/8 \autoBeamOff \tempoEtInTerra
 			\set Score.currentBarNumber = #133
-		
+		R1.*5 %137
+		r4 r8 \mvTr b'4.\fE^\tuttiE es, f
+		b, b' r2*3/2
+		R1.*3 %142
+		r2*3/2 r4 r8 \mvTr f4.\fE^\tuttiE
+		b, c f, f'
+		R1.*2 %146
+		r2*3/2 r4 r8 \mvDll d'4.\fE^\tuttiE
+		d g, d d'
+		R1.*2 %150
+		r4 r8 \mvTr g,4.\fE^\tuttiE r4 r8 \mvDll c4.\fE^\tuttiE
+		r4 r8 \mvTr f,4.\pE^\solo f2.~
+		f f
+		b,4. r4 r8 r2*3/2
+		r4 r8 \mvTr b'4.\fE^\tuttiE es, f %155
+		b, b'4 b8 b4. b,
+		b' r4 r8 r2*3/2
+		R1.*2
+		R1.\fermataMarkup \bar "||" %160 finis
 	}
 }
 
 EtInTerraBassoLyrics = \lyricmode {
+	In ter -- ra %138
+	pax, pax,
 	
+	in %143
+	ter -- ra pax, pax,
+	
+	in %147
+	ter -- ra pax, pax,
+	
+	pax, pax, %151
+	in ter --
+	ra
+	pax,
+	in ter -- ra %155
+	pax, pax, in ter -- ra
+	pax. %157 finis
 }
 
 % BassoNotes = {
