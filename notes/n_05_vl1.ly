@@ -473,13 +473,13 @@ LaudamusViolinoI = {
 		a'16. g32 fis16. es32 d16. c32 %175
 		\appoggiatura c8 b4~ b16. b32
 		g'16. f32 es16. d32 c16. b32
-		a16 fis g8 es'
+		a16 fis g8[ es']
 		b a4
 		g16[ g] g'8-! g-! %180
 		r16 g, g'8[-! g]-!
 		r16 g, es'8[-! es]-!
 		r16 d32[ c] b16 g a fis
-		g\p d' g8[-! g]-!
+		g d'\p g8[-! g]-!
 		r16 g, g'8[-! g]-! %185
 		r16 g, es'8[-! es]-!
 		r16 d32[\f c] b16 g a fis
@@ -509,7 +509,7 @@ LaudamusViolinoI = {
 		r16 b, g'8[-! g]-!
 		r16 b, g'8[-! g]-!
 		a b es, %215
-		d \appoggiatura d\trill c4
+		d \appoggiatura d c4\trill
 		b16.\f f'32 b16. b32 b16. b32
 		a([ g f16)] f8. f16
 		d'16. d32 c16. c32 b16. b32
@@ -552,7 +552,7 @@ LaudamusViolinoI = {
 		g d'\fE g8[-! g-!]
 		r16 g,\pE g'8[ g]
 		r16 g, es'8[ es]
-		r16 g, es'8[ es]
+		r16 g, e'?8[ e]
 		fis g a %260
 		g a b
 		a4 r8

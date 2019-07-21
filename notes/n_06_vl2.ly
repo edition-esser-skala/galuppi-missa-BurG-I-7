@@ -450,6 +450,122 @@ LaudamusViolinoII = {
 		\clef treble
 		\key g \dorian \time 3/8 \tempoLaudamus
 			\set Score.currentBarNumber = #161
-		
+		b'8\fE a g
+		a16. es'?32 a8-! a-!
+		a,8 g fis
+		g16. d'32 g8-! g-!
+		b,\p a g %165
+		a16. es'?32 a8-! a-!
+		a, g fis
+		g16. d'32 g8-! g-!
+		r16 d\f g16. g32 g16. g32
+		fis32([ e d16)] d8. d16 %170
+		b'16. b32 a16. a32 g16. g32
+		fis32([ e d16)] d4
+		r8 r es
+		es16. d32 c16. b32 a16. g32
+		\appoggiatura g8 fis4 d'8 %175
+		d16. c32 b16. a32 g16. f32
+		es8. g16 a g
+		fis[ d] g,8 g'
+		g fis4
+		g16[ g] g'8-! g-! %180
+		r16 g, g'8[-! g]-!
+		r16 g, es'8[-! es]-!
+		r16 d32[ c] b16 g a fis
+		g d'\p g8[-! g]-!
+		r16 g, g'8[-! g]-! %185
+		r16 g, es'8[-! es]-!
+		r16 d32[\f c] b16 g a fis
+		g8 g, r
+		R4.
+		r16 a'\f a'8[-! a]-! %190
+		R4.
+		r16 g, g'8[-! g]-!
+		R4.*3 %195
+		r16 d es16. fis?32 g16. a32
+		b8 b, r
+		r16 f\p d'8[ d]
+		r16 c, c'8[ c]
+		r16 b, b'8[ b] %200
+		a4 r8
+		a4 r8
+		b4 r8
+		b4 r8
+		a4 r8 %205
+		R4.
+		r16 b\f b'8[-\parenthesize-! b]-\parenthesize-!
+		r16 b,\p b'8[ b]
+		r16 b, g'8[ g]
+		r16 f32[ es] d16 b c a %210
+		b16. b32\f b'8[-! b]-!
+		r16 b,\pE b'8[-! b]-!
+		r16 b, g'8[-! g]-!
+		r16 b, g'8[-! g]-!
+		f d b %215
+		b \appoggiatura b a4\trill
+		b16.\f f'32 b16. b32 b16. b32
+		a([ g f16)] f4
+		r8 r g
+		a16. g32 f16. es32 d16. c32 %220
+		\appoggiatura c8 d4 f8
+		g16. f32 es16. d32 c16. b32
+		\appoggiatura b8 a4 f'8
+		f16. es32 d16. c32 b16. a32
+		g8. g16 c b %225
+		a8 b es,
+		d16 b' c,8[ a']
+		b b, r
+		R4.
+		r16 c'\f c'8[-\parenthesize-! c]-\parenthesize-! %230
+		R4.
+		r16 b, b'8[-! b]-!
+		b,\p c b
+		a b a
+		g8. fis16 g8 %235
+		fis4 r8
+		r16 d' g16. g32 g16. g32
+		fis([ e d16)] d8. d16
+		b'16. b32 a16. a32 g16. g32
+		\once \slurDashed fis([ e d16)] d8. d16 %240
+		r16 d g16. g32 g16. g32
+		\once \slurDashed fis([ e d16)] d8. d16
+		b'16. b32 a16. a32 g16. g32
+		\once \slurDashed fis([ e d16)] d8. d16
+		b'16. a32 g16. f32 es16. d32 %245
+		\appoggiatura d8 c4~ c16. c32
+		a'16. g32 fis16. es32 d16. c32
+		\appoggiatura c8 b4~ b16. b32
+		g'16. f32 es16. d32 c16. b32
+		fis'4 r8 %250
+		R4.
+		r16 g,\f g'8[-\parenthesize-! g]-\parenthesize-!
+		r16 g,\p g'8[ g]
+		r16 g, es'8[ es]
+		r16 d32[ c] b16 g a fis %255
+		g d'\fE g8[-! g-!]
+		r16 g,\pE g'8[ g]
+		r16 g, es'8[ es]
+		r16 g, e'?8[ e]
+		a, b c %260
+		b c d
+		es4 r8
+		R4.
+		r8 r es\fE
+		es16. d32 c16. b32 a16. g32 %265
+		fis4 d'8
+		d16. c32 b16. a32 g16. f32
+		es16 g c16. b32 a16. g32
+		fis8 g c,
+		b16. g'32 a,8[ fis'] %270
+		g16. d'32 g8[-! g]-!
+		r16 g, g'8[-! g]-!
+		r16 g, es'8[-! es]-!
+		r16 d32[ c] b16 g a fis
+		g16. d'32\p g8[-! g]-! %275
+		r16 g, g'8[-! g]-!
+		r16 g, es'8[-! es]-!
+		r16 d32[\f c] b16 g a fis
+		g8 g, r\fermata \bar "||" %279 finis
 	}
 }
