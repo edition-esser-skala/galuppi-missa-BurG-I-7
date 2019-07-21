@@ -1129,11 +1129,87 @@ GratiasOrgano = {
 		\key es \major \time 4/4 \tempoGratias
 			\set Score.currentBarNumber = #280
 		\mvTr es8-!\pE-\tutti r es-! r d-! r d-! r
+		c-\parenthesize-! r c-\parenthesize-! r as-! r as'-! r
+		g-\markup { \remarkE "simile" } r g r f r b, r
+		es r es r d r d r
+		c r c r as r as' r
+		g r g r f r b, r %285
+		es r es r b r d r
+		c2\fermata b4 \tempoPropter b'~\fE
+		b a b
+		as8 g f g as b g4 es
+		f2 b,4 g' %290
+		as b es, b'~
+		b a b b8 a
+		g a b c f, g a b
+		es,4 es'2 d4~
+		d c8 b as4 b %295
+		f2 b,4 r
+		b\p r b r
+		b r b r
+		b r h r
+		h? r c \clef treble << {
+			r4 %300
+			r2 r4 c''~
+			c h c
+		} \\ {
+			g~ %300
+			g fis g f8 es
+			d es f g e[ c]
+		} >> \clef "treble_8" f4~
+		f e f \clef bass b,~
+		b a b as8 g
+		f g as b es, f g as %305
+		d, es f g c, c f4~
+		f e f f,
+		\clef "treble_8" f'' e f des
+		es f \clef bass b, as8 g
+		f g as b es, f g as %310
+		b1
+		b,8 c d es as, b c d
+		g4 as b es,
+		b'2 b,
+		es4 r r2\fermata \bar "||" %315 finis
 	}
 }
 
 GratiasBassFigures = \figuremode {
-	
+	r1 %280
+	r
+	<6>2 <7>4 q
+	r1
+	r
+	<[6]>2 <[7]>4 q %285
+	r1
+	<7>4 <[6!]> r2
+	r1
+	<7>2 <6>
+	<5 4>4 <5 _!> r <6> %290
+	<6 5>1
+	r
+	r
+	r
+	r %295
+	<5 4>4 <\l [_!]> r2
+	r <6 4>
+	<[\t \t]> <5 3>
+	r <7- 5>
+	<[\t \t]>1 %300
+	r
+	r
+	r
+	r
+	<7>4 <6> <7>2 %305
+	q <_!>
+	<4 2>4 <6 5> <_->2
+	r1
+	r
+	r %310
+	r
+	r
+	r
+	r
+	r %315 finis
 }
 
 % Organo = {
