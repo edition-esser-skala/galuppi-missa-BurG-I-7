@@ -417,7 +417,7 @@ EtInTerraTenoreNotes = {
 		es b4 b8 c4.( es4) c8
 		b4. \mvTr d\fE^\tutti es f
 		f f r4 r8 \mvTr d4\pE^\solo d8
-		c4 c8 d4. r4 r8 b4.~ %140
+		c4 c8 c4. r4 r8 b4.~ %140
 		b4 b8 c4 b8 a4 b8 c4.
 		b4 c8 d4. c4 b8 a4 b8
 		a4. g f \mvTr c'\fE^\tutti

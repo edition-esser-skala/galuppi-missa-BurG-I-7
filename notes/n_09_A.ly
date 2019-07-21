@@ -634,7 +634,7 @@ LaudamusAltoNotes = {
 		b
 		b
 		a8[ b c] %215
-		b a4
+		b a4\trillE
 		b4 r8
 		R4.*11 %228
 		f8 es d
