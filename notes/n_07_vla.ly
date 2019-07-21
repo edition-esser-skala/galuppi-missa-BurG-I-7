@@ -417,6 +417,33 @@ EtInTerraViola = {
 		\clef treble
 		\key b \major \time 12/8 \tempoEtInTerra
 			\set Score.currentBarNumber = #133
-		
+		f4\p f8 es4 es8 d4 d8 b4 b8
+		d4 d,8 es4 es8 f4 f8 es4 es'8
+		d4 d8 c4 c8 b4 b8 b4 b8 %135
+		b4 b8 b4 b8 b'4 b8 b4 as8
+		g4 g8 g4 g8 es4 es8 f4 f8
+		b,4. f'4\f d8 es4 es8 f4 f8
+		f4 f8 f4. r4 r8 b4\p b8
+		b4 b8 a4 a8 g4 g8 g4 g8 %140
+		c,4 c8 c4 c8 f4 f8 f4 f8
+		b,4 b8 b4 b8 f'4 f8 f4 b,8
+		c4 c8 c,4 c8 f4. f'4\f f8
+		f4 f8 g4 g8 f4 a,8 a4 f8
+		f4. f'4\p f8 es!4 es8 es4 es8 %145
+		d4 d8 d4 d8 es4 es8 es4 es8
+		es4 es8 cis4 cis8 d4. d4\f d8
+		d4 d8 d4 d8 d4 d8 d4.
+		a'4\p a8 a4 a8 g4 g8 a4 g8
+		fis4 fis8 d4 c8 d4 d8 d4 d8 %150
+		g,4 g8 g'4\fE g8 c,4\p c8 c4\f c8
+		f4\p f8 f4 f8 f4 f8 f4 f8
+		f4 f8 f4 f8 f4 f8 f4 f8
+		b,4 b8 b'4 es,8 f4 f8 f,4 f8
+		b4. f'4\f f8 g4 g8 f4 f8 %155
+		d4 d8 b4 b8 f4 f8 d4 d'8
+		f4\p f8 es4 es8 d4 d8 b4 b8
+		d4 d,8 es4 es8 f4 f8 d'4 d8
+		es4 es8 es4 es8 f4 f8 f4 f8
+		d4 d8 b4 b8 b4. r4 r8\fermata \bar "||" %160 finis
 	}
 }
