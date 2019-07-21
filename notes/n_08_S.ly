@@ -565,12 +565,41 @@ EtInTerraSopranoNotes = {
 		\clef treble
 		\key b \major \time 12/8 \autoBeamOff \tempoEtInTerra
 			\set Score.currentBarNumber = #133
-		
+		R1.*5 %137
+		r4 r8 \mvTr f'4.\fE^\tuttiE g es
+		d d r2*3/2
+		R1.*3 %142
+		r2*3/2 r4 r8 \mvTr f4.\fE^\tuttiE
+		f e f f
+		R1.*2 %146
+		r2*3/2 r4 r8 \mvTr d4.\fE^\tuttiE
+		d d d d
+		R1.*2 %150
+		r4 r8 \mvTr d4.\fE^\tuttiE r4 r8 \mvTr e4.\fE^\tuttiE
+		R1.*3
+		r4 r8 \mvTr f4.\fE^\tuttiE g f %155
+		f f4 f8 f4. f
+		f r4 r8 r2*3/2
+		R1.*2
+		R1.\fermataMarkup \bar "||" %160 finis
 	}
 }
 
 EtInTerraSopranoLyrics = \lyricmode {
+	[In ter -- ra %138
+	pax, pax,]
 	
+	[in %143
+	ter -- ra pax, pax,]
+	
+	[in %147
+	ter -- ra pax, pax,]
+	
+	pax, pax, %151
+	
+	[in ter -- ra %155
+	pax, pax, in ter -- ra
+	pax.]
 }
 
 % SopranoNotes = {
