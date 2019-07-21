@@ -813,11 +813,65 @@ EtInTerraOrgano = {
 		\key b \major \time 12/8 \tempoEtInTerra
 			\set Score.currentBarNumber = #133
 		\mvTr b4\p-\soloE b8 c4 c8 d4 d8 es4 es8
+		d4 d8 c4 c8 b4 b8 c4 c8
+		d4 d8 c4 c8 b4 b8 b4 b8 %135
+		b4 b8 b4 b8 b'4 b8 b4 as8
+		g4 g8 g4 g8 es4 es8 f4 f8
+		b,4. \mvTr b'4\f-\tuttiE b8 es,4 es8 f4 f8
+		b,4. b' b, \mvTr b'4\p-\soloE b8
+		b4 b8 a4 a8 g4 g8 g4 g8 %140
+		c,4 c8 c4 c8 f4 f8 f4 f8
+		b,4 b8 b4 b8 f'4 f8 f4 b,8
+		c4 c8 c,4 c8 f4. \mvTr f'4\f-\tuttiE f8
+		b,4 b8 c4 c8 f,4 f8 f'4 f,8
+		f4. \mvTr f'4\p-\soloE f8 es!4 es8 es4 es8 %145
+		d4 d8 d4 d8 es4 es8 es4 es8
+		es4 es8 cis4 cis8 d4. \mvTr d'4\f-\tuttiE d,8
+		d'4 d8 g,4 g8 d4 d'8 d4.
+		\mvTr fis,4\p-\soloE fis8 fis4 fis8 g4 g8 c,4 c8
+		d4 d8 g4 c,8 d4 d8 d,4 d8 %150
+		g4 g8 \mvTr g'4\f-\tuttiE g8 \mvTr c,4\p-\soloE c8 \mvTr c4\f-\tuttiE c8
+		\mvTr f4\p-\soloE f8 f4 f8 f4 f8 f4 f8
+		f4 f8 f4 f8 f4 f8 f4 f8
+		b,4 b8 b'4 es,8 f4 f8 f,4 f8
+		b4. \mvTr b'4\f-\tuttiE b8 es,4 es8 f4 f,8 %155
+		b4 b'8 b4 b8 b4 b8 b,4 b8
+		b4\p b8 c4 c8 d4 d8 es4 es8
+		d4 d8 c4 c8 b4 b8 d4 d8
+		es4 es8 es4 es8 f4 f8 f,4 f8
+		b4 b'8 b,4 b'8 b,4. r4 r8\fermata \bar "||" %160 finis
 	}
 }
 
 EtInTerraBassFigures = \figuremode {
-	
+	r1. %133
+	r
+	r %135
+	<6 4>2. <5 4>4. <\l 3>4 <6 4 2>8
+	<6>2. <6 5>4. <7>
+	r2. r4. <7>
+	r1.
+	<4! 2>4. <6> <7>2. %140
+	q r4 <4 2>8 <5 3>4.
+	r2. r4 <4 2>8 <5 3>4 <6 5>8
+	<6 4>4. <5 _!> r2.
+	r1.
+	r2. <6 3> %145
+	<7 _+> <5 2+>4. <5 3>
+	q <7 5> <_+> q
+	r2. <_+>
+	<6>4. r4 <5>8 r4. <6>4 <7 5>8
+	<_+>4. r4 <6 5>8 <6 4>4. <5 _+> %150
+	r1.
+	r
+	<6 4>4. <7 5>4 <6 4>8 <5 3>4 <6 4>8 <7 5>8 <5 3>4
+	r4 <7 5 2>8 <5 3>4 <6 5>8 <6 4>4. <5 3>
+	r2. r4. <7> %155
+	r1.
+	r4. <6> q r
+	q q r q
+	<6 5>2. <6 4>4. <5 3>4 <7>8
+	r1. %160 finis
 }
 
 % Organo = {
