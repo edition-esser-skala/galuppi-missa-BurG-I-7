@@ -560,6 +560,19 @@ GloriaSopranoLyrics = \lyricmode {
 	o.] %130 finis
 }
 
+EtInTerraSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 12/8 \autoBeamOff \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		
+	}
+}
+
+EtInTerraSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble

@@ -198,6 +198,7 @@ tempoKyrieII = \tempoMarkup "Adagio"
 	tempoKyrieIIFugaFinis = \tempoMarkup "Adagio"
 
 tempoGloria = \tempoMarkup "[Tempo deest]"
+tempoEtInTerra = \tempoMarkup "Larghetto"
 
 
 

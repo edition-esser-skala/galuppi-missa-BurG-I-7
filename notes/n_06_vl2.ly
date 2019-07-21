@@ -408,3 +408,12 @@ GloriaViolinoII = {
 		R2.\fermataMarkup \bar "||" %132 finis
 	}
 }
+
+EtInTerraViolinoII = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 12/8 \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		
+	}
+}

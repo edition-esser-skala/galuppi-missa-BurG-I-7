@@ -529,6 +529,19 @@ GloriaBassoLyrics = \lyricmode {
 	o. %130 finis
 }
 
+EtInTerraBassoNotes = {
+	\relative c {
+		\clef bass
+		\key b \major \time 12/8 \autoBeamOff \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		
+	}
+}
+
+EtInTerraBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c {
 % 		\clef bass

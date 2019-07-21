@@ -807,6 +807,19 @@ GloriaBassFigures = \figuremode {
 	r %132 finis
 }
 
+EtInTerraOrgano = {
+	\relative c {
+		\clef bass
+		\key b \major \time 12/8 \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		\mvTr b4\p-\soloE b8 c4 c8 d4 d8 es4 es8
+	}
+}
+
+EtInTerraBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

@@ -415,6 +415,15 @@ GloriaViolinoI = {
 	}
 }
 
+EtInTerraViolinoI = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 12/8 \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble

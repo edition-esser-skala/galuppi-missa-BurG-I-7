@@ -539,6 +539,19 @@ GloriaAltoLyrics = \lyricmode {
 	o.] %130 finis
 }
 
+EtInTerraAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 12/8 \autoBeamOff \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		
+	}
+}
+
+EtInTerraAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble

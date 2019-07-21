@@ -407,6 +407,19 @@ GloriaTenoreLyrics = \lyricmode {
 	o.] %130 finis
 }
 
+EtInTerraTenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key b \major \time 12/8 \autoBeamOff \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		
+	}
+}
+
+EtInTerraTenoreLyrics = \lyricmode {
+	
+}
+
 % TenoreNotes = {
 % 	\relative c' {
 % 		\clef "treble_8"

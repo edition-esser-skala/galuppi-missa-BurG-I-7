@@ -411,3 +411,12 @@ GloriaViola = {
 		f4 r r\fermata \bar "||" %132 finis
 	}
 }
+
+EtInTerraViola = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 12/8 \tempoEtInTerra
+			\set Score.currentBarNumber = #133
+		
+	}
+}
