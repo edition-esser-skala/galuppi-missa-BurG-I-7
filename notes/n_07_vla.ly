@@ -447,3 +447,12 @@ EtInTerraViola = {
 		d4 d8 b4 b8 b4. r4 r8\fermata \bar "||" %160 finis
 	}
 }
+
+LaudamusViola = {
+	\relative c' {
+		\clef treble
+		\key g \dorian \time 3/8 \tempoLaudamus
+			\set Score.currentBarNumber = #161
+		
+	}
+}

@@ -874,6 +874,19 @@ EtInTerraBassFigures = \figuremode {
 	r1. %160 finis
 }
 
+LaudamusOrgano = {
+	\relative c {
+		\clef bass
+		\key g \dorian \time 3/8 \tempoLaudamus
+			\set Score.currentBarNumber = #161
+		\mvTr g'4\fE-\soloE r8
+	}
+}
+
+LaudamusBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

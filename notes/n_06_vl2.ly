@@ -444,3 +444,12 @@ EtInTerraViolinoII = {
 		b4 f8 d4 f8 b,4. r4 r8\fermata \bar "||" %160 finis
 	}
 }
+
+LaudamusViolinoII = {
+	\relative c' {
+		\clef treble
+		\key g \dorian \time 3/8 \tempoLaudamus
+			\set Score.currentBarNumber = #161
+		
+	}
+}

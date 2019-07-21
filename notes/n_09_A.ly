@@ -601,6 +601,19 @@ EtInTerraAltoLyrics = \lyricmode {
 	pax.] %157 finis
 }
 
+LaudamusAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key g \dorian \time 3/8 \autoBeamOff \tempoLaudamus
+			\set Score.currentBarNumber = #161
+		
+	}
+}
+
+LaudamusAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble

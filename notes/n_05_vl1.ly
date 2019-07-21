@@ -451,6 +451,15 @@ EtInTerraViolinoI = {
 	}
 }
 
+LaudamusViolinoI = {
+	\relative c' {
+		\clef treble
+		\key g \dorian \time 3/8 \tempoLaudamus
+			\set Score.currentBarNumber = #161
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble

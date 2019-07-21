@@ -602,6 +602,19 @@ EtInTerraSopranoLyrics = \lyricmode {
 	pax.] %157 finis
 }
 
+LaudamusSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key g \dorian \time 3/8 \autoBeamOff \tempoLaudamus
+			\set Score.currentBarNumber = #161
+		
+	}
+}
+
+LaudamusSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble
