@@ -578,6 +578,41 @@ GratiasViola = {
 		\clef treble
 		\key es \major \time 4/4 \tempoGratias
 			\set Score.currentBarNumber = #280
-		
+		r8 b\p-\parenthesize-! r b-\parenthesize-! r b-\parenthesize-! r b-\parenthesize-!
+		r g-\markup { \remarkE "simile" } r g r as r as
+		r b r b r c r b
+		r b r b r b r b
+		r g r g r as r as
+		r b r b r c r b %285
+		r b r b r d r b
+		c2\fermata \tempoPropter b4 r
+		r8 b'\fE c a r b b b
+		r f f b r b g b
+		r b f a r b, d b %290
+		r c f d r es f d
+		r es c f r d b c
+		r c d es r b c d
+		r es c es r f es d
+		r es es d r c d f %295
+		r f c a b4 r
+		b\pE r b r
+		b r b r
+		b r h r
+		h? r c r %300
+		d\fE d g,8 g' f! es
+		d es f g e c f4~
+		f e f es8 d!
+		c d es f r b b b,
+		r c d d r b c c %305
+		r as! h h r c as c
+		r d e g r f c f
+		r f e e r f des des
+		r es f f r f g! g
+		r c, d d r b c c %310
+		r d f d r es g es
+		d es f g c, d es f
+		g4 f f b
+		b1
+		b4 r r2\fermata \bar "||" %315 finis
 	}
 }
