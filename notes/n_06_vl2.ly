@@ -613,3 +613,12 @@ GratiasViolinoII = {
 		es4 r r2\fermata \bar "||" %315 finis
 	}
 }
+
+DomineDeusViolinoII = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 4/4 \tempoDomineDeus
+			\set Score.currentBarNumber = #316
+		
+	}
+}

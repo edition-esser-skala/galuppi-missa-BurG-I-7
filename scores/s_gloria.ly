@@ -207,9 +207,70 @@
 % 			\midi { \tempo 4. = 45 }
 % 		}
 % 	}
+% 	\bookpart {
+% 		\header {
+% 			movement = "2.4 GRATIAS"
+% 		}
+% 		\score {
+% 			<<
+% 				\new StaffGroup <<
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino I"
+% 							\GratiasViolinoI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino II"
+% 							\GratiasViolinoII
+% 						}
+% 					>>
+% 					\new Staff <<
+% 						\set Staff.instrumentName = "Viola"
+% 						\GratiasViola
+% 					>>
+% 				>>
+% 				\new ChoirStaff <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Soprano"
+% 						\new Voice = "Soprano" { \dynamicUp \GratiasSopranoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Soprano \GratiasSopranoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Alto"
+% 						\new Voice = "Alto" { \dynamicUp \GratiasAltoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Alto \GratiasAltoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Tenore"
+% 						\new Voice = "Tenore" { \dynamicUp \GratiasTenoreNotes }
+% 					}
+% 					\new Lyrics \lyricsto Tenore \GratiasTenoreLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Basso"
+% 						\new Voice = "Basso" { \dynamicUp \GratiasBassoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Basso \GratiasBassoLyrics
+% 				>>
+% 				\new StaffGroup <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Organo"
+% 						\GratiasOrgano
+% 					}
+% 				>>
+% 				\new FiguredBass {
+% 					\GratiasBassFigures
+% 				}
+% 			>>
+% 			\layout { }
+% 			\midi { \tempo 4 = 45 }
+% 		}
+% 	}
 	\bookpart {
 		\header {
-			movement = "2.4 GRATIAS"
+			movement = "2.5 DOMINE DEUS"
 		}
 		\score {
 			<<
@@ -217,55 +278,37 @@
 					\new GrandStaff <<
 						\new Staff {
 							\set Staff.instrumentName = "Violino I"
-							\GratiasViolinoI
+							\DomineDeusViolinoI
 						}
 						\new Staff {
 							\set Staff.instrumentName = "Violino II"
-							\GratiasViolinoII
+							\DomineDeusViolinoII
 						}
 					>>
 					\new Staff <<
 						\set Staff.instrumentName = "Viola"
-						\GratiasViola
+						\DomineDeusViola
 					>>
 				>>
-				\new ChoirStaff <<
+				\new ChoirStaff \with { \smallerGroupDistance } <<
 					\new Staff {
 						\set Staff.instrumentName = "Soprano"
-						\new Voice = "Soprano" { \dynamicUp \GratiasSopranoNotes }
+						\new Voice = "Soprano" { \dynamicUp \DomineDeusSopranoNotes }
 					}
-					\new Lyrics \lyricsto Soprano \GratiasSopranoLyrics
-					
-					\new Staff {
-						\set Staff.instrumentName = "Alto"
-						\new Voice = "Alto" { \dynamicUp \GratiasAltoNotes }
-					}
-					\new Lyrics \lyricsto Alto \GratiasAltoLyrics
-					
-					\new Staff {
-						\set Staff.instrumentName = "Tenore"
-						\new Voice = "Tenore" { \dynamicUp \GratiasTenoreNotes }
-					}
-					\new Lyrics \lyricsto Tenore \GratiasTenoreLyrics
-					
-					\new Staff {
-						\set Staff.instrumentName = "Basso"
-						\new Voice = "Basso" { \dynamicUp \GratiasBassoNotes }
-					}
-					\new Lyrics \lyricsto Basso \GratiasBassoLyrics
+					\new Lyrics \lyricsto Soprano \DomineDeusSopranoLyrics
 				>>
 				\new StaffGroup <<
 					\new Staff {
 						\set Staff.instrumentName = "Organo"
-						\GratiasOrgano
+						\DomineDeusOrgano
 					}
 				>>
 				\new FiguredBass {
-					\GratiasBassFigures
+					\DomineDeusBassFigures
 				}
 			>>
 			\layout { }
-			\midi { \tempo 4 = 45 }
+			\midi { \tempo 4 = 60 }
 		}
 	}
 }

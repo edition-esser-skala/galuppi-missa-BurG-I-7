@@ -814,6 +814,19 @@ GratiasSopranoLyrics = \lyricmode {
 	am. %315 finis
 }
 
+DomineDeusSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 4/4 \autoBeamOff \tempoDomineDeus
+			\set Score.currentBarNumber = #316
+		
+	}
+}
+
+DomineDeusSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble

@@ -620,6 +620,15 @@ GratiasViolinoI = {
 	}
 }
 
+DomineDeusViolinoI = {
+	\relative c' {
+		\clef treble
+		\key b \major \time 4/4 \tempoDomineDeus
+			\set Score.currentBarNumber = #316
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble

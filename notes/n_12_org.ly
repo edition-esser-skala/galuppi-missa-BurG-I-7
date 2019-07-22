@@ -1212,6 +1212,19 @@ GratiasBassFigures = \figuremode {
 	r1 %315 finis
 }
 
+DomineDeusOrgano = {
+	\relative c {
+		\clef bass
+		\key b \major \time 4/4 \tempoDomineDeus
+			\set Score.currentBarNumber = #316
+		\mvTr b'8\fE-\soloE r a r g r d r
+	}
+}
+
+DomineDeusBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

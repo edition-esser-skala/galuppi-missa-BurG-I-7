@@ -202,6 +202,7 @@ tempoEtInTerra = \tempoMarkup "Larghetto"
 tempoLaudamus = \tempoMarkup "Allegretto"
 tempoGratias = \tempoMarkup "Largo"
 	tempoPropter = \tempoMarkup "Andante"
+tempoDomineDeus = \tempoMarkup "Andantino"
 
 
 
