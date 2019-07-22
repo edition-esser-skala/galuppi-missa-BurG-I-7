@@ -575,7 +575,7 @@ LaudamusViola = {
 
 GratiasViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key es \major \time 4/4 \tempoGratias
 			\set Score.currentBarNumber = #280
 		r8 b\p-\parenthesize-! r b-\parenthesize-! r b-\parenthesize-! r b-\parenthesize-!

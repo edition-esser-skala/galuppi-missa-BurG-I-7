@@ -615,7 +615,7 @@ GratiasViolinoI = {
 		r f f, f' r es es, es'
 		d g g, g' r g f f
 		f es4 as g16 f g8 g
-		f1
+		g4^\critnote f8 es f2
 		g4 r r2\fermata \bar "||" %315 finis
 	}
 }
