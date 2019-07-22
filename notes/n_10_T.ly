@@ -470,12 +470,60 @@ GratiasTenoreNotes = {
 		\clef "treble_8"
 		\key es \major \time 4/4 \autoBeamOff \tempoGratias
 			\set Score.currentBarNumber = #280
-		
+		R1*7 %286
+		<< { \oneVoice R1\fermataMarkup  } \\ { s2 \tempoPropter s } >>
+		r2 r4 \mvTr es~\fE^\tuttiE
+		es d es es8([ d)]
+		c([ d)] es f d4 b %290
+		c b b d
+		es c8 c d4 d8 c
+		b([ c)] d es a,([ b)] c d
+		es2 f
+		es2. d8 d %295
+		c2 d4 r
+		R1*5 %301
+		r2 r4 f~
+		f e f es8([ d!)]
+		c([ d)] es f d4 b
+		r2 r4 c~ %305
+		c h c b8([ as)]
+		g([ as)] b c as f f'4~
+		f e f des
+		es f8 f f4 b,
+		c b8 b b4 es, %310
+		r d'( es) c8 c
+		d([ es)] f g c,([ d)] es f
+		d4( c d) es8 es
+		es4( d8[ c] d2)
+		es4 r r2\fermata \bar "||" %315 finis
 	}
 }
 
 GratiasTenoreLyrics = \lyricmode {
+	Pro -- %288
+	pter ma -- gnam
+	glo -- ri -- am tu -- am, %290
+	pro -- pter ma -- gnam
+	glo -- ri -- am, glo -- ri -- am,
+	glo -- ri -- am, glo -- ri -- am,
+	glo -- _
+	_ ri -- am %295
+	tu -- am,
 	
+	pro -- %302
+	pter ma -- gnam
+	glo -- ri -- am tu -- am,
+	pro -- %305
+	pter ma -- gnam
+	glo -- ri -- am tu -- am, pro --
+	pter ma -- gnam
+	glo -- ri -- am tu -- am,
+	glo -- ri -- am tu -- am, %310
+	glo -- ri -- am,
+	glo -- ri -- am, glo -- ri -- am,
+	glo -- ri -- am
+	tu --
+	am. %315 finis
 }
 
 % TenoreNotes = {
