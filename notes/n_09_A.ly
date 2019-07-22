@@ -746,12 +746,71 @@ GratiasAltoNotes = {
 		\clef treble
 		\key es \major \time 4/4 \autoBeamOff \tempoGratias
 			\set Score.currentBarNumber = #280
-		
+		R1*4 %283
+		r2 r4 \mvTr es~\pE^\tuttiE
+		es f8. g16 as8. as,16 as4 %285
+		g'2 f4 b
+		b( a?)\fermata \tempoPropter b4 r
+		R1
+		r2 r4 b~\fE
+		b a b as8([ g)] %290
+		f([ g)] as b g es f4(
+		g) f8 f f4 f
+		g2( a4) f8 f
+		g([ a)] b c f,([ g)] a b
+		g4( a8[ b] f4) f8 f %295
+		f2 f4 r
+		R1*3
+		r2 r4 g~ %300
+		g fis g f8([ es)]
+		d([ es)] f g e c as'4(
+		b) g8 g a a f4(
+		g) f8 f f4 g
+		as!2 g %305
+		as4. g8 g4 r
+		r2 c4( b8[ as]
+		g[ as)] b c a f b4~
+		b a? b b
+		as2 g %310
+		f8[ g] as b es,([ f)] g as
+		d, g g2 f4~
+		f8 es4 as g16[ f] g8 g
+		g4( f8[ es] f2)
+		g4 r r2\fermata \bar "||" %315 finis
 	}
 }
 
 GratiasAltoLyrics = \lyricmode {
+	Gra -- %284
+	ti -- as a -- gi -- mus, %285
+	a -- gi -- mus
+	ti -- bi
 	
+	pro --
+	pter ma -- gnam %290
+	glo -- ri -- am tu -- am, glo --
+	ri -- am tu -- am,
+	glo -- ri -- am,
+	glo -- ri -- am, glo -- ri -- am,
+	glo -- ri -- am %295
+	tu -- am,
+	
+	pro -- %300
+	pter ma -- gnam
+	glo -- ri -- am tu -- am, glo --
+	ri -- am tu -- am, glo --
+	ri -- am, glo -- _
+	_ _ %305
+	_ ri -- am,
+	glo --
+	ri -- am tu -- am, pro --
+	pter ma -- gnam
+	glo -- _ %310
+	_ ri -- am, glo -- ri -- am
+	tu -- am, glo -- _
+	_ _ _ ri -- am
+	tu --
+	am. %315 finis
 }
 
 % AltoNotes = {

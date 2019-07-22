@@ -754,9 +754,9 @@ GratiasSopranoNotes = {
 		es8. es,16 es4 c'2
 		b4 es es( d) %285
 		es2 d4 es8 f
-		es2\fermata d4 \tempoPropter r
+		es2\fermata \tempoPropter d4 r
 		R1*2
-		r2 r4 es~ %290
+		r2 r4 es~\fE %290
 		es d es d8([ c)]
 		c([ d)] es f d b f'4~
 		f es2 d4~

@@ -1135,7 +1135,7 @@ GratiasOrgano = {
 		c r c r as r as' r
 		g r g r f r b, r %285
 		es r es r b r d r
-		c2\fermata b4 \tempoPropter b'~\fE
+		c2\fermata \tempoPropter b4 b'~\fE
 		b a b
 		as8 g f g as b g4 es
 		f2 b,4 g' %290
@@ -1163,7 +1163,7 @@ GratiasOrgano = {
 		d, es f g c, c f4~
 		f e f f,
 		\clef "treble_8" f'' e f des
-		es f \clef bass b, as8 g
+		es f \clef bass b, as8 g!
 		f g as b es, f g as %310
 		b1
 		b,8 c d es as, b c d
@@ -1184,12 +1184,12 @@ GratiasBassFigures = \figuremode {
 	<7> <[6!]> r2
 	r1
 	<7>2 <6>
-	<5 4>4 <5 _!> r <6> %290
+	<5 4>4 <\l _!> r <6> %290
 	<6 5>1
-	r
-	r
-	r
-	r %295
+	<[2]>4 <[6 5]> r2
+	<[7]>4 <[6 4]>8 <[\t \t]> <[7]>4 <[6 4]>8 <[\t \t]>
+	<[7]>4 <[6]> <[4! 2]> <[6]>
+	<[2]> <[6!]>8 <[8]> <[6]>2 %295
 	<5 4>4 <\l [_!]> r2
 	r <6 4>
 	<[\t \t]> <5 3>
@@ -1197,17 +1197,17 @@ GratiasBassFigures = \figuremode {
 	<[\t \t]>1 %300
 	r
 	r
-	r
-	r
-	<7>4 <6> <7>2 %305
-	q <_!>
+	<[6- 4 2]>4 <[6]> <[_!]>2
+	<[2]>4 <[6]> r <[5 2]>8 <[\t \t]>
+	<7>4 <[8 4 2]>8 <[\t \t \t]> <7>4 <[8 4 2]>8 <[\t \t \t]> %305
+	<7>4. <[7 _!]>8 <_!>2
 	<4 2>4 <6 5> <_->2
+	<[6- 4 2]>4 <[6 5]> <[_!]> <[6]>
+	<[6 5 _-]> <[_!]> q <[5 2]>8 <[\t \t]>
+	<[7]>4 <[8 4 2]>8 <[\t \t \t]> r2 %310
 	r1
 	r
-	r %310
-	r
-	r
-	r
+	<[7]>8 <[6]> r4
 	r
 	r %315 finis
 }
