@@ -1136,8 +1136,8 @@ GratiasOrgano = {
 		g r g r f r b, r %285
 		es r es r b r d r
 		c2\fermata \tempoPropter b4 b'~\fE
-		b a b
-		as8 g f g as b g4 es
+		b a b as8 g
+		f g as b g4 es
 		f2 b,4 g' %290
 		as b es, b'~
 		b a b b8 a
