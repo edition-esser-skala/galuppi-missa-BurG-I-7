@@ -765,7 +765,7 @@ GratiasSopranoNotes = {
 		b4( a) b r
 		R1*4 %300
 		r2 r4 c~
-		c h c b8([ as)]
+		c h c b8([ as!)]
 		g([ as)] b c a f d'4(
 		es) c8 c d b es4~
 		es d2 c4 %305

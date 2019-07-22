@@ -581,7 +581,42 @@ GratiasViolinoI = {
 		\clef treble
 		\key es \major \time 4/4 \tempoGratias
 			\set Score.currentBarNumber = #280
-		
+		r8 g'-!\p r g-! r b-! r b-!
+		r es-! r es-! r es-! r es-!
+		r es-! r b-! r as-! r as-!
+		r g-\markup { \remarkE "simile" } r g r b r b
+		r es r es r es r es
+		r es r b r as r as %285
+		r g r g r f r f'
+		es2\fermata \tempoPropter r8 d\f f d
+		r es g es r c es g
+		r f as f r g b g
+		r f a f r f as f %290
+		r f b f r g b g
+		r c, es c r d f f,
+		r f' es es, r es' d d,
+		r a''? b c r g a b
+		r es, g es r es d f %295
+		r f a f r f\p b f
+		r f b f r g b g
+		r g b g r f b f
+		r f b f r f as! f
+		r f as f r es g es %300
+		r d\f fis d r d g g,
+		r d' g d r e f as!
+		r g c g r a b f
+		r es f c r d es f
+		r as as, as' r g g, g' %305
+		r f f, f' r e f as
+		r g c g r as c as
+		r g c g r a b f^\critnote
+		r ges? a? f r f b g
+		r as as, as' r g g, g' %310
+		r f f, f' r es es, es'
+		d g g, g' r g f f
+		f es4 as g16 f g8 g
+		f1
+		g4 r r2\fermata \bar "||" %315 finis
 	}
 }
 

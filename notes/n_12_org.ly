@@ -1174,8 +1174,8 @@ GratiasOrgano = {
 }
 
 GratiasBassFigures = \figuremode {
-	r1 %280
-	r
+	r2 <[6]> %280
+	r1
 	<6>2 <7>4 q
 	r2 <[6]>
 	r1

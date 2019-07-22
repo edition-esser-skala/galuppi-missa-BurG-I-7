@@ -622,17 +622,17 @@ GratiasBassoLyrics = \lyricmode {
 	
 	pro -- %303
 	pter ma -- gnam
-	glo -- _
+	glo -- _ %305
 	_ ri -- am tu -- am, pro --
 	pter ma -- gnam
 	
 	glo --
-	ri -- am, glo --
+	ri -- am, glo -- %310
 	_
 	ri -- am, glo -- ri -- am,
 	glo -- ri -- am
 	tu --
-	am.
+	am. %315 finis
 }
 
 % BassoNotes = {
