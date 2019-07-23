@@ -819,12 +819,51 @@ DomineDeusSopranoNotes = {
 		\clef treble
 		\key b \major \time 4/4 \autoBeamOff \tempoDomineDeus
 			\set Score.currentBarNumber = #316
-		
+		R1*9 %324
+		\mvTr f'4\pE^\soloE f,8 g16.([ a32)] b16.([ a32)] b8 r16 b([ c16.)] d32 %325
+		c8 g' f32([ es d16)] es8 d32([ c b16)] b8\trill r16 b c16.[ d32]
+		c8[ g'] f32([ es d16)] es8 d32([ c b16)] b8\trill r b16. d32
+		c8 f16. d32 c8( b32[ a)] b16 a4 r8 c16. f,32
+		d'8[ d]~ d16.[ b32 c16. d32] c8[ c]~ c16.[ a32 b16. c32]
+		b8[ b]~ b16.[ g32 a16. b32] a32([ g f16)] a8 b32[( a g16)] b8 %330
+		c32([ b a16)] c8 d32([ c b16)] e8 f8.([\trill e32 d)] c8 b
+		a4( g8.)\trill f16 f4 r
+		R1*3 %335
+		c'4. d16e f8 f, r f'16. c32
+		d8 d c32([ b a16)] b8 \appoggiatura b a4 r16 c32[ d] es16[ d32 c]
+		\appoggiatura c8 b4 r16 d32[ es] f16[ es32 d] es8 d16. c32 d8. d16
+		c4 r r e8 e16. e32
+		f8 c r4 r d8 d %340
+		es16.[ f32 g8]~ \tuplet 3/2 8 { g16[ f es] d[ c b] } a16.[ b32 c8] r16 c32[ d] es16[ d32 c]
+		b16.[ c32 d8] r16 d32[ es] f16[ es32 d] c16.[ d32 es8] r16 c32[ d] es16[ d32 c]
+		d32[ c b16] d8 es32[ d c16] es8 f[ a,] b es
+		d4( c8.)\trill b16 b4 r
+		r8 b d([\fermata c16.)] b32 b4 r %345
+		R1*3
+		R1\fermataMarkup \bar "||" %349 finis
 	}
 }
 
 DomineDeusSopranoLyrics = \lyricmode {
+	Do -- mi -- ne De -- us, Rex coe -- %325
+	le -- stis, De -- us Pa -- _ _ _
+	_ _ _ _ ter, De -- us
+	Pa -- ter o -- mni -- po -- tens, De -- us
+	Pa -- _
+	_ _ _ _ _ %330
+	_ _ _ _ _ ter o --
+	mni -- po -- tens.
 	
+	Do -- mi -- ne De -- us, Rex coe -- %336
+	le -- stis, De -- us Pa -- _ _
+	_ _ _ _ ter o -- mni -- po --
+	tens, Do -- mi -- ne
+	De -- us, De -- us
+	Pa -- _ _ _ _
+	_ _ _ _ _ _
+	_ _ _ _ _ ter o --
+	mni -- po -- tens,
+	o -- mni -- po -- tens.
 }
 
 % SopranoNotes = {

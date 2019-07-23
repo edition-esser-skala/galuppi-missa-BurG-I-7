@@ -1288,7 +1288,7 @@ DomineDeusBassFigures = \figuremode {
 	<6>4 q q <6 4>
 	<6> <6 4>8 <5 3> r4 <7 5>
 	r <6 4>8 <5 3> r4 <7 5>
-	r <6 4>8 <5 3> r2
+	r <6 4>8 <5 3> r2 %349 finis
 }
 
 % Organo = {
