@@ -1218,11 +1218,77 @@ DomineDeusOrgano = {
 		\key b \major \time 4/4 \tempoDomineDeus
 			\set Score.currentBarNumber = #316
 		\mvTr b'8\fE-\soloE r a r g r d r
+		es r f r b, r d r
+		es r f r b, r b' r
+		a r g r f r es r
+		d d es([ e)] f r a r %320
+		g r c, r f r a r
+		b r d, r es r a, r
+		b es f f, b r a\p r
+		b es f f,\f b4 r
+		b'8\p r a r g r d r %325
+		es r f r b, r d r
+		es r f r b, r b' r
+		a f g c, f r a r
+		b r b, r a r a' r
+		g r c, r f r g r %330
+		a r b r f g a b
+		c4 c, f8\fE r e r
+		d r a' r b r c r
+		f, r f r e r d' r
+		c r b r a a16 b c8 c, %335
+		f\p r e r d r a' r
+		b r c r f, r es! r
+		d r b' r es, r e r
+		f r a r g r c, r
+		f r a r  b r d, r %340
+		es r e r f r f r
+		f r f r f r f r
+		b, r c r d f g es
+		f4 f, b8 r a\f r
+		b es f4\fermata b,8 r b' r %345
+		a r g r f r es r
+		d d16es f8 f, b r a r
+		b es f f, b r a\p r
+		b es f\f f, b4 r\fermata \bar "||" %349 finis
 	}
 }
 
 DomineDeusBassFigures = \figuremode {
-	
+	r4 <6> <5> <6> %316
+	<6 5>2. <6>4
+	<6 5>1
+	<6>4 q q <6 4>
+	<6> <6>8 <7 5> <6 4> <5 3> <6>4 %320
+	<7> <7 5 _!> r <6 5->
+	<9 4>8 <8 3> <6 5->2 <7 5>4
+	r <6 4>8 <5 3> r4 <7 5>
+	r <6 4>8 <5 3> r2
+	r4 <6> <5> <6> %325
+	<6 5>2. <6>4
+	<6 5>1
+	<[6]>4 <[7]>8 <7 _!> r4 <6>
+	r2 <[6]>
+	<[6!]>2. q4 %330
+	<6>2 r8 <6> q4
+	<6 4> <5 _!> r4 <[6]>
+	<5> <6> <6 5> <_!>
+	r2 <6>4 q
+	<6 [_!]> <6> q <6 4>8 <5 _!> %335
+	r4 <[6]> <[5]> <6>
+	<[6 5]> <[_!]> r <[2]>
+	<[6]>2 <[8 6]>4 <[7 5]>
+	r <[6]> <7> <7 _!>
+	r <5> <9 4>8 <8 3> <5->4 %340
+	r <[7]> <5 3> <7>
+	<6 4>2 <7>
+	r4 <[6]> q2
+	<[6 4]>4 <[5 3]> r4 <[7]>
+	r <[6 4]>8 <[5 3]> r2 %345
+	<6>4 q q <6 4>
+	<6> <6 4>8 <5 3> r4 <7 5>
+	r <6 4>8 <5 3> r4 <7 5>
+	r <6 4>8 <5 3> r2
 }
 
 % Organo = {
