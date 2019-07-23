@@ -858,12 +858,12 @@ DomineDeusSopranoLyrics = \lyricmode {
 	le -- stis, De -- us Pa -- _ _
 	_ _ _ _ ter o -- mni -- po --
 	tens, Do -- mi -- ne
-	De -- us, De -- us
+	De -- us, De -- us %340
 	Pa -- _ _ _ _
 	_ _ _ _ _ _
 	_ _ _ _ _ ter o --
 	mni -- po -- tens,
-	o -- mni -- po -- tens.
+	o -- mni -- po -- tens. %345 finis
 }
 
 % SopranoNotes = {
