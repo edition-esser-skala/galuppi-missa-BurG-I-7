@@ -1302,11 +1302,245 @@ DomineFiliOrgano = {
 		\key d \minor \time 2/4 \tempoDomineFili
 			\set Score.currentBarNumber = #350
 		\mvTr d4\fE-\soloE r
+		d8 d' e e,
+		f4 r8 f
+		g4 r8 g
+		f4 r8 f
+		g4 gis %355
+		a r
+		a, d
+		a r
+		a\p d
+		a r8 d'(\f %360
+		cis4) r8 c(
+		h4) r8 b(
+		a4) r8 \once \slurDashed a(
+		gis4) r8 g(
+		fis4) r8 f( %365
+		e4) a
+		d, r
+		d\p d'
+		g, a
+		d,8 d' d, e %370
+		f4 d
+		c c'
+		b2
+		a
+		gis %375
+		a4\f r
+		a, d
+		a' r
+		a,\p d
+		a a'16\f g f e %380
+		d4\p d'
+		g, a
+		d, d d
+		g
+		c, f %385
+		b b
+		c2
+		h
+		c4 r8 f,
+		e4 r8 es %390
+		d4 r8 des
+		c4 r8 c
+		h4 r8 b
+		a4 r8 a
+		gis4 r8 gis %395
+		a4 f'
+		e e,
+		a r
+		a8 a' h? h,?
+		c4 r8 c' %400
+		d4 r8 d
+		c4 r8 c,
+		d4 dis
+		e r
+		e a %405
+		e r
+		e a
+		e r
+		\mvTr a2\f-\tutti
+		h?4 h %410
+		c2
+		gis
+		a4 a
+		dis,2
+		e %415
+		h?4 r
+		e2
+		fis4 fis
+		gis2
+		a %420
+		e'8 d c h?
+		c h? a4~
+		a8 g f e
+		f e d4
+		d'8 c h? a %425
+		h? a g4~
+		g8 f e d
+		e d c \once \tieDashed c'~
+		c b! a g
+		f2 %430
+		g
+		fis
+		g4 r
+		g, c
+		g r %435
+		g c
+		g r
+		a d
+		a r
+		a d %440
+		a a'16 g f e
+		\mvTr d4\p-\soloE d'
+		g, a
+		d, r
+		r8 d' b g %445
+		cis,2
+		d4 r8 d'
+		cis4 r8 c
+		h4 r8 b
+		a4 r8 a %450
+		gis4 r8 g
+		f!4 r8 a
+		gis4 gis
+		a \mvTr e'~\f-\tuttiE
+		e8 d c h? %455
+		c h? a4~
+		a8 g f e
+		f e d4
+		d'8 c b! a
+		b a g4~ %460
+		g8 f e d
+		cis2
+		d8 d' b a
+		gis2
+		a %465
+		a,
+		d4 r\fermata \bar "||" %467 finis
 	}
 }
 
 DomineFiliBassFigures = \figuremode {
-	
+	r2 %350
+	r4 <6+>
+	<6>2
+	r
+	<6>
+	r4 <7 5 _!> %355
+	<_+>2
+	<[7 5 _+]>
+	<_+>
+	<7 5 _+>
+	<[_+]> %360
+	<6>4. <_->8
+	<7>4. <6>8
+	<6 _!>2
+	<7>4. <6 _->8
+	<[6]>4. <6>8 %365
+	<7>4 <_+>
+	r2
+	r
+	r4 <6 4>8 <5 _+>
+	r2 %370
+	<6>
+	<6>
+	<7>4 <6>
+	<7 5 _+> <6 4>8 <5 _+>
+	<7 5 [_!]>2 %375
+	<_+>
+	<7 5 _+>
+	<_+>
+	<7 5 _+>
+	<_+> %380
+	r
+	<6>4 <6 4>8 <5 _+>
+	r2
+	r
+	<7> %385
+	<7>4 <6>
+	r2
+	<7 5>
+	r
+	r %390
+	<7>4. <6>8
+	<7>4. <6>8
+	<7>4. <6>8
+	<7>4. <6>8
+	<7 [_!]>4. <6 5 [_!]>8 %395
+	<_!>2
+	<[5!] 4>4 <\l _+>
+	r2
+	<_!>4 <6\\ [_!]>
+	<6>2 %400
+	r
+	<6>
+	<6>4 <7 5 [_+]>
+	<[5!] _+>2
+	<7 [5! _+]> %405
+	<[5! _+]>
+	<7 [5! _+]>
+	<[5!] _+>
+	r
+	<6\\ [_!]> %410
+	<6>
+	<6 [_!]>
+	r
+	<[6! _+]>
+	<[5! _!]> %415
+	<[5+] _+>
+	<9+ [5!]>4 <8>
+	<6+ _!>2
+	<6 [_!]>
+	r %420
+	r
+	r
+	r
+	r
+	r %425
+	r
+	r
+	r
+	r
+	r %430
+	<_!>
+	<7 5>
+	<[_!]>
+	<7 [_!]>
+	<[_!]> %435
+	<7 [_!]>
+	<[_!]>
+	<7 [_+]>
+	<_+>
+	<7 [_+]> %440
+	<[_+]>
+	r
+	<6>4 <6 4>8 <5 _+>
+	r2
+	r %445
+	<7>
+	r4. <6>8
+	<7>4. <6>8
+	<7>4. <6>8
+	<7 [_+]>4. <6>8 %450
+	<7>4. <6>8
+	<7>4 <6>8 <_+>
+	<7 5 [_!]>2
+	<_+>
+	r %455
+	r
+	r
+	r
+	r
+	r %460
+	r
+	<5>
+	<9>4 <6>
+	<7 5 [_!]>2
+	<4> %465
+	<_+>
+	r %467 finis
 }
 
 % Organo = {
