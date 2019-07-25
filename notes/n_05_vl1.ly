@@ -658,7 +658,7 @@ DomineDeusViolinoI = {
 		f([ e?32 d)] \once \tieDashed c8~ c16 b b c \once \slurDashed d([ c32 b)] a8 r16 a' a a
 		\once \slurDashed b([ a32 g)] f16 g d8 c b4 r16 g' g g
 		f16.([\trillE es64 f)] g16 b, d8 c\trill b4 r16 g'\p g g
-		f16.([\trillE es64 f)] g16 b, f16.\f b32 c8\trill b8 f b,4\fermata \bar "||"
+		f16.([\trillE es64 f)] g16 b, f16.\f b32 c8\trill b8 f b,4\fermata \bar "||" %349 finis
 	}
 }
 

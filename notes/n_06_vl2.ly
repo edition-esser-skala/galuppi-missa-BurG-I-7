@@ -619,6 +619,39 @@ DomineDeusViolinoII = {
 		\clef treble
 		\key b \major \time 4/4 \tempoDomineDeus
 			\set Score.currentBarNumber = #316
-		
+		f'4\fE f,8 g16. a32 b16. a32 b8 r16 b c16. d32
+		c16 g' g8 f32([ es d16)] es8 d32([ c b16)] b8 r16 b c16. d32
+		c16 g' g8 f32([ es d16)] es8 \once \slurDashed d32([ c b16)] b8 r16 d d16. e32
+		f16([ e?32 d)] \once \tieDashed c8~ c16 b b^\critnote c \once \slurDashed d16([ c32 b)] \once \tieDashed a8~ a16 g g a
+		\once \slurDashed b16([ a32 g)] f16 d' c8 b b a r16 a c a %320
+		b8 c32 d e f g16 g g g f8 c r16 c c c
+		c8 b32 c d es f16 f f f es8 b r16 es es es
+		d8 b4 a8 b4 r16 es\p es es
+		d8 b4 a8 b\f f b,4
+		r2 r16 b' d16. f32 b8 r %325
+		b,\p r a r b r b r
+		b r a r b r f r
+		f a b b a r c r
+		d r d r c r c r
+		b r b r a r b r %330
+		c r d e f4. d8
+		a4 g\trill c'\p c,8 d16.^\critnote e32
+		f16.^\critnote e32 f8 r16 f g16. a32 g16 d' d8 c32([ b a16)] b8
+		a32([ g f16)] f8 r16 a a h c([ h32 a)] g8~ g16 f f g
+		\once \slurDashed a16([ g32 f)] e8~ e16 d d e f16.([\trill e64 d)] c16 d a8 g\trill %335
+		f\p r g r a r f r
+		f[ g] g r a r a r
+		b r d r c r b r
+		a r r16 a c a b8 c32 d e f g16-! g-! g-! g-!
+		f8 c r16 c-! c-! c-! c8 b32 c d es f16-! f-! f-! f-! %340
+		es8 r d r c r c r
+		d r d r es r es c
+		r d r es f a, b b
+		b4 a\trill b r16 es\f es es
+		d8[ b] b\fermata r f' b, r16 d d e %345
+		f([ e?32 d)] \once \tieDashed c8~ c16 b b c \once \slurDashed d([ c32 b)] a8 r16 a' a a
+		\once \slurDashed b([ a32 g)] f16 g d8 c b4 r16 es es es
+		d8 b4 a8 b4 r16 es\p es es
+		d8 b4 a8\f b f b,4\fermata \bar "||" %349 finis
 	}
 }
