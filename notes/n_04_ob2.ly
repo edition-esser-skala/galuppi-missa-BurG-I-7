@@ -326,3 +326,17 @@ GloriaOboeII = {
 		R2.\fermataMarkup \bar "||" %132 finis
 	}
 }
+
+DomineFiliOboeII = {
+	\overrideTimeSignatureSettings
+		2/4
+		1/8
+		#'(4)
+		#'((end . (((1 . 16) . (4 4)))))
+	\relative c' {
+		\clef treble
+		\key d \minor \time 2/4 \tempoDomineFili
+			\set Score.currentBarNumber = #350
+		
+	}
+}

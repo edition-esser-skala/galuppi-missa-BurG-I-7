@@ -1291,6 +1291,24 @@ DomineDeusBassFigures = \figuremode {
 	r <6 4>8 <5 3> r2 %349 finis
 }
 
+DomineFiliOrgano = {
+	\overrideTimeSignatureSettings
+		2/4
+		1/8
+		#'(4)
+		#'((end . (((1 . 16) . (4 4)))))
+	\relative c {
+		\clef bass
+		\key d \minor \time 2/4 \tempoDomineFili
+			\set Score.currentBarNumber = #350
+		\mvTr d4\fE-\soloE r
+	}
+}
+
+DomineFiliBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

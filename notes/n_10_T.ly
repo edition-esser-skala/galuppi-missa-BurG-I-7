@@ -526,6 +526,24 @@ GratiasTenoreLyrics = \lyricmode {
 	am. %315 finis
 }
 
+DomineFiliTenoreNotes = {
+	\overrideTimeSignatureSettings
+		2/4
+		1/8
+		#'(4)
+		#'((end . (((1 . 16) . (4 4)))))
+	\relative c' {
+		\clef "treble_8"
+		\key d \minor \time 2/4 \autoBeamOff \tempoDomineFili
+			\set Score.currentBarNumber = #350
+		
+	}
+}
+
+DomineFiliTenoreLyrics = \lyricmode {
+	
+}
+
 % TenoreNotes = {
 % 	\relative c' {
 % 		\clef "treble_8"
