@@ -876,12 +876,103 @@ DomineFiliSopranoNotes = {
 		\clef treble
 		\key d \minor \time 2/4 \autoBeamOff \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		
+		R2*65 %414
+		\mvTr e'2\fE^\tutti %415
+		fis4 fis
+		g2
+		dis
+		e4 e
+		c c %420
+		r e~
+		e8[ d] c h?
+		c([ h?] cis4)
+		d r
+		r d~ %425
+		d8[ c] h? a
+		h?([ a] h?4)
+		c e~
+		e8[ d] c b!
+		a2 %430
+		h
+		a
+		g4 r
+		R2*8 %441
+		\mvTr a4\pE^\solo g8. f16
+		g4 f8. e16
+		f8.([ e16)] d4
+		f8 g16([ a)] b8 b %445
+		b4. b8
+		a4 b~
+		b8[ c16 b] a4
+		r g~
+		g8[ a16 g] f4 %450
+		r e'~
+		e8[ f16 e] d8 cis
+		d2
+		cis4 r
+		r \mvTr e~\fE^\tutti %455
+		e8[ d] c! h?
+		c([ h?] cis?4)
+		d r
+		r d~
+		d8[ c!] b! a %460
+		b[ a] h4
+		cis8[ d] e4~
+		e d8[ cis]
+		d2~
+		d4 cis8[ h?] %465
+		cis2
+		d4 r\fermata \bar "||" %467 finis
 	}
 }
 
 DomineFiliSopranoLyrics = \lyricmode {
+	Do -- %415
+	mi -- ne
+	De --
+	us,
+	A -- gnus
+	De -- i, %420
+	Fi --
+	li -- us
+	Pa --
+	tris,
+	Fi -- %425
+	li -- us
+	Pa --
+	tris, Fi --
+	li -- us
+	Pa -- %430
+	_
+	_
+	tris.
 	
+	Do -- mi -- ne, %442
+	Do -- mi -- ne
+	Fi -- li,
+	Fi -- li u -- ni -- %445
+	ge -- ni --
+	te Je --
+	su,
+	Je --
+	su, %450
+	Je --
+	_ su
+	Chri --
+	ste,
+	Fi -- %455
+	li -- us
+	Pa --
+	tris,
+	Fi --
+	li -- us %460
+	Pa -- _
+	_ _
+	_
+	_
+	_ %465
+	_
+	tris. %467 finis
 }
 
 % SopranoNotes = {

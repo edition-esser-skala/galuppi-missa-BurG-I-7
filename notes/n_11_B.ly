@@ -645,12 +645,87 @@ DomineFiliBassoNotes = {
 		\clef bass
 		\key d \minor \time 2/4 \autoBeamOff \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		
+		R2*59 %408
+		\mvTr a'2\fE^\tutti
+		h?4 h %410
+		c2
+		gis
+		a4 a
+		dis,2
+		e %415
+		h?4 r
+		e2
+		fis4 fis
+		gis2
+		a %420
+		R
+		r4 a~
+		a8[ g] f e
+		f([ e)] d4
+		R2
+		r4 g~
+		g8[ f] e d
+		e([ d)] c \once \tieDashed c'~
+		c[ b!] a g
+		f2 %430
+		g
+		fis
+		g4 r
+		R2*22 %455
+		r4 \mvTr a~\fE^\tuttiE
+		a8[ g] f e
+		f([ e)] d4
+		R2
+		r4 g~ %460
+		g8[ f] e d
+		cis2
+		d8[ d' b a]
+		gis2
+		a %465
+		a,
+		d4 r\fermata \bar "||" %467 finis
 	}
 }
 
 DomineFiliBassoLyrics = \lyricmode {
+	Do -- %409
+	mi -- ne %410
+	De --
+	us,
+	A -- gnus
+	De --
+	_ %415
+	i,
+	Do --
+	mi -- ne
+	De --
+	us, %420
 	
+	Fi --
+	li -- us
+	Pa -- tris,
+	%425
+	Fi --
+	li -- us
+	Pa -- tris, Fi --
+	li -- us
+	Pa -- %430
+	_
+	_
+	tris.
+	
+	Fi -- %456
+	li -- us
+	Pa -- tris,
+	
+	Fi -- %460
+	li -- us
+	Pa --
+	_
+	_
+	_ %465
+	_
+	tris. %467 finis
 }
 
 % BassoNotes = {

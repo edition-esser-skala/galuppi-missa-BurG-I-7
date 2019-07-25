@@ -823,12 +823,165 @@ DomineFiliAltoNotes = {
 		\clef treble
 		\key d \minor \time 2/4 \autoBeamOff \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		
+		R2*18 %367
+		\mvTr a'4\pE^\solo g8. f16
+		g4 f8. e16
+		f8.([ e16)] d4 %370
+		d8. e16 f8 g
+		a4 a8 a
+		a4 g
+		g f8([ e)]
+		f2 %375
+		e4 r
+		R2*4 %380
+		a4 g8. f16
+		g4 f8. e16
+		f8.([ e16)] d4
+		f8 g16([ a)] b8 b
+		b8. b16 a4 %385
+		a g
+		g a8([ g)]
+		a2
+		g4 r
+		g4. a16[ g] %390
+		f4. g16[ f]
+		e4. f16[ e]
+		d4 g~
+		g8[ a16 g] f8[ g16 a]
+		h2~ %395
+		h8[ e,] a4~
+		a8 gis16([ fis]) gis4\trill
+		a r
+		R2*12 %410
+		\mvTr a2\fE^\tutti
+		h?4 h
+		c2
+		h?
+		h?4 e, %415
+		dis h?
+		h'?2
+		a
+		h?
+		a %420
+		R2*2
+		r4 a~
+		a8[ g] f e
+		f([ e] fis4) %425
+		g r
+		r g~
+		g8[ f] e d
+		e e a4~
+		a8[ g] f e %430
+		d4 e8[ d]
+		e2
+		d4 r
+		R2*8 %441
+		\mvTr f4\pE^\solo e8. d16
+		e4 d8. cis16
+		d4 a
+		d8 e16([ f)] g8 g %445
+		g4. g8
+		f4 r
+		r e~
+		e8[ f16 e] d4
+		r c~ %450
+		c8[ d16 c] h4
+		a( a'8) e
+		f2
+		e4 r
+		R2*2 %456
+		r4 \mvTr a~\fE^\tuttiE
+		a8[ g] f e
+		f([ e] fis4)
+		g r %460
+		r g~
+		g8[ f!] e d
+		a'2
+		h?
+		a~ %465
+		a
+		a4 r\fermata \bar "||" %467 finis
 	}
 }
 
 DomineFiliAltoLyrics = \lyricmode {
+	Do -- mi -- ne, %368
+	Do -- mi -- ne
+	Fi -- li, %370
+	Fi -- li u -- ni --
+	ge -- ni -- te
+	Je -- su,
+	Je -- su __
+	Chri -- %375
+	ste.
 	
+	Do -- mi -- ne, %381
+	Do -- mi -- ne
+	Fi -- li,
+	Fi -- li u -- ni --
+	ge -- ni -- te %385
+	Je -- su,
+	Je -- su __
+	Chri --
+	ste,
+	Je -- _ %390
+	_ _
+	_ _
+	_ _
+	_
+	_ %395
+	_
+	su Chri --
+	ste.
+	
+	Do -- %411
+	mi -- ne
+	De --
+	us,
+	A -- gnus %415
+	De -- _
+	_
+	_
+	_
+	i, %420
+	
+	Fi -- %423
+	li -- us
+	Pa -- %425
+	tris,
+	Fi --
+	li -- us
+	Pa -- tris, Fi --
+	li -- us %430
+	Pa -- _
+	_
+	tris.
+	
+	Do -- mi -- ne, %442
+	Do -- mi -- ne
+	Fi -- li,
+	Fi -- li u -- ni -- %445
+	ge -- ni --
+	te 
+	Je --
+	su,
+	Je -- %450
+	su,
+	Je -- su
+	Chri --
+	ste,
+	
+	Fi -- %457
+	li -- us
+	Pa --
+	tris, %460
+	Fi --
+	li -- us
+	Pa --
+	_
+	_ %465
+	
+	tris. %467 finis
 }
 
 % AltoNotes = {

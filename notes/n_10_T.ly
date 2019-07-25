@@ -536,12 +536,141 @@ DomineFiliTenoreNotes = {
 		\clef "treble_8"
 		\key d \minor \time 2/4 \autoBeamOff \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		
+		R2*18 %367
+		\mvTr f4\pE^\solo e8. d16
+		e4 d8. cis16
+		d4 a %370
+		d8. cis16 d8 d
+		e4 e8 e
+		d2(
+		cis4) d8([ cis)]
+		d2 %375
+		cis4 r
+		R2*4 %380
+		f4 e8. d16
+		e4 d8. cis16
+		d4 a
+		d8 d d d
+		e8. e16 f4 %385
+		d2(
+		e4) f8([ e)]
+		f2
+		e4 r
+		r c~ %390
+		c8[ d16 c] b4~
+		b8[ c16 b] a4~
+		a8[ b16 a] g8[ a16 b]
+		c4 f~
+		f e8[ d] %395
+		c4. h16([ a)]
+		h?2\trill
+		a4 r
+		R2*14 %412
+		\mvTr e'2\fE^\tutti
+		fis4 fis
+		g!2 %415
+		dis4 fis~
+		fis e
+		c2
+		h4 r
+		r e~ %420
+		e8[ d] c h?
+		c([ h? c d)]
+		e4 r
+		r d~
+		d8[ c] h? a %425
+		h?[ a h? c]
+		d2
+		g,
+		r4 f'~
+		f8[ e] d c %430
+		h?4 c8[ h?]
+		c2
+		h?4 r
+		R2*20 %453
+		r4 \mvTr e~\fE^\tutti
+		e8[ d] c h? %455
+		c[ h? c d]
+		e2
+		a,4 d~
+		d8[ c] b! a
+		b[ a b c] %460
+		d2
+		e4. f16[ g]
+		f2~
+		f4 e8[ d]
+		e2~ %465
+		e
+		f4 r\fermata \bar "||" %467 finis
 	}
 }
 
 DomineFiliTenoreLyrics = \lyricmode {
+	Do -- mi -- ne, %368
+	Do -- mi -- ne
+	Fi -- li, %370
+	Fi -- li u -- ni --
+	ge -- ni -- te
+	Je --
+	su __
+	Chri -- %375
+	ste.
 	
+	Do -- mi -- ne, %381
+	Do -- mi -- ne
+	Fi -- li,
+	Fi -- li u -- ni --
+	ge -- ni -- te %385
+	Je --
+	su __
+	Chri --
+	ste,
+	Je -- %390
+	_
+	_
+	_
+	_ _
+	_ %395
+	_ su
+	Chri --
+	ste.
+	
+	Do -- %413
+	mi -- ne
+	De -- %415
+	us, A --
+	gnus
+	De --
+	i,
+	Fi -- %420
+	li -- us
+	Pa --
+	tris,
+	Fi --
+	li -- us %425
+	Pa --
+	_
+	tris,
+	Fi --
+	li -- us %430
+	Pa -- _
+	_
+	tris.
+	
+	Fi -- %454
+	li -- us %455
+	Pa --
+	_
+	tris, Fi --
+	li -- us
+	Pa -- %460
+	_
+	_ _
+	_
+	_
+	_ %465
+	
+	tris. %467 finis
 }
 
 % TenoreNotes = {
