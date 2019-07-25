@@ -1220,7 +1220,7 @@ DomineDeusOrgano = {
 		\mvTr b'8\fE-\soloE r a r g r d r
 		es r f r b, r d r
 		es r f r b, r b' r
-		a r g r f r es r
+		a r g r f r es! r
 		d d es([ e)] f r a r %320
 		g r c, r f r a! r
 		b r d, r es r a, r
@@ -1247,7 +1247,7 @@ DomineDeusOrgano = {
 		b, r c r d f g es
 		f4 f, b8 r a\f r
 		b es f4\fermata b,8 r b' r %345
-		a r g r f r es r
+		a r g r f r es! r
 		d d16es f8 f, b r a r
 		b es f f, b r a\p r
 		b es f\f f, b4 r\fermata \bar "||" %349 finis
@@ -1258,7 +1258,7 @@ DomineDeusBassFigures = \figuremode {
 	r4 <6> <5> <6> %316
 	<6 5>2. <6>4
 	<6 5>1
-	<6>4 q q <6 4>
+	<6>4 <6 [_!]> <6> <6 4>
 	<6> <6>8 <7 5> <6 4> <5 3> <6>4 %320
 	<7>8 <[6!]> <7 5 _!>2 <6 5->4
 	<9 4>8 <8 3> <6 5->2 <7 5>4
@@ -1269,11 +1269,11 @@ DomineDeusBassFigures = \figuremode {
 	<6 5>1
 	<[6]>4 <[7]>8 <7 _!> r4 <6>
 	r2 <[6]>
-	<[6!]>2. q4 %330
-	<6>4 <[5 3]>8 <[6 4!]> r <6> q4
+	<[6!]>4 <[7 _!]> r <[6!]> %330
+	<6> <[5 3]>8 <[6 4!]> r <6> q4
 	<6 4> <5 _!> r4 <[6]>
 	<5> <6> <6 5> <_!>
-	r2 <6>4 q
+	r2 <6>4 <[6!]>
 	<6 [_!]> <6> q <6 4>8 <5 _!> %335
 	r4 <[6]> <[5]> <6>
 	<[6 5]> <[_!]> r <[2]>
@@ -1285,7 +1285,7 @@ DomineDeusBassFigures = \figuremode {
 	r4 <[6]> q2
 	<[6 4]>4 <[5 3]> r4 <[7]>
 	r <[6 4]>8 <[5 3]> r2 %345
-	<6>4 q q <6 4>
+	<6>4 <6 [_!]> <6> <6 4>
 	<6> <6 4>8 <5 3> r4 <7 5>
 	r <6 4>8 <5 3> r4 <7 5>
 	r <6 4>8 <5 3> r2 %349 finis

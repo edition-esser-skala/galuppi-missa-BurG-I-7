@@ -622,6 +622,39 @@ DomineDeusViola = {
 		\clef treble
 		\key b \major \time 4/4 \tempoDomineDeus
 			\set Score.currentBarNumber = #316
-		
+		d8\fE r c r d r b'4~
+		b a b b,~
+		b a b d8 r
+		c r e? r d r c r
+		f f g g f r c r %320
+		d r e r f r f r
+		f r b, r b r c' r
+		f,16 d b g' f8 f16 es d8 r c'\pE r
+		f,16 d b g' f8 f16\fE es d4 r
+		b'8\p r a r g r d r %325
+		es r f r b, r d r
+		es r f r b, r b' r
+		a f g c, f r a r
+		b r b, r a r a' r
+		g r c, r f r g r %330
+		a r b r f g a b
+		c4. b8 a\f r g r
+		a r f2 e4
+		f8 r a r g r h? r
+		a r g r c f,4 e8 %335
+		f\p r e r d r a' r
+		b r c r f, r es! r
+		d r b' r es, r e r
+		f r a r g r c, r
+		f r a r  b r d, r %340
+		es r e r f r f r
+		f r f r f r f r
+		b, r c r d f g es
+		f4 f, b8 r a\f r
+		b es f4\fermata d8 r g r %345
+		f r e? r d r c' r
+		b b4 a8 b r c r
+		f,16 d b g' f8 es d8 r c'\pE r
+		f,16 d b g' f8\f es d4 r\fermata \bar "||" %349 finis
 	}
 }
