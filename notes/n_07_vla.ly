@@ -619,7 +619,7 @@ GratiasViola = {
 
 DomineDeusViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key b \major \time 4/4 \tempoDomineDeus
 			\set Score.currentBarNumber = #316
 		d8\fE r c r d r b'4~

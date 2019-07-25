@@ -272,6 +272,7 @@
 		\header {
 			movement = "2.5 DOMINE DEUS"
 		}
+		\paper { systems-per-page = #2 page-count = #5 }
 		\score {
 			<<
 				\new StaffGroup <<

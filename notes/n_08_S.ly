@@ -834,7 +834,7 @@ DomineDeusSopranoNotes = {
 		\appoggiatura c8 b4 r16 d32[ es] f16[ es32 d] es8 d16. c32 d8. d16
 		c4 r r e8 e16. e32
 		f8 c r4 r d8 d %340
-		es16.[ f32 g8]~ \tuplet 3/2 8 { g16[ f es] d[ c b] } a16.[ b32 c8] r16 c32[ d] es16[ d32 c]
+		es16.[ f32 g8]~ \tuplet 3/2 8 { g16[ f e?] d[ c b] } a16.[ b32 c8] r16 c32[ d] es16[ d32 c]
 		b16.[ c32 d8] r16 d32[ es] f16[ es32 d] c16.[ d32 es8] r16 c32[ d] es16[ d32 c]
 		d32[ c b16] d8 es32[ d c16] es8 f[ a,] b es
 		d4( c8.)\trill b16 b4 r
