@@ -830,7 +830,7 @@ QuiTollisViola = {
 		d, d d d g g
 		c, c c c d d %505
 		c-\critnote c c c g' g
-		g g f f a a
+		g-\critnote g f f a a
 		a a g g g g
 		a a a g f e
 		d d d d b b %510

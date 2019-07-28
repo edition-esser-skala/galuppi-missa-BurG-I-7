@@ -192,6 +192,36 @@ QuiTollisTrombaI = {
 		\clef treble
 		\key f \major \time 3/2 \tempoQuiTollis
 			\set Score.currentBarNumber = #468
-		
+		\partial 2 r2 R1.*9 %476
+		r2 r a''\fE
+		g1 g2
+		f f g
+		c,1. %480
+		c2 r r
+		R1.*9 %490
+		r2 d d
+		e1 e2
+		d1 e2
+		a g2. f4
+		e1 r2 %495
+		R1.*4
+		r2 r f %500
+		g g g
+		f1 f2
+		R1.*2
+		r2 r f %505
+		f e g
+		g f r
+		f4 e8 d e2 g
+		a1 f2
+		d2. d4 e f %510
+		g1 e2
+		c2. c4 d e
+		d1 d2
+		c1.
+		c2 c c %515
+		c r r
+		R1.*3
+		R1.\fermataMarkup \bar "||" %520 finis
 	}
 }
