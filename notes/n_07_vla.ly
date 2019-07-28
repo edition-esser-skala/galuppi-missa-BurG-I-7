@@ -849,7 +849,7 @@ QuiTollisViola = {
 
 QuiSedesViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key a \minor \time 4/4 \tempoQuiSedes
 			\set Score.currentBarNumber = #521
 		\partial 8 r8 c8\fE r c r f r fis r
