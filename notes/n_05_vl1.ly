@@ -862,7 +862,7 @@ QuiSedesViolinoI = {
 		d8.(\trill e32 f) e8 d \once \slurDashed e32( d c16) c4 r8
 		e16( fis fis g) g4~ g8.(\trill f32 e) d8 cis %525
 		d[ a] d, r f'16( gis gis a) \once \tieDashed a4~
-		a8.\trill( g32 f) e8 dis e e, r e'
+		a8.\trill( g32 fis?) e8 dis e e, r e'
 		f16 e f8~ f16 e f8~ f16 e d c h f' e dis
 		e dis? e8~ e16 dis? e8~ e16 d c h a e' d cis
 		d cis d8~ d16 cis d8~ d16 c h a gis d' c h %530
@@ -890,7 +890,7 @@ QuiSedesViolinoI = {
 		a r d, r e r e, r
 		e'16(\f fis fis g) g4~ g8.(\trill\p f32 e) d8 cis
 		d a d,4 f'16(\f gis gis a) a4~
-		a8.(\trillE\p g32 f) e8 dis e e, a e' %555
+		a8.(\trillE\p g32 fis?) e8 dis e e, a e' %555
 		f1
 		e
 		d

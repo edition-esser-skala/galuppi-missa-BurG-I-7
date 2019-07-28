@@ -848,6 +848,52 @@ QuiSedesViolinoII = {
 		\clef treble
 		\key a \minor \time 4/4 \tempoQuiSedes
 			\set Score.currentBarNumber = #521
-		
+		\partial 8 e'8\fE e32( a,16.) gis32( a16.) gis32( a16.) gis32( a16.) a2
+		gis8.(\trillE a32 h) a8 gis a4 r8 g'
+		g32( c,16.) h32( c16.) h32( c16.) h32( c16.) c2
+		h8.(\trill c32 d) c8 h c4 r
+		e16( fis fis g) g4~ g8.(\trill f32 e) d8 cis %525
+		d[ a] d, r f'16( gis gis a) \once \tieDashed a4~
+		a8.\trill( g32 fis?) e8 dis e e, r4
+		r r8 a h16 a h8~ h16 a h8~
+		h16 a g f e h' a gis a gis a8~ a16 gis a8~
+		a16 g f e d a' gis? fis gis fis gis8~ gis16 h a gis %530
+		a e' e4 h16( c32 d) c16 e e4 h16( c32 d)
+		c16 e e4 h16( c32 d) c8.( h32 a) h8.\trill a16
+		a\p e' e4 h16( c32 d) c16 e e4 h16( c32 d)
+		c16 e e4 h16( c32 d) a8\f a4 gis8
+		a e a,4 r8 e'\p a c %535
+		d c c a r h h e
+		e c c h16a h2
+		c8 a\f c e r a,\p d fis
+		r g, h d r g, h d
+		r g, c e r c h d %540
+		r c e g r a, d a
+		r g h d r g, c e
+		r h d g r g16 e a,8 d
+		c4 h8 g' g32( c,16.) h32( c16.) h32( c16.) h32( c16.)
+		c2 h4 r8 g' %545
+		g32( c,16.) h32( c16.) h32( c16.) h32( c16.) c2
+		c' h8 h, c c
+		c4 h\trill c16\f g' g4 \once \slurDashed d16( e32 f)
+		e16 g g4 \once \slurDashed d16( e32 f) e16 g g4 \once \slurDashed d16( e32 f)
+		e8.(\trill d32 c) d8.\trill c16 c8 g c,4 %550
+		r8 g'\p c c c h c^\critnote r
+		c r h r c r c, r
+		e'16(\f fis fis g) g4~ g8.(\trill\p f32 e) d8 cis
+		d a d,4 f'16(\f gis gis a) a4~
+		a8.(\trillE\p g32 fis?) e8 dis e gis, a a %555
+		a4 r h2~
+		h a~
+		a gis
+		a8 c h d r e a, a
+		a4 gis\trillE a16 e' e4 \once \slurDashed h16( c32 d) %560
+		c16 e e4 \once \slurDashed h16( c32 d) c16 e e4 e16 e
+		e4 d c a
+		a4 r\fermata a16\f e' e4 h16( c32 d)
+		c16 e e4 \once \slurDashed h16( c32 d) c16. e32 f16. d32 c8. h16
+		a16\p e' e4 h16( c32 d) c16 e e4 h16( c32 d) %565
+		c16\f f f4 gis16( a32 h) a8.(\trill g32 f) e16. a,32 d16. h32
+		c8.( h32 a) h4\trill a r\fermata \bar "||" %567 finis
 	}
 }
