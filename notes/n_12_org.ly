@@ -1765,12 +1765,240 @@ QuoniamOrgano = {
 		\clef bass
 		\key c \major \time 3/4 \tempoQuoniam
 			\set Score.currentBarNumber = #568
-		\mvTr c'4\fE-\tuttiE c, r
+		\mvTr c'4\fE-\soloE c, r
+		c' c, r
+		c' c, c' %570
+		f, f fis
+		g2 g4
+		fis2.
+		g2 e4
+		cis2 cis4 %575
+		d2 c4
+		h2 h4
+		c2 h4
+		a f' fis
+		g r r %580
+		g, r r
+		g r r
+		g r r
+		c r c
+		c' c c %585
+		a a a
+		d, d d
+		h2 h'4
+		c f, g
+		a2 h4 %590
+		c f, g
+		a a, h
+		c f g
+		c, c8\p c c c
+		c'4 c, 8 c c c %595
+		c'4 c c,
+		f f fis
+		g4. g8 g4
+		fis2 fis4
+		fis?2. %600
+		g4 r r
+		d'2.
+		d
+		d
+		cis2 cis4 %605
+		d r r
+		\mvTr gis,\f-\tuttiE gis8 gis gis gis
+		a4 a a
+		fis fis fis
+		g!4. g8 g4 %610
+		b2.
+		a
+		g
+		fis4 fis2
+		g4 d2 %615
+		g4 fis2
+		g4 d2
+		g4 a a
+		fis d g
+		c, d2 %620
+		g4 r g
+		e2 e4
+		a g g
+		fis2 fis4
+		g c, d %625
+		e fis d
+		g c, d
+		\mvTr g,\p-\soloE g'8 g g g
+		g4 g,8 g' g g
+		g g, g g g g %630
+		gis'4. gis8 gis4
+		a4. e8 a4
+		d dis2
+		e4 e, r
+		e r r %635
+		e r r
+		e r r
+		\mvTr a\f-\tutti r a
+		a2.~
+		a~ %640
+		a~
+		a2 a4
+		d,4. h'8 a g
+		a4 a8 a g fis
+		g d d h' a g %645
+		a d, d a' g fis
+		g4. g,8 g4
+		cis4 cis8 cis cis cis
+		d4 d, r
+		h' h h %650
+		c4. c8 c4
+		es2.
+		d
+		c
+		h4 c f %655
+		g2 g,4
+		c r r
+		r r g'
+		c c, r
+		r r g' %660
+		c8. c,16 c4 r
+		r r g'
+		c c, r
+		es2.
+		d %665
+		c
+		h4 c f
+		g2.
+		a4 h g
+		c8 f, g4 g, %670
+		c r r
+		g' r r
+		g r r
+		g r r
+		c, r r %675
+		c' c c
+		a a a
+		d, d d
+		h2 h'4
+		c f, g %680
+		a2 h4
+		c8 f, g4 c,\fermata \bar "||" %682 finis
 	}
 }
 
 QuoniamBassFigures = \figuremode {
-	
+	r2. %568
+	r
+	r %570
+	<6>4 <7 5>2
+	r2.
+	<7 5>
+	r
+	<[7-]>2 <[6]>8 <[5]> %575
+	r2 <[\t]>4
+	<[7]>2 <[6]>8 <[5]>
+	r2 <[\t]>4
+	r2 <[6]>4
+	r2. %580
+	<[7]>
+	<6 4>
+	<[7]>
+	r
+	r4 <6 4+>2 %585
+	<6\\>2.
+	<7 5 _+>
+	<[6 5!]>
+	r4 <6 5>2
+	<6> <6 5>4 %590
+	r <6 5>2
+	<6> <6 5>4
+	r <6 5>2
+	r2.
+	r %595
+	r
+	<6>2 <7 5>4
+	r2.
+	<7 5>
+	r %600
+	r
+	<7 5 _+>
+	<6 4>
+	<7 5 _+>
+	<7 5> %605
+	<[_+]>
+	<7 5>
+	r
+	<7 5>
+	r %610
+	<6 4 2+>
+	<5 _+>
+	<6 4+ _->
+	<6 5>
+	r4 <_+>2 %615
+	r4 <6 5>2
+	r4 <_+>2
+	r2.
+	<6 5>4 <[7 _+]>2
+	r4 <_+>2 %620
+	r2.
+	<6\\>
+	<[7 _+]>4 <6 4+ 2>2
+	<[6 5]>2.
+	r4 <6 5> <5 _+> %625
+	<6> <6 5> <[7 _+]>
+	r <6 5> <5 _+>
+	r2.
+	r
+	r %630
+	r
+	r4. <[_+]>
+	<6>4 <7 5[_+]>2
+	<6 4>4 <5 _+>2
+	<7 5 _+>2. %635
+	<6 4>
+	<7 5 _+>
+	r2 <_+>4
+	<5 _+>4 <6 4>2
+	<7 5 _+>2. %640
+	<6 4>
+	<7 5 _+>2 <6 4>8 <5 _+>
+	<[_+]>4. <[6]>8 <[6\\]>4
+	<[6\\]>2 <5 3>8 <6 5>
+	r4. <[6]>8 <[6\\]>4 %645
+	<[6\\]>2 <5 3>8 <6 5>
+	r2.
+	<7- 5>
+	<_!>
+	<7 5> %650
+	r
+	<6 4 2+>
+	<7 5 _+>
+	<6 4 _->
+	<6 5!> %655
+	<5 4>4 <\l 3>2
+	r2.
+	r
+	r
+	r %660
+	r
+	r
+	r
+	<6 4 2+>
+	<7 5 _+> %665
+	<6 4+ _->
+	<6 5!>2 <6 5>4
+	<6 4> <5 3>2
+	r4 <6 5>2
+	r4 <4> <3> %670
+	r2.
+	<7 5 3>
+	<6 4>
+	<7 5 3>
+	r %675
+	<5>4 <6 4+>2
+	<6\\>2.
+	<7 5 _+>
+	<6 5!>
+	r4 <6 5>2 %680
+	<5>4 <6> <6 5>
+	r8 <6 5> r2 %682 finis
 }
 
 % Organo = {
