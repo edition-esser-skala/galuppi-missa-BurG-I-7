@@ -804,18 +804,18 @@ QuiTollisBassoLyrics = \lyricmode {
 	_ _
 	bis. %495
 	
-	Qui
-	tol -- lis pec -- ca -- ta
+	Qui %499
+	tol -- lis pec -- ca -- ta %500
 	mun -- _ _ _
 	_ di:
 	Su --
 	sci -- pe, su --
-	sci -- pe, qui
+	sci -- pe, qui %505
 	tol -- lis
 	
 	de -- pre -- ca -- ti --
 	o -- nem,
-	de -- pre -- ca -- ti --
+	de -- pre -- ca -- ti -- %510
 	o -- nem,
 	de -- pre -- ca -- ti --
 	o -- nem

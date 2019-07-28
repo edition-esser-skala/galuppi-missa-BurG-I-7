@@ -795,7 +795,59 @@ QuiTollisViolinoI = {
 		\clef treble
 		\key f \major \time 3/2 \tempoQuiTollis
 			\set Score.currentBarNumber = #468
-		
+		\partial 2 r2 r r f4\fE f
+		d' d d d d d
+		c c c c c f %470
+		g g g g g g
+		f f f f f f
+		e f f f f e
+		f f c f f f
+		f f e e e e %475
+		d d d d d d
+		c c c c b a
+		g g g c c c
+		c c b b b b
+		b b a c f f %480
+		f f e e es es
+		es? es d d d d
+		c c f f f f
+		f f e! e es es
+		es? es d d g g %485
+		g g fis fis f f
+		f f e e e e
+		d d d d d d
+		d d d d d d
+		d d e f e e %490
+		d d d d d d
+		e e e e e e
+		d d d d e e
+		e e d d d d
+		e e e e e e %495
+		d d d d d d
+		c c c c c c
+		c c h h h h
+		c c c c c c
+		c c b! b d d %500
+		es es es es es es
+		es? es d d d d
+		c c c c c c
+		c c b b b b
+		b b a c f f %505
+		f f e e e e
+		e e d d f f
+		f f e e e e
+		f f f e d c
+		b b b b d d %510
+		e e e d c b
+		a a a a a a
+		a a a a a a
+		g g g g g g
+		g g g g g g %515
+		a c\p c c c c
+		d d d d e e
+		f c c c c d
+		b b b b b c
+		a1 r2\fermata \bar "||" %520 finis
 	}
 }
 

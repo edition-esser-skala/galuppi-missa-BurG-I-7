@@ -989,7 +989,7 @@ QuiTollisSopranoNotes = {
 		c
 		R
 		r2 r f~
-		f e es~
+		f e! es~
 		es d1 %485
 		R1.
 		r2 r c~
