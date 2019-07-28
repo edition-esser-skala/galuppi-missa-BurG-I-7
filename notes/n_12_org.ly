@@ -1711,7 +1711,7 @@ QuiSedesOrgano = {
 }
 
 QuiSedesBassFigures = \figuremode {
-	r8 r2 <6 5>4 <[\t \t]> %521
+	r8 r2 <6 5>4 <[6 5 _+]> %521
 	<7 5 _+> <6 4>8 <5 _+> r2
 	r4 <5> <6 5> <[\t \t]>
 	<7 5 3> <6 4>8 <5 3> r2

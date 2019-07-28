@@ -852,6 +852,52 @@ QuiSedesViola = {
 		\clef treble
 		\key a \minor \time 4/4 \tempoQuiSedes
 			\set Score.currentBarNumber = #521
-		
+		\partial 8 r8 c8\fE r c r f r fis r
+		e r e r e c h c16 d
+		e8 r e r a r a r
+		g r g r g4 e8 d
+		e c d d cis d16 e f8 e %525
+		f4 f8 e f d e e
+		dis e16 fis g8 fis g( gis) a a
+		a r f r d r d r
+		c r c r c r c r
+		h r h r h r h r %530
+		r c' h gis r c h gis
+		r c h gis r c h gis
+		a\p c h gis r c h gis
+		r c h gis a\f f e e16. d32
+		c4 r r8 a'\p c a %535
+		r4 a2 gis4
+		a8 r f r d r e r
+		a, r a' r fis r fis r
+		g r g, r f' r f r
+		e r e r d r g r %540
+		c, r e r f r fis r
+		g r g r g r g r
+		g r g r c r f, r
+		g r g, r c r a' r
+		f r fis r g r g, r %545
+		c r a' r d, r f r
+		f f f fis g g a f
+		g4 g, r8 e'\f d h
+		r e d h r e d h
+		c c'4 h8 c4 r %550
+		r8 c,\pE e c g' r e r
+		f r g r c, c e g
+		e r d r cis8.( d32 e) f8 e
+		f4 r f8 r e r
+		dis8.( e32 fis) g8 fis g e c a %555
+		d r d r d r d r
+		c r c r c r c r
+		h r h r h r h r
+		a r h r c r d r
+		e r e r c c' h gis %560
+		r c h gis r c, h e
+		f f f f e4 f
+		e r\fermata r8 c'\f h gis
+		a c h gis a a4 gis8
+		a c\p h gis a c h gis %565
+		a\f c gis h e, a a a
+		a4 gis a r\fermata \bar "||" %567 finis
 	}
 }
