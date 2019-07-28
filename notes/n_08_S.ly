@@ -980,7 +980,7 @@ QuiTollisSopranoNotes = {
 		\clef treble
 		\key f \major \time 3/2 \autoBeamOff \tempoQuiTollis
 			\set Score.currentBarNumber = #468
-			\partial 2 r2 R1.*8 %475
+		\partial 2 r2 R1.*8 %475
 		r2 r \mvTr b'\fE^\tuttiE
 		f' f4 f f f
 		f2 e2. e4
