@@ -666,7 +666,7 @@ DomineFiliViola = {
 		#'(4)
 		#'((end . (((1 . 16) . (4 4)))))
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key d \minor \time 2/4 \tempoDomineFili
 			\set Score.currentBarNumber = #350
 		f4\fE r
