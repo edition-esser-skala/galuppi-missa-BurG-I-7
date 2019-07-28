@@ -770,12 +770,153 @@ QuoniamTenoreNotes = {
 		\clef "treble_8"
 		\key c \major \time 3/4 \autoBeamOff \tempoQuoniam
 			\set Score.currentBarNumber = #568
-		
+		R2.*26 %593
+		\mvTr e8.\pE^\solo d16 c8 f e d
+		e8.([ d16)] c8 f e d %595
+		e8. d16 c4 e
+		d8.([ e16)] d4 c
+		h4. h8 h4
+		c2 c4
+		c2.\trill %600
+		h4 r r
+		d2.
+		d
+		d
+		cis2 cis4 %605
+		d r r
+		\mvTr f!8.\fE^\tutti f16 f8 f f f
+		e4 e e
+		e e e
+		d4. d8 d4 %610
+		e2.
+		e
+		e
+		d4 d2
+		d4 d2 %615
+		d4 d2
+		d4 d2
+		d4 c e
+		d2 d4(
+		e) d2 %620
+		d4 r r
+		R2.*6 %627
+		\mvTr g8.\pE^\solo g16 g8 g g g
+		g4 g,8 g' g g
+		g8. g,16 g4 g %630
+		gis4. gis8 gis4
+		a4. e8 a4
+		d dis2
+		e4 e, r
+		R2.*4 %638
+		r4 r8 \mvTr f'\fE^\tutti e d
+		e4 e8 e d cis %640
+		d8. cis16 d8 f e d
+		e4 e8 e d cis
+		d8. d16 d4 d
+		d2.
+		d %645
+		d
+		d4. g,8 g4
+		e'8. e16 e8 e e e
+		d4 d r
+		f f f8 f %650
+		e4. e8 g4
+		fis2.
+		fis?
+		fis?(
+		g8[ f)] e4 f( %655
+		d2.)
+		e4 r r
+		r r d
+		e e r
+		r r d %660
+		e8. e16 e4 r
+		r r d
+		e e r
+		fis2.
+		fis? %665
+		fis?(
+		g8[ f] e4) f
+		e( d2)
+		c4 f f
+		e8 f d2 %670
+		e4 r r
+		R2.*10 %681
+		R2.\fermataMarkup \bar "||" %682 finis
 	}
 }
 
 QuoniamTenoreLyrics = \lyricmode {
+	Quo -- ni -- am tu so -- lus %594
+	san -- ctus, tu so -- lus %595
+	Do -- mi -- nus, tu
+	so -- lus al --
+	tis -- si -- mus
+	Je -- su
+	Chri -- %600
+	ste,
+	tu
+	so --
+	lus
+	Do -- mi -- %605
+	nus,
+	quo -- ni -- am tu so -- lus
+	san -- ctus, tu
+	so -- lus al --
+	tis -- si -- mus %610
+	Je --
+	su,
+	Je --
+	su, Je --
+	su Chri -- %615
+	ste, Je --
+	su Chri --
+	ste, Je -- su,
+	Je -- su __
+	Chri -- %620
+	ste.
 	
+	Quo -- ni -- am tu so -- lus %628
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus, tu %630
+	so -- lus al --
+	tis -- si -- mus
+	Je -- su
+	Chri -- ste,
+	
+	tu so -- lus %639
+	san -- ctus, tu so -- lus %640
+	Do -- mi -- nus, tu so -- lus
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus, tu
+	so --
+	lus %645
+	al --
+	tis -- si -- mus,
+	quo -- ni -- am tu so -- lus
+	san -- ctus,
+	tu so -- lus al -- %650
+	tis -- si -- mus
+	Je --
+	su,
+	Je --
+	su Chri -- %655
+	
+	ste,
+	tu
+	so -- lus
+	al -- %660
+	tis -- si -- mus,
+	tu
+	so -- lus
+	Je --
+	su, %665
+	Je --
+	su
+	Chri --
+	ste, Je -- su,
+	Je -- su Chri -- %670
+	ste. %671 finis
 }
 
 % TenoreNotes = {
