@@ -1071,6 +1071,19 @@ QuiTollisSopranoLyrics = \lyricmode {
 	stram. %516 finis
 }
 
+QuiSedesSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key a \minor \time 4/4 \autoBeamOff \tempoQuiSedes
+			\set Score.currentBarNumber = #521
+		
+	}
+}
+
+QuiSedesSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble

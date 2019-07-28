@@ -205,6 +205,7 @@ tempoGratias = \tempoMarkup "Largo"
 tempoDomineDeus = \tempoMarkup "Andantino"
 tempoDomineFili = \tempoMarkup "Andante"
 tempoQuiTollis = \tempoMarkup "Adagio"
+tempoQuiSedes = \tempoMarkup "Larghetto"
 
 
 

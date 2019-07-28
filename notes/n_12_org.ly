@@ -1655,6 +1655,20 @@ QuiTollisBassFigures = \figuremode {
 	r1. %%20 finis
 }
 
+QuiSedesOrgano = {
+	\relative c {
+		\clef bass
+		\key a \minor \time 4/4 \tempoQuiSedes
+			\set Score.currentBarNumber = #521
+		\partial 8 r8 \mvTr a'8\fE-\soloE r f r d r dis r
+		
+	}
+}
+
+QuiSedesBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

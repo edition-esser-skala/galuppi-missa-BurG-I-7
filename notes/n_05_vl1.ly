@@ -851,6 +851,15 @@ QuiTollisViolinoI = {
 	}
 }
 
+QuiSedesViolinoI = {
+	\relative c' {
+		\clef treble
+		\key a \minor \time 4/4 \tempoQuiSedes
+			\set Score.currentBarNumber = #521
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble
