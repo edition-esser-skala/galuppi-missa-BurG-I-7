@@ -701,7 +701,7 @@ DomineFiliViolinoI = {
 		e8 a[\f e f]
 		g4 f\trill
 		e8 a,[\p e f]
-		g4 f
+		g4 f\trillE
 		e r %380
 		a' g8. f16
 		g4 f8. e16
@@ -711,7 +711,7 @@ DomineFiliViolinoI = {
 		a g
 		g a8 g
 		a2
-		g8 a16 b \kneeBeam a8 f,
+		g8 c16 d \kneeBeam c8 f,,
 		\kneeBeam e c''16 d \kneeBeam c8 es,, %390
 		\kneeBeam d b''16 c \kneeBeam b8 des,,
 		\kneeBeam c a''16 b \kneeBeam a8 c,,

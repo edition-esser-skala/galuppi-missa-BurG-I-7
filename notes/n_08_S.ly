@@ -888,7 +888,7 @@ DomineFiliSopranoNotes = {
 		c([ h?] cis4)
 		d r
 		r d~ %425
-		d8[ c] h? a
+		d8[ c!] h? a
 		h?([ a] h?4)
 		c e~
 		e8[ d] c b!
@@ -911,7 +911,7 @@ DomineFiliSopranoNotes = {
 		d2
 		cis4 r
 		r \mvTr e~\fE^\tutti %455
-		e8[ d] c! h?
+		e8[ d] c h?
 		c([ h?] cis?4)
 		d r
 		r d~
