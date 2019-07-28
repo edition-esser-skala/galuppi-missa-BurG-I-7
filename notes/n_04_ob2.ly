@@ -417,3 +417,12 @@ DomineFiliOboeII = {
 		d4 r\fermata \bar "||" %467 finis
 	}
 }
+
+QuoniamOboeII = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/4 \tempoQuoniam
+			\set Score.currentBarNumber = #568
+		
+	}
+}

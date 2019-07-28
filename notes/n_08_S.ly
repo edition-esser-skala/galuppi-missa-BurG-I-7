@@ -1143,6 +1143,19 @@ QuiSedesSopranoLyrics = \lyricmode {
 	no -- bis. %563 finis
 }
 
+QuoniamSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/4 \autoBeamOff \tempoQuoniam
+			\set Score.currentBarNumber = #568
+		
+	}
+}
+
+QuoniamSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble

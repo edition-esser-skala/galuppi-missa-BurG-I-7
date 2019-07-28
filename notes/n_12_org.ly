@@ -1760,6 +1760,19 @@ QuiSedesBassFigures = \figuremode {
 	<6 4>4 <5 _+> r2 %567 finis
 }
 
+QuoniamOrgano = {
+	\relative c {
+		\clef bass
+		\key c \major \time 3/4 \tempoQuoniam
+			\set Score.currentBarNumber = #568
+		\mvTr c'4\fE-\tuttiE c, r
+	}
+}
+
+QuoniamBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

@@ -906,6 +906,15 @@ QuiSedesViolinoI = {
 	}
 }
 
+QuoniamViolinoI = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/4 \tempoQuoniam
+			\set Score.currentBarNumber = #568
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble

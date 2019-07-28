@@ -225,3 +225,12 @@ QuiTollisTrombaII = {
 		R1.\fermataMarkup \bar "||" %520 finis
 	}
 }
+
+QuoniamTrombaII = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/4 \tempoQuoniam
+			\set Score.currentBarNumber = #568
+		
+	}
+}

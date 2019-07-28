@@ -901,3 +901,12 @@ QuiSedesViola = {
 		a4 gis a r\fermata \bar "||" %567 finis
 	}
 }
+
+QuoniamViola = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/4 \tempoQuoniam
+			\set Score.currentBarNumber = #568
+		
+	}
+}

@@ -897,3 +897,12 @@ QuiSedesViolinoII = {
 		c8.( h32 a) h4\trill a r\fermata \bar "||" %567 finis
 	}
 }
+
+QuoniamViolinoII = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/4 \tempoQuoniam
+			\set Score.currentBarNumber = #568
+		
+	}
+}
