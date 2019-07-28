@@ -1550,11 +1550,109 @@ QuiTollisOrgano = {
 			\set Score.currentBarNumber = #468
 		\partial 2 r2 R1.
 		r2 r \mvTr b4\fE-\tuttiE b
+		f' f f f f f %470
+		f f e e e e
+		e e d d d d
+		c c c c c c
+		f, f f' f f f
+		c c c c c' c %475
+		c c b b b b
+		b b a a g f
+		c c c c c c
+		d d g g e e
+		f f f f f f %480
+		c c c c f f
+		b b b, b b b
+		f' f f f h h
+		c c c, c c' c
+		c c h h b b %485
+		b b a a h h
+		c c c, c c c
+		g' g g g g g
+		d' d d d d d
+		d d c h c c %490
+		g g g g g g
+		fis fis fis fis fis fis
+		g g g g c c
+		f,! f g g g, g
+		c c c c c c %495
+		fis fis g g g g
+		e e f f f f
+		d d d d d d
+		c c c c f f
+		b b b b b b %500
+		b b a g a a
+		b b b, b b b
+		f f f f f' f
+		g g g g e e
+		f f f f h, h %505
+		c c c c cis cis
+		d d' d c h h
+		c c c b a g
+		f f f f f f
+		g g g f e d %510
+		c c c c c c
+		f f f e d c
+		h h h h h h
+		c c c c c c
+		c c c c c c %515
+		f1 r2
+		R1.*3
+		R1.\fermataMarkup \bar "||" %520 finis
 	}
 }
 
 QuiTollisBassFigures = \figuremode {
-	
+	r2 r1.
+	r
+	<5 4>2 <\l 3>1 %470
+	<6 4 2>2 <5> <6>
+	<6 4 2> <5> <6>
+	<7 5 3>4 <6 4> <5 4>2. <\l 3>4
+	r1.
+	<5 4>2 <\l 3>1 %475
+	<6 4 2>2 <5>1
+	<5 2>2 <6>1
+	<5 4>2 <\l 3>1
+	<7> <7 5>2
+	<5 4> <\l 3>1 %480
+	<4>2 <_!> <7->
+	<6 4- 2> <5 3>1
+	<5 4>2 <\l _!> <7- 5>
+	<6- 4> <[5] _!> <\l _->
+	r <6> q %485
+	<6 4! 2> <6+> <5!>
+	<9 4> <8 _!>1
+	<6 5>2 <\l _!> <\l _->
+	<6 4> <5 _+> <\l _!>
+	<6!>1. %490
+	<_!>
+	<7 5>
+	<_!>
+	<7 5>2 <5 _!>1
+	r1. %495
+	<6 5>2 <_->1
+	<6 5>1.
+	<7>2 <6!>1
+	<5 4>2 <\l _->1
+	<9>2 <8>1 %500
+	<6 4- 2>2 <7 5->1
+	<5 4>2 <\l 3>1
+	<5 4>2 <\l 3>1
+	<9 4>2 <8 3> <5>
+	<9 4> <8 3> <7- 5> %505
+	<6- 4> <5 3> <7 5>
+	<9 4> <8 3>1
+	<4 2>2 <5 3>1
+	r1.
+	r %510
+	r
+	<9>
+	<7 5>
+	<5 4>
+	<5 3> %515
+	r1.*4
+	r1. %%20 finis
 }
 
 % Organo = {
