@@ -137,6 +137,52 @@ DomineFiliTrombaI = {
 		\clef treble
 		\key d \minor \time 2/4 \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		
+		r8 a''\fE d, e
+		f4 g\trill
+		a8 d, r a'
+		g d r g
+		a d, r a'
+		g f16 e f8 f %355
+		e4 r
+		R2*4 %360
+		r4 a~
+		a g~
+		g f~
+		f e~
+		e d %365
+		g e
+		f r
+		R2*45 %412
+		e2\fE
+		fis4 fis
+		g2 %415
+		fis4 r
+		g2
+		a4 a
+		h2
+		e,4 r %420
+		R2*2
+		r4 a~
+		a8 g f e
+		f e d4 %425
+		R2
+		r4 g~
+		g8 f e d
+		e4 a~
+		a8 g f e %430
+		d4 e8 d
+		e2
+		R2*24 %456
+		r4 a~\fE
+		a8 g f e
+		f e fis4
+		g r %460
+		r g~
+		g8 f! e a
+		f2~
+		f4 e8 d
+		e2~ %465
+		e
+		d4 r\fermata \bar "||" %467 finis
 	}
 }
