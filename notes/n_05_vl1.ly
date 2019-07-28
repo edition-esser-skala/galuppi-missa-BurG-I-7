@@ -856,7 +856,53 @@ QuiSedesViolinoI = {
 		\clef treble
 		\key a \minor \time 4/4 \tempoQuiSedes
 			\set Score.currentBarNumber = #521
-		
+		\partial 8 r8 r4 r8 f'\fE f32( h,16.) a32( h16.) a32( h16.) a32( h16.)
+		h8.(\trill c32 d) c8 h c32([ h a16)] a8 r4
+		r r8 a' a32( d,16.) c32( d16.) c32( d16.) c32( d16.)
+		d8.(\trill e32 f) e8 d \once \slurDashed e32( d c16) c4 r8
+		e16( fis fis g) g4~ g8.(\trill f32 e) d8 cis %525
+		d[ a] d, r f'16( gis gis a) \once \tieDashed a4~
+		a8.\trill( g32 f) e8 dis e e, r e'
+		f16 e f8~ f16 e f8~ f16 e d c h f' e dis
+		e dis? e8~ e16 dis? e8~ e16 d c h a e' d cis
+		d cis d8~ d16 cis d8~ d16 c h a gis d' c h %530
+		c e e4 h16( c32 d) c16 e e4 h16( c32 d)
+		c16 e e4 h16( c32 d) c8.( h32 a) h8.\trill a16
+		a\p e' e4 h16( c32 d) c16 e e4 h16( c32 d)
+		c16 e e4 h16( c32 d) c16.\f e32 f16. d32 h8.\trill a16
+		a8 e a,4 r8 c'\p e a %535
+		f e a e r d e h
+		c e a2 gis4
+		a8 c,\f e a r d,\p fis a
+		r h, d g r h, d g
+		r c, e g r e d g %540
+		r e g c r d, a' d,
+		r h d g r c, e g
+		r d g h r c16 g a8 f
+		e4 d\trill c r8 a'
+		a32( d,16.) c32( d16.) c32( d16.) c32( d16.) d4 r %545
+		r r8 a' a32( d,16.) c32( d16.) c32( d16.) c32( d16.)
+		d8 a'4 d,8 d g e a
+		e4 d\trill c16\f g' g4 \once \slurDashed d16( e32 f)
+		e16 g g4 \once \slurDashed d16( e32 f) e16 g g4 \once \slurDashed d16( e32 f)
+		e8.(\trill d32 c) d8.\trill c16 c8 g c,4 %550
+		r8 e'\p g e e d g r
+		a r d, r e r e, r
+		e'16(\f fis fis g) g4~ g8.(\trill\p f32 e) d8 cis
+		d a d,4 f'16(\f gis gis a) a4~
+		a8.(\trillE\p g32 f) e8 dis e e, a e' %555
+		f1
+		e
+		d
+		c8 e d gis a c, f d
+		c4 h\trill a16 e' e4 \once \slurDashed h16( c32 d) %560
+		c16 e e4 \once \slurDashed h16( c32 d) c16 e e4 \once \slurDashed h16( c32 d)
+		c4 gis' a f
+		e4 r\fermata a,16\f e' e4 h16( c32 d)
+		c16 e e4 \once \slurDashed h16( c32 d) c16. e32 f16. d32 c8. h16
+		a16\p e' e4 h16( c32 d) c16 e e4 h16( c32 d) %565
+		c16\f f f4 gis16( a32 h) a8.(\trill g32 f) e16. a,32 d16. h32
+		c8.( h32 a) h4\trill a r\fermata \bar "||" %567 finis
 	}
 }
 
