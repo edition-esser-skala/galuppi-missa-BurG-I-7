@@ -789,7 +789,7 @@ DomineFiliViola = {
 
 QuiTollisViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key f \major \time 3/2 \tempoQuiTollis
 			\set Score.currentBarNumber = #468
 		\partial 2 r2 R1.*2 %469

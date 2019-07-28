@@ -1004,9 +1004,9 @@ QuiTollisAltoNotes = {
 		R1.*3 %490
 		r2 g g
 		a1 a2
-		g1.~
-		g
-		g1 r2 %495
+		g1.
+		a2^\critnote g1
+		g r2 %495
 		R1.*2
 		r2 r f
 		c' c4 c c c
@@ -1048,7 +1048,7 @@ QuiTollisAltoLyrics = \lyricmode {
 	mi -- se -- %491
 	re -- re
 	no --
-	
+	_ _
 	bis. %495
 	
 	Qui %498

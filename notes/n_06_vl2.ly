@@ -833,7 +833,7 @@ QuiTollisViolinoII = {
 		g g g g g g
 		g g g g f-\critnote e
 		f f f f f f
-		f f f f f f
+		f f f f e-\critnote d
 		e e e e e e %515
 		f a\p a a a a
 		b b b b b b
