@@ -669,6 +669,120 @@ DomineFiliViola = {
 		\clef treble
 		\key d \minor \time 2/4 \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		
+		f4\fE r
+		a8 d cis e
+		d4 r8 d,
+		d4 r8 d
+		d4 r8 d
+		b'4( h) %355
+		e, r
+		cis d
+		e r
+		cis\p d
+		e r8 f( %360
+		e4) r8 es(
+		d4) r8 d(
+		c4) r8 c(
+		h?4) r8 b(
+		a4) r8 a' %365
+		g4 e
+		f r
+		d\p d'
+		g, a
+		d,8 d' d, e %370
+		f4 d
+		c c'
+		b2
+		a
+		gis %375
+		a4\f r
+		a, d
+		a' r
+		a,\p d
+		a a'16\f g f e %380
+		d4\p d'
+		g, a
+		d, d d
+		g
+		c, f %385
+		b b
+		c2
+		h
+		c4 r8 a
+		g4 r8 g %390
+		f4 r8 f
+		e4 r8 e
+		d4 r8 d
+		c4 r8 c
+		h4 r %395
+		a f'
+		e4. d8
+		c4 r
+		a'8 a gis a16 h?
+		a4 r8 a %400
+		a4 r8 a
+		a4 r8 a
+		f4 fis
+		e r
+		e e %405
+		e r
+		e\pE e
+		e r
+		R2*4
+		e2\f
+		fis4 fis
+		g!2 %415
+		dis4 fis~
+		fis e
+		c2
+		h4 r
+		r e~ %420
+		e8 d c h?
+		c h? c d
+		e4 r
+		r d~
+		d8 c h? a %425
+		h? a h? c
+		d2
+		g,
+		r4 f'~
+		f8 e d c %430
+		h4 h'
+		a2
+		d,4 r
+		g, c
+		g r %435
+		g c
+		g r
+		a d
+		a r
+		a d %440
+		a a'16 g f e
+		d4\p d'
+		g, a
+		d, r
+		r8 d' b g %445
+		e4. e8
+		f4 r8 f
+		e4 r8 e
+		d4 r8 d
+		c4 r8 c %450
+		h?4 r8 b?
+		a4 r8 a
+		gis2
+		a4 e'~\f
+		e8 d c h? %455
+		c h? c d
+		e2
+		a,4 d~
+		d8 c b! a
+		b a b c %460
+		d2
+		e4 a
+		a2
+		h?
+		a~ %465
+		a
+		a4 r\fermata \bar "||" %467 finis
 	}
 }

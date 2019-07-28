@@ -885,7 +885,7 @@ DomineFiliAltoNotes = {
 		r e~
 		e8[ f16 e] d4
 		r c~ %450
-		c8[ d16 c] h4
+		c8[ d16 c] b?4
 		a( a'8) e
 		f2
 		e4 r
