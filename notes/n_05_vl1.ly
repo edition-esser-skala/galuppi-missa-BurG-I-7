@@ -719,7 +719,7 @@ DomineFiliViolinoI = {
 		\kneeBeam a f''16 g \kneeBeam f8 a,,
 		gis4 r %395
 		a''8 e a4~
-		a8gis16 fis gis4\trill
+		a8 gis16 fis gis4\trill
 		a8 e[\f a, h?]
 		c4 d
 		e8 a,16 gis a8 e' %400
@@ -776,7 +776,7 @@ DomineFiliViolinoI = {
 		gis2
 		a4 r
 		R2*2 %456
-		r4 a'~
+		r4 a'~\fE
 		a8 g f e
 		f e fis4
 		g r %460
@@ -786,7 +786,7 @@ DomineFiliViolinoI = {
 		f4 e8 d
 		e2~ %465
 		e
-		f4 r\fermata \bar "||"
+		f4 r\fermata \bar "||" %467 finis
 	}
 }
 
