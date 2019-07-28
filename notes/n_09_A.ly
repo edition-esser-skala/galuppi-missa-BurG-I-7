@@ -1058,7 +1058,7 @@ QuiTollisAltoLyrics = \lyricmode {
 	mun -- di:
 	
 	Su --
-	sci -- pe, su --
+	sci -- pe, su -- %505
 	sci -- pe,
 	su --
 	sci -- pe
