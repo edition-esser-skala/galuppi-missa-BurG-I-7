@@ -792,6 +792,57 @@ QuiTollisViola = {
 		\clef treble
 		\key f \major \time 3/2 \tempoQuiTollis
 			\set Score.currentBarNumber = #468
-		
+		\partial 2 r2 R1.*2 %469
+		r2 r f4\fE f %470
+		b b b b c c
+		a a a a b b
+		c c, c c c c
+		c c c c c c
+		c c c c c c %475
+		a a b b d d
+		f f c c c c
+		c c c c c c
+		a a b b b b
+		c c c c c c %480
+		c c c c c c
+		c c b b b b
+		c c c c d d
+		c c c c c c
+		c c d d d d %485
+		e e fis fis g g
+		g g g g g g
+		g g g g g g
+		g g fis fis f f
+		f f e d e e %490
+		g g g g h h
+		a a a a c c
+		g g g g g g
+		a a d, d g g
+		g g g g g g %495
+		a a g g g g
+		g g f f f f
+		f f f f f f
+		f f es es es es
+		d d d d f f %500
+		g g g g g g
+		f f f f f f
+		f f f a a a
+		d, d d d g g
+		c, c c c d d %505
+		c-\critnote c c c g' g
+		g g f f a a
+		a a g g g g
+		a a a g f e
+		d d d d b b %510
+		c c c c c c
+		c c c c c c
+		d d d d f f
+		c c c c c c
+		c c c c c c %515
+		c f\p f f f f
+		f f f f f f
+		f f f f f f
+		f f e e e e
+		f1 r2\fermata \bar "||" %520 finis
 	}
 }
