@@ -1175,7 +1175,7 @@ QuoniamSopranoNotes = {
 		d8.([ c16)] h8 e d c
 		d8. c16 h4 h %630
 		h4. c8 d4
-		c4. c8 c4
+		c4. h8^\critnote c4
 		d c2
 		c4 h r
 		R2.*8 %642
