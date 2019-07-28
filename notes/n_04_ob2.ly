@@ -337,6 +337,83 @@ DomineFiliOboeII = {
 		\clef treble
 		\key d \minor \time 2/4 \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		
+		r8^\critnote a''\fE d, e
+		f4 g\trill
+		a8 d,16 cis d8 a'
+		b d,16 cis d8 b'
+		a d,16 cis d8 f
+		e d16 cis d8 d %355
+		cis cis cis d
+		e4 d\trill
+		cis8 a[\p e d]
+		e4 d\trill
+		e8 a'16[\f b] a8 d, %360
+		cis a'16 b a8 c,
+		h g'16 a g8 b,
+		a f'16 g f8 a,
+		gis e'16 f e8 g,
+		fis d'16 e d8 f, %365
+		e d' e, cis'
+		d a d,4
+		R2*8 %375
+		r8 cis'[\f cis d]
+		e4 d\trillE
+		cis8 a[\p e d]
+		e4 d\trillE
+		e r %380
+		R2*17 %397
+		r8 e'[\f a, h?]
+		c4 d
+		e8 a,16 gis a8 e' %400
+		f a,16 gis a8 f'
+		e a,16 gis a8 c^\critnote
+		h? a16 gis a8 a
+		gis gis gis a
+		h4 a\trill %405
+		gis8 gis[\p gis a]
+		h4 a\trill
+		gis r
+		R2*6 %414
+		e'2\f %415
+		fis4 fis
+		g2
+		dis
+		e4 e
+		c c %420
+		r e~
+		e8 d c h?
+		c h? cis4
+		d r
+		r d~ %425
+		d8 c! h? a
+		h? a  h?4
+		c e~
+		e8 d c b!
+		a2 %430
+		h4 c8 h
+		c2
+		h8 h h^\critnote c
+		d4 c\trill
+		h?8 h h c %435
+		d4 c\trill
+		h?8 cis cis d
+		e4 d\trill
+		cis8 cis cis d
+		e4 d\trill %440
+		cis r
+		R2*13 %454
+		r4 e~\f %455
+		e8 d c h?
+		c h? cis?4
+		d r
+		r d~
+		d8 c! b! a %460
+		b a h4
+		cis8 d e4~
+		e d8 cis
+		d2~
+		d4 cis8 h? %465
+		cis?2
+		d4 r\fermata \bar "||" %467 finis
 	}
 }

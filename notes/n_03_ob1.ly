@@ -343,7 +343,7 @@ DomineFiliOboeI = {
 		\clef treble
 		\key d \minor \time 2/4 \tempoDomineFili
 			\set Score.currentBarNumber = #350
-		r8 a''\fE^\critnote d, e
+		r8^\critnote a''\fE d, e
 		f4 g\trill
 		a8 d,16 cis d8 a'
 		b d,16 cis d8 b'
