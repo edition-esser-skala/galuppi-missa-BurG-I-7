@@ -1358,7 +1358,7 @@ DomineFiliOrgano = {
 		e r
 		e a %405
 		e r
-		e a
+		e\pE a
 		e r
 		\mvTr a2\f-\tutti
 		h?4 h %410
@@ -1476,7 +1476,7 @@ DomineFiliBassFigures = \figuremode {
 	<6>2 %400
 	r
 	<6>
-	<6>4 <7 5 [_+]>
+	<[6!]>4 <7 5 [_+]>
 	<[5!] _+>2
 	<7 [5! _+]> %405
 	<[5! _+]>
