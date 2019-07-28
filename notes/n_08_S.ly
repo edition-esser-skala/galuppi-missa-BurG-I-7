@@ -1053,7 +1053,7 @@ QuiTollisSopranoLyrics = \lyricmode {
 	tol -- lis pec -- ca -- ta
 	mun -- di, qui
 	tol -- lis pec -- ca -- ta %500
-	mun -- di:	
+	mun -- di:
 	Su --
 	sci -- pe, su --
 	sci -- pe,
