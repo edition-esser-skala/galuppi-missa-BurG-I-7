@@ -790,6 +790,15 @@ DomineFiliViolinoI = {
 	}
 }
 
+QuiTollisViolinoI = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/2 \tempoQuiTollis
+			\set Score.currentBarNumber = #468
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble

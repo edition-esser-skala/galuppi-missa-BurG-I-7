@@ -786,3 +786,12 @@ DomineFiliViola = {
 		a4 r\fermata \bar "||" %467 finis
 	}
 }
+
+QuiTollisViola = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/2 \tempoQuiTollis
+			\set Score.currentBarNumber = #468
+		
+	}
+}

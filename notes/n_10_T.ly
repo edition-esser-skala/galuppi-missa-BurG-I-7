@@ -673,6 +673,19 @@ DomineFiliTenoreLyrics = \lyricmode {
 	tris. %467 finis
 }
 
+QuiTollisTenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key f \major \time 3/2 \autoBeamOff \tempoQuiTollis
+			\set Score.currentBarNumber = #468
+		
+	}
+}
+
+QuiTollisTenoreLyrics = \lyricmode {
+	
+}
+
 % TenoreNotes = {
 % 	\relative c' {
 % 		\clef "treble_8"

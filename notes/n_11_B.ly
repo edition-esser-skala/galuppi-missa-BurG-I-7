@@ -728,6 +728,19 @@ DomineFiliBassoLyrics = \lyricmode {
 	tris. %467 finis
 }
 
+QuiTollisBassoNotes = {
+	\relative c {
+		\clef bass
+		\key f \major \time 3/2 \autoBeamOff \tempoQuiTollis
+			\set Score.currentBarNumber = #468
+		
+	}
+}
+
+QuiTollisBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c {
 % 		\clef bass

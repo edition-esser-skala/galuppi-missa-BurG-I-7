@@ -186,3 +186,12 @@ DomineFiliTrombaII = {
 		d4 r\fermata \bar "||" %467 finis
 	}
 }
+
+QuiTollisTrombaII = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/2 \tempoQuiTollis
+			\set Score.currentBarNumber = #468
+		
+	}
+}

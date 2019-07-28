@@ -312,83 +312,150 @@
 % 			\midi { \tempo 4 = 60 }
 % 		}
 % 	}
+% 	\bookpart {
+% 		\header {
+% 			movement = "2.6 DOMINE FILI"
+% 		}
+% 		\score {
+% 			<<
+% 				\new StaffGroup <<
+% 					\new Staff <<
+% 						\set Staff.instrumentName = \markup { \center-column { "Tromba I, II" "[in C]" } }
+% 						\partcombine \DomineFiliTrombaI \DomineFiliTrombaII
+% 					>>
+% 				>>
+% 				\new StaffGroup <<
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Oboe I"
+% 							\DomineFiliOboeI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Oboe II"
+% 							\DomineFiliOboeII
+% 						}
+% 					>>
+% 				>>
+% 				\new StaffGroup <<
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino I"
+% 							\DomineFiliViolinoI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino II"
+% 							\DomineFiliViolinoII
+% 						}
+% 					>>
+% 					\new Staff <<
+% 						\set Staff.instrumentName = "Viola"
+% 						\DomineFiliViola
+% 					>>
+% 				>>
+% 				\new ChoirStaff <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Soprano"
+% 						\new Voice = "Soprano" { \dynamicUp \DomineFiliSopranoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Soprano \DomineFiliSopranoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Alto"
+% 						\new Voice = "Alto" { \dynamicUp \DomineFiliAltoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Alto \DomineFiliAltoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Tenore"
+% 						\new Voice = "Tenore" { \dynamicUp \DomineFiliTenoreNotes }
+% 					}
+% 					\new Lyrics \lyricsto Tenore \DomineFiliTenoreLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Basso"
+% 						\new Voice = "Basso" { \dynamicUp \DomineFiliBassoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Basso \DomineFiliBassoLyrics
+% 				>>
+% 				\new StaffGroup <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Organo"
+% 						\DomineFiliOrgano
+% 					}
+% 				>>
+% 				\new FiguredBass {
+% 					\DomineFiliBassFigures
+% 				}
+% 			>>
+% 			\layout { }
+% 			\midi { \tempo 4 = 90 }
+% 		}
+% 	}
 	\bookpart {
 		\header {
-			movement = "2.6 DOMINE FILI"
+			movement = "2.7 QUI TOLLIS"
 		}
 		\score {
 			<<
 				\new StaffGroup <<
 					\new Staff <<
 						\set Staff.instrumentName = \markup { \center-column { "Tromba I, II" "[in C]" } }
-						\partcombine \DomineFiliTrombaI \DomineFiliTrombaII
-					>>
-				>>
-				\new StaffGroup <<
-					\new GrandStaff <<
-						\new Staff {
-							\set Staff.instrumentName = "Oboe I"
-							\DomineFiliOboeI
-						}
-						\new Staff {
-							\set Staff.instrumentName = "Oboe II"
-							\DomineFiliOboeII
-						}
+						\partcombine \QuiTollisTrombaI \QuiTollisTrombaII
 					>>
 				>>
 				\new StaffGroup <<
 					\new GrandStaff <<
 						\new Staff {
 							\set Staff.instrumentName = "Violino I"
-							\DomineFiliViolinoI
+							\QuiTollisViolinoI
 						}
 						\new Staff {
 							\set Staff.instrumentName = "Violino II"
-							\DomineFiliViolinoII
+							\QuiTollisViolinoII
 						}
 					>>
 					\new Staff <<
 						\set Staff.instrumentName = "Viola"
-						\DomineFiliViola
+						\QuiTollisViola
 					>>
 				>>
 				\new ChoirStaff <<
 					\new Staff {
 						\set Staff.instrumentName = "Soprano"
-						\new Voice = "Soprano" { \dynamicUp \DomineFiliSopranoNotes }
+						\new Voice = "Soprano" { \dynamicUp \QuiTollisSopranoNotes }
 					}
-					\new Lyrics \lyricsto Soprano \DomineFiliSopranoLyrics
+					\new Lyrics \lyricsto Soprano \QuiTollisSopranoLyrics
 					
 					\new Staff {
 						\set Staff.instrumentName = "Alto"
-						\new Voice = "Alto" { \dynamicUp \DomineFiliAltoNotes }
+						\new Voice = "Alto" { \dynamicUp \QuiTollisAltoNotes }
 					}
-					\new Lyrics \lyricsto Alto \DomineFiliAltoLyrics
+					\new Lyrics \lyricsto Alto \QuiTollisAltoLyrics
 					
 					\new Staff {
 						\set Staff.instrumentName = "Tenore"
-						\new Voice = "Tenore" { \dynamicUp \DomineFiliTenoreNotes }
+						\new Voice = "Tenore" { \dynamicUp \QuiTollisTenoreNotes }
 					}
-					\new Lyrics \lyricsto Tenore \DomineFiliTenoreLyrics
+					\new Lyrics \lyricsto Tenore \QuiTollisTenoreLyrics
 					
 					\new Staff {
 						\set Staff.instrumentName = "Basso"
-						\new Voice = "Basso" { \dynamicUp \DomineFiliBassoNotes }
+						\new Voice = "Basso" { \dynamicUp \QuiTollisBassoNotes }
 					}
-					\new Lyrics \lyricsto Basso \DomineFiliBassoLyrics
+					\new Lyrics \lyricsto Basso \QuiTollisBassoLyrics
 				>>
 				\new StaffGroup <<
 					\new Staff {
 						\set Staff.instrumentName = "Organo"
-						\DomineFiliOrgano
+						\QuiTollisOrgano
 					}
 				>>
 				\new FiguredBass {
-					\DomineFiliBassFigures
+					\QuiTollisBassFigures
 				}
 			>>
 			\layout { }
-			\midi { \tempo 4 = 90 }
+			\midi { \tempo 4 = 60 }
 		}
 	}
 }

@@ -984,6 +984,19 @@ DomineFiliAltoLyrics = \lyricmode {
 	tris. %467 finis
 }
 
+QuiTollisAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/2 \autoBeamOff \tempoQuiTollis
+			\set Score.currentBarNumber = #468
+		
+	}
+}
+
+QuiTollisAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble
