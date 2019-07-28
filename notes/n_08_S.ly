@@ -1148,12 +1148,131 @@ QuoniamSopranoNotes = {
 		\clef treble
 		\key c \major \time 3/4 \autoBeamOff \tempoQuoniam
 			\set Score.currentBarNumber = #568
-		
+		R2.*33 %600
+		r4 r8 \mvTr d'\pE^\solo c h
+		c4 c8 c h a
+		h8. a16 h8 d c h
+		c4 c8 c h a
+		h2 h4 %605
+		a r r
+		\mvTr d8.\fE^\tutti d16 d8 d d d
+		c4 c c
+		c c c
+		h4. c8 d4 %610
+		cis2.
+		cis?
+		cis?
+		d4 c2
+		h4 a2 %615
+		h4 c2
+		h4 a2
+		h4 c c
+		c2 h4~
+		h a2 %620
+		h4 r r
+		R2.*6 %627
+		\mvTr d8.\pE^\solo c16 h8 e d c
+		d8.([ c16)] h8 e d c
+		d8. c16 h4 h %630
+		h4. c8 d4
+		c4. c8 c4
+		d c2
+		c4 h r
+		R2.*8 %642
+		r4 r8 \mvTr d\fE^\tuttiE c h
+		c4 c8 c h a
+		h8. a16 h8 d c h %645
+		c4 c8 c h a
+		h4. h8 h4
+		b8. b16 b8 b b b
+		a4 a r
+		d d d8 d %650
+		c4. d8 e4
+		c2.
+		d
+		es(
+		d4) c c~ %655
+		c h2
+		c4 r r
+		r r h
+		c c r
+		r r h %660
+		c8. c16 c4 r
+		r r h
+		c c r
+		c2.
+		d %665
+		es(
+		d4 c) d
+		c( h2)
+		c4 d d
+		c8 c c4( h) %670
+		c r r
+		R2.*10 %681
+		R2.\fermataMarkup \bar "||" %682 finis
 	}
 }
 
 QuoniamSopranoLyrics = \lyricmode {
+	Tu so -- lus %601
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus, tu so -- lus
+	san -- ctus, tu so -- lus
+	Do -- mi -- %605
+	nus,
+	quo -- ni -- am tu so -- lus
+	san -- ctus, tu
+	so -- lus al --
+	tis -- si -- mus %610
+	Je --
+	su,
+	Je --
+	su, Je --
+	su Chri -- %615
+	ste, Je --
+	su Chri --
+	ste, Je -- su,
+	Je -- su __
+	Chri -- %620
+	ste.
 	
+	Quo -- ni -- am tu so -- lus %628
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus, tu %630
+	so -- lus al --
+	tis -- si -- mus
+	Je -- su
+	Chri -- ste,
+	
+	tu so -- lus %643
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus, tu so -- lus %645
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus,
+	quo -- ni -- am tu so -- lus
+	san -- ctus,
+	tu so -- lus al -- %650
+	tis -- si -- mus
+	Je --
+	su,
+	Je --
+	su Chri -- %655
+	_
+	ste,
+	tu
+	so -- lus
+	al -- %660
+	tis -- si -- mus,
+	tu
+	so -- lus
+	Je --
+	su, %665
+	Je --
+	su
+	Chri --
+	ste, Je -- su,
+	Je -- su Chri -- %670
+	ste. %671 finis
 }
 
 % SopranoNotes = {
