@@ -1701,7 +1701,7 @@ QuiSedesOrgano = {
 		a r h r c r d r
 		e r e, r a a' gis e %560
 		r a gis e r a gis e
-		a a c h c4 d
+		a a h h c4 d
 		e4\fermata e, a,8\f a' gis e
 		r a gis e a d e e,
 		r a\p gis e r a gis e %565
@@ -1752,7 +1752,7 @@ QuiSedesBassFigures = \figuremode {
 	r4 <[7]> <[6]>2
 	<6 4>4 <5 _+> r4 <[6]>8 <7 [_+]> %560
 	r4 <[6]>8 <7 [_+]> r4 <[6]>8 <7 [_+]>
-	r4 <6\\ 5> <6>2
+	<[6]>4 <6\\ 5> <6>2
 	<6 4>4 <5 _+> r4 <[6]>8 <7 [_+]>
 	r4 <[6]>8 <7 [_+]> r <6 5> <6 4> <5 _+>
 	r4 <[6]>8 <7 [_+]> r4 <[6]>8 <7 [_+]> %565

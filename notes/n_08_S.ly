@@ -1076,12 +1076,71 @@ QuiSedesSopranoNotes = {
 		\clef treble
 		\key a \minor \time 4/4 \autoBeamOff \tempoQuiSedes
 			\set Score.currentBarNumber = #521
-		
+		\partial 8 r8 R1*14 %534
+		r4 r8 \mvTr e'\pE^\soloE e a,4 e'8 %535
+		f e4 c8 d8.([ e32 f)] e8 d
+		c8.([ h32 a)] f'4~ f8[ e16. d32] c8[ h]
+		c a4 r8 c4. c8
+		c4 h d4. d8
+		d c4 d16[ e] f8 e4 d8 %540
+		e d4 c8 d a'4 c,8
+		h8.[ c16] d4\trill c8.[ d16] e4\trill
+		d8.[ e16] f4\trillE e8[ d16 e] f8 e16([ d)]
+		c4( h8.[\trill c16)] c4 r
+		d2~ d8[ e16 f] e8 d %545
+		e16([ d)] c4 r8 d4. d8
+		d8.[ e16] f8[ e16 d] \appoggiatura c8 h4 c8 f
+		e4( d8.[\trill c16)] c4 r
+		R1
+		r2 r4 r8 g %550
+		c g4 e'8 e d4 c8
+		d8.([ e32 f)] e8 d e8.([ d16)] c4
+		r2 cis4( d8) e
+		f32([ e d16)] d4. r2
+		dis4( e8) fis g16.[ fis32] e4 e8 %555
+		f16[ e f8]~ f16[ e f8]~ f16[ e d c] h[ f' e dis]
+		e[ dis e8]~ e16[ dis e8]~ e16[ d c h] a[ e' d cis]
+		d[ cis? d8]~ d16[ cis? d8]~ d16[ c h a] gis[ d' c h]
+		c[ c8 d32 e] d16[ d8 e32 f] e8[ d16 e] f8 e16([ d)]
+		c4( h8.[\trill a16)] a4 e'8. d16 %560
+		c8.([ d16)] e4 r e8 e
+		f2( e4) a,
+		a\fermata( h8.[ a16)]a4 r
+		R1*3 %566
+		R1\fermataMarkup \bar "||" %567 finis
 	}
 }
 
 QuiSedesSopranoLyrics = \lyricmode {
+	Qui se -- des, qui %535
+	se -- des ad dex -- te -- ram
+	Pa -- _ _
+	_ tris: Mi -- se --
+	re -- re, mi -- se --
+	re -- _ _ _ _ _ %540
+	_ _ _ _ _ _
+	_ _ _ _
+	_ _ _ _ re
+	no -- bis,
+	mi -- _ se -- %545
+	re -- re, mi -- se --
+	re -- _ _ _ re
+	no -- bis.
 	
+	Qui %550
+	se -- des, qui se -- des ad
+	dex -- te -- ram Pa -- tris:
+	Mi -- se --
+	re -- re,
+	mi -- se -- re -- _ _ %555
+	_ _
+	_ _
+	_ _
+	_ _ _ _ re
+	no -- bis, mi -- se -- %560
+	re -- re, mi -- se --
+	re -- re
+	no -- bis. %563 finis
 }
 
 % SopranoNotes = {
