@@ -517,6 +517,18 @@
 				\new StaffGroup <<
 					\new GrandStaff <<
 						\new Staff {
+							\set Staff.instrumentName = "Oboe I"
+							\QuoniamOboeI
+						}
+						\new Staff {
+							\set Staff.instrumentName = "Oboe II"
+							\QuoniamOboeII
+						}
+					>>
+				>>
+				\new StaffGroup <<
+					\new GrandStaff <<
+						\new Staff {
 							\set Staff.instrumentName = "Violino I"
 							\QuoniamViolinoI
 						}

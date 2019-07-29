@@ -430,6 +430,97 @@ QuoniamOboeI = {
 		\clef treble
 		\key c \major \time 3/4 \tempoQuoniam
 			\set Score.currentBarNumber = #568
-		
+		e'8.\fE d16 c8 f e d
+		e8. d16 c8 f e d
+		e8. d16 c8 e d c %570
+		d4 c2\trill
+		h h4
+		c2.\trill
+		h16 g a h c d e fis? g8 g
+		g b b4 a8 g %575
+		f!16 f, g a h cis? d e f8 f
+		f a a4 g8 f
+		e16 e, f g a h c d e8 e
+		e f16 g f8 e d c
+		h8 g g e' d c %580
+		d g, g d' c h
+		c g g e' d c
+		d g, g d' c h
+		c16 c d e f g a h c8 c
+		c fis, fis2\trill %585
+		c'8 fis, fis2\trill
+		c'8 fis, fis g16 a g8 fis
+		g f f2\trill
+		e8 d16 c d4 h
+		c8 f f2\trill %590
+		e8 d16 c d4 h
+		c8 f f2\trill
+		e8 d16 c d4 h
+		c r r
+		R2.*11 %605
+		r16 d,\fE e fis? g a h c d8 d
+		d8 f! f4 e8 d
+		c16 c, d e fis? gis? a h c8 c
+		c e e4 d8 c
+		h16 g! a h c d e fis g8 g %610
+		g cis, cis2
+		g'8 cis, cis2
+		g'8 cis, cis d16 e d8 cis
+		d c' c!2
+		h8 a16 g a4 fis %615
+		g8 c c2
+		h8 a16 g a4 fis
+		g e a
+		a2 g4~
+		g fis2 %620
+		g16 g, a h c d e fis? g8 g
+		g cis, cis2
+		g'8 cis, cis d16 e d8 cis?
+		c c'! c2
+		h8 a16 g a4 fis %625
+		g8 c, c2
+		h8 a16 g a4 fis
+		g r r
+		R2.*9 %637
+		c16\f a h c d e fis? gis? a8 a
+		a4 f d
+		cis r r %640
+		R2.*6 %646
+		r16 g a h c d e fis? g8 g
+		g b b4 a8 g
+		f!16 f, g a h cis? d e f8 f
+		f a a4 g8 f %650
+		e16 c! d e f g a h c8 c
+		c fis, fis2
+		c'8 fis, fis2
+		c'8 fis, fis g16 a g8 fis
+		g8. f16 e4 f %655
+		d2.\trill
+		e8 g, g g' f e
+		f g, g f' e d
+		e g, g g' f e
+		f g, g f' e d %660
+		e g, g g' f e
+		f g, g f' e d
+		e16 c d e f g a h c8 c
+		c8 fis, fis2
+		c'8 fis, fis2 %665
+		c'8 fis, fis g16 a g8 fis
+		g8. f16 e8 f f4
+		e8 d16 c d4 h
+		c8 f f2
+		e8 d16 c d4 h %670
+		c8 g g e' d c
+		d g, g d' c h
+		c g g e' d c
+		d g, g d' c h
+		c d16 e f g a h c8 c %675
+		c fis, fis2
+		c'8 fis, fis2
+		c'8 fis, fis g16 a g8 fis
+		g f f2
+		e8 d16 c d4 h %680
+		c8 e f, a d, f
+		e d16 c d8 d c4\fermata \bar "||" %682 finis
 	}
 }
