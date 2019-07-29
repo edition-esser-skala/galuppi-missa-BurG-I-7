@@ -305,3 +305,12 @@ QuoniamTrombaI = {
 		g8 f16 e f8 d e4\fermata \bar "||" %682 finis
 	}
 }
+
+CumSanctoTrombaI = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \tempoCumSancto
+			\set Score.currentBarNumber = #683
+		
+	}
+}

@@ -1024,3 +1024,12 @@ QuoniamViola = {
 		g8 a d,4 e\fermata \bar "||" %682 finis
 	}
 }
+
+CumSanctoViola = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \tempoCumSancto
+			\set Score.currentBarNumber = #683
+		
+	}
+}

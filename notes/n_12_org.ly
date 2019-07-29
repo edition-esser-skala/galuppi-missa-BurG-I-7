@@ -2001,6 +2001,22 @@ QuoniamBassFigures = \figuremode {
 	r8 <6 5> r2 %682 finis
 }
 
+CumSanctoOrgano = {
+	\relative c {
+		\clef bass
+		\key f \major \time 4/4 \tempoCumSancto
+			\set Score.currentBarNumber = #683
+		r4 \mvTr c\fE-\tuttiE c c
+		e2. e4
+		f r r2\fermata \bar "||"
+		\clef treble \time 3/4 \tempoCumSanctoFuga c''4 c c
+	}
+}
+
+CumSanctoBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

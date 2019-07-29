@@ -1275,6 +1275,19 @@ QuoniamSopranoLyrics = \lyricmode {
 	ste. %671 finis
 }
 
+CumSanctoSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \autoBeamOff \tempoCumSancto
+			\set Score.currentBarNumber = #683
+		
+	}
+}
+
+CumSanctoSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble

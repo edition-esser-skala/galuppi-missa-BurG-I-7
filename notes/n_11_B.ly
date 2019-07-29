@@ -956,6 +956,19 @@ QuoniamBassoLyrics = \lyricmode {
 	ste. %671 finis
 }
 
+CumSanctoBassoNotes = {
+	\relative c {
+		\clef bass
+		\key f \major \time 4/4 \autoBeamOff \tempoCumSancto
+			\set Score.currentBarNumber = #683
+		
+	}
+}
+
+CumSanctoBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c {
 % 		\clef bass

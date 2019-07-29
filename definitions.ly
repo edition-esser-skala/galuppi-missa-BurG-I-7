@@ -207,6 +207,8 @@ tempoDomineFili = \tempoMarkup "Andante"
 tempoQuiTollis = \tempoMarkup "Adagio"
 tempoQuiSedes = \tempoMarkup "Larghetto"
 tempoQuoniam = \tempoMarkup "Allegro"
+tempoCumSancto = \tempoMarkup "Adagio"
+	tempoCumSanctoFuga = \tempoMarkup "Allegro"
 
 
 
