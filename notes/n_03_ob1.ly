@@ -442,7 +442,7 @@ QuoniamOboeI = {
 		f a a4 g8 f
 		e16 e, f g a h c d e8 e
 		e f16 g f8 e d c
-		h8 g g e' d c %580
+		h g g e' d c %580
 		d g, g d' c h
 		c g g e' d c
 		d g, g d' c h
