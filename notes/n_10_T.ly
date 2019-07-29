@@ -771,7 +771,7 @@ QuoniamTenoreNotes = {
 		\key c \major \time 3/4 \autoBeamOff \tempoQuoniam
 			\set Score.currentBarNumber = #568
 		R2.*26 %593
-		\mvTr e8.\pE^\solo d16 c8 f e d
+		\mvDll e8.\pE^\solo d16 c8 f e d
 		e8.([ d16)] c8 f e d %595
 		e8. d16 c4 e
 		d8.([ e16)] d4 c
@@ -824,7 +824,7 @@ QuoniamTenoreNotes = {
 		fis2.
 		fis?
 		fis?(
-		g8[ f)] e4 f( %655
+		g8[ f)] e!4 f( %655
 		d2.)
 		e4 r r
 		r r d
@@ -836,7 +836,7 @@ QuoniamTenoreNotes = {
 		fis2.
 		fis? %665
 		fis?(
-		g8[ f] e4) f
+		g8[ f] e!4) f
 		e( d2)
 		c4 f f
 		e8 f d2 %670

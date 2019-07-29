@@ -1799,12 +1799,12 @@ QuoniamOrgano = {
 		fis2 fis4
 		fis?2. %600
 		g4 r r
-		d'2.
+		\clef "treble_8" d'2.
 		d
 		d
 		cis2 cis4 %605
 		d r r
-		\mvTr gis,\f-\tuttiE gis8 gis gis gis
+		\clef bass \mvTr gis,\f-\tuttiE gis8 gis gis gis
 		a4 a a
 		fis fis fis
 		g!4. g8 g4 %610
@@ -1825,7 +1825,7 @@ QuoniamOrgano = {
 		g c, d %625
 		e fis d
 		g c, d
-		\mvTr g,\p-\soloE g'8 g g g
+		\mvTr g,\p-\soloE \clef "treble_8" g'8 g g g
 		g4 g,8 g' g g
 		g g, g g g g %630
 		gis'4. gis8 gis4
@@ -1835,7 +1835,7 @@ QuoniamOrgano = {
 		e r r %635
 		e r r
 		e r r
-		\mvTr a\f-\tutti r a
+		\clef bass \mvTr a\f-\tutti r a
 		a2.~
 		a~ %640
 		a~
@@ -1931,7 +1931,7 @@ QuoniamBassFigures = \figuremode {
 	<5 _+>
 	<6 4+ _->
 	<6 5>
-	r4 <_+>2 %615
+	<[_!]>4 <_+>2 %615
 	r4 <6 5>2
 	r4 <_+>2
 	r2.
@@ -1947,7 +1947,7 @@ QuoniamBassFigures = \figuremode {
 	r2.
 	r
 	r %630
-	r
+	<[7!]>
 	r4. <[_+]>
 	<6>4 <7 5[_+]>2
 	<6 4>4 <5 _+>2
@@ -1970,8 +1970,8 @@ QuoniamBassFigures = \figuremode {
 	r
 	<6 4 2+>
 	<7 5 _+>
-	<6 4 _->
-	<6 5!> %655
+	<6 [4+] _->
+	<6 5!>4 <[_!]>2 %655
 	<5 4>4 <\l 3>2
 	r2.
 	r
@@ -1983,7 +1983,7 @@ QuoniamBassFigures = \figuremode {
 	<6 4 2+>
 	<7 5 _+> %665
 	<6 4+ _->
-	<6 5!>2 <6 5>4
+	<6 5!>4 <[_!]> <6 5>
 	<6 4> <5 3>2
 	r4 <6 5> <[7]>
 	r <4> <3> %670

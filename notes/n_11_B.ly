@@ -829,12 +829,131 @@ QuoniamBassoNotes = {
 		\clef bass
 		\key c \major \time 3/4 \autoBeamOff \tempoQuoniam
 			\set Score.currentBarNumber = #568
-		
+		R2.*26 %593
+		\mvDll c'8.\pE^\solo c16 c8 c c c
+		c4 c8 c c c %595
+		c8. c16 c4 c,
+		f f fis
+		g4. g8 g4
+		fis2 fis4
+		fis?2. %600
+		g4 r r
+		R2.*5 %606
+		\mvTr gis8.\fE^\tutti gis16 gis8 gis gis gis
+		a4 a a
+		fis fis fis
+		g!4. g8 g4 %610
+		b2.
+		a
+		g
+		fis4 fis2
+		g4 d2 %615
+		g4 fis2
+		g4 d'( d,)
+		g a a
+		fis( d) g(
+		c) d( d,) %620
+		g r r
+		R2.*16 %637
+		r4 r \mvTr a\fE^\tutti
+		a2.
+		a %640
+		a
+		a2 a4
+		d, r8 h' a g
+		a4 a8 a g fis
+		g8. fis16 g8 h a g %645
+		a4 a8 a g fis
+		g4. g,8 g4
+		cis'8. cis16 cis8 cis cis cis
+		d4 d, r
+		h' h h8 h %650
+		c4. c8 c4
+		es2.
+		d
+		c(
+		h4) c f,( %655
+		g2.)
+		c,4 r r
+		r r g'
+		c c r
+		r r g %660
+		c8. c16 c4 r
+		r r g
+		c c r
+		es2.
+		d %665
+		c(
+		h4) c f,(
+		g2.)
+		a4 h g
+		c8 f, g2 %670
+		c,4 r r
+		R2.*10 %681
+		R2.\fermataMarkup \bar "||" %682 finis
 	}
 }
 
 QuoniamBassoLyrics = \lyricmode {
+	Quo -- ni -- am tu so -- lus %594
+	san -- ctus, tu so -- lus %595
+	Do -- mi -- nus, tu
+	so -- lus al --
+	tis -- si -- mus
+	Je -- su
+	Chri -- %600
+	ste,
 	
+	quo -- ni -- am tu so -- lus %607
+	san -- ctus, tu
+	so -- lus al --
+	tis -- si -- mus %610
+	Je --
+	su,
+	Je --
+	su, Je --
+	su Chri -- %615
+	ste, Je --
+	su Chri --
+	ste, Je -- su,
+	Je -- su __
+	Chri -- %620
+	ste.
+	
+	Tu %638
+	so --
+	lus %640
+	al --
+	tis -- si --
+	mus, tu so -- lus
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus, tu so -- lus %645
+	san -- ctus, tu so -- lus
+	Do -- mi -- nus,
+	quo -- ni -- am tu so -- lus
+	san -- ctus,
+	tu so -- lus al -- %650
+	tis -- si -- mus
+	Je --
+	su,
+	Je --
+	su Chri -- %655
+	
+	ste,
+	tu
+	so -- lus
+	al -- %660
+	tis -- si -- mus,
+	tu
+	so -- lus
+	Je --
+	su, %665
+	Je --
+	su Chri --
+	
+	ste, Je -- su,
+	Je -- su Chri -- %670
+	ste. %671 finis
 }
 
 % BassoNotes = {

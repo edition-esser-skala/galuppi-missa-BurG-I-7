@@ -1078,7 +1078,7 @@ QuoniamAltoNotes = {
 		\key c \major \time 3/4 \autoBeamOff \tempoQuoniam
 			\set Score.currentBarNumber = #568
 		R2.*26 %593
-		\mvTr g'8.\pE^\solo f16 e8 a g f
+		\mvDll g'8.\pE^\solo f16 e8 a g f
 		g8.([ f16)] e8 a g f %595
 		g8.f16 e4 g
 		f8.([ g16)] f4 e
