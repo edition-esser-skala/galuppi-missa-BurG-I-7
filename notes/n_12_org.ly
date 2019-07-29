@@ -2008,13 +2008,226 @@ CumSanctoOrgano = {
 			\set Score.currentBarNumber = #683
 		r4 \mvTr c\fE-\tuttiE c c
 		e2. e4
-		f r r2\fermata \bar "||"
+		f r r2\fermata \bar "||" %685
 		\clef treble \time 3/4 \tempoCumSanctoFuga c''4 c c
+		d8 c d e f g
+		e4. d8 c4
+		\clef bass d,, f b~
+		b e, a~ %690
+		a d, g~
+		g c, f~
+		f e8 d e4
+		f \clef treble << {
+			c'' \once \tieDashed f~
+			f e2 %695
+			f4 r r
+		} \\ {
+			f,4 f
+			g8 f g a b c %695
+			a4. g8 f4
+		} >> \clef bass
+		f,8 g a h c d
+		e, f g a h c
+		d, e f g a h
+		c, d e f g a %700
+		f4 g2
+		c,4 c c
+		d8 c d e f g
+		e4. d8 c4
+		d2. %705
+		c
+		b!
+		a
+		g
+		f4 f' f %710
+		g8 f g a b c
+		a4. g8 f4
+		a2.
+		g
+		f %715
+		e
+		d
+		c4 g' c~
+		c f, b~
+		b e, a~ %720
+		a d, g~
+		g c, f
+		b, c2
+		f8 g a b c d
+		e,4 g c %725
+		d,8 e f g a h
+		c,4 e a
+		g g, g'~
+		g fis2
+		g4 r r %730
+		f!8 g a h c d
+		e, f g a h c
+		d, e f g a h
+		c, d e fis gis a
+		h4 gis a %735
+		d, e2
+		a,4 e' a~
+		a d, g~
+		g f!8 e f4
+		g a a, %740
+		d r r
+		e8 fis g a b! c
+		fis,2 g4
+		c d d,
+		g b8 c d es %745
+		f, g a b c d
+		es, f g a b c
+		d, es f g a b
+		c4 a f
+		g g8 f! e!4 %750
+		f f f
+		g8 f g a b c
+		a4. g8 f4
+		g2.
+		f %755
+		es
+		d
+		c
+		b4 f' b~
+		b e, a~ %760
+		a d, g~
+		g c, f
+		g4 f2
+		c4 g' c~
+		c h2 %765
+		c4 c,2~-\tasto
+		c2.~
+		c~
+		c~
+		c~ %770
+		c
+		f4 f f
+		g8 f g a b c
+		a4. g8 f4
+		f8 g a b c d %775
+		e, f g a h c
+		d, e f g a h?
+		c4 c,2~-\tasto
+		c2.~
+		c~ %780
+		c
+		f8 g a b! c d
+		e, f g a h c
+		d, e f g a h?
+		c2 f,4 %785
+		b! c c,
+		f f c
+		f r r\fermata \bar "|." %788 FINIS
 	}
 }
 
 CumSanctoBassFigures = \figuremode {
-	
+	r1 %683
+	<6 5>
+	r %685
+	r2.
+	r
+	r
+	r
+	<2>4 <6>2 %690
+	<2>4 <6>2
+	<2>4 <6>2
+	<2>4 <6>2
+	r2.
+	r %695
+	r
+	r
+	r
+	r
+	r %700
+	<6 5>4 <5 _!>2
+	r2.
+	<7>4 <6!>2
+	<[6]>2.
+	<7>4 <6>2 %705
+	<7>4 <6>2
+	<7>4 <6>2
+	<7>4 <6>2
+	<7>4 <6>2
+	r2. %710
+	<7>4 <6>2
+	<[6]>2.
+	<7>4 <6>2
+	<7>4 <6>2
+	<7>4 <6>2 %715
+	<7>4 <6>2
+	<7>4 <6!>2
+	r2.
+	<6 4 2>4 <6> q
+	<6 4 2> <6>2 %720
+	<6 4 2>4 <6>2
+	<6 4 2>4 <6>2
+	<6 5>4 <5 3>2
+	r2.
+	<9>4 <6>2 %725
+	r2.
+	<9>4 <6>2
+	<4>4 <_!>2
+	<6 4 2>4 <6>2
+	<_!>2. %730
+	r
+	<9>
+	q
+	q
+	q4 <6 5 [_!]> r %735
+	<6! 5> <5! _+>2
+	r2.
+	<6 4 2>4 <6>2
+	<6 4+ 2>4 <6>2
+	<6 5>4 <5 _+>2 %740
+	r2.
+	r
+	<6 5>
+	<6 5 _->4 <_+>2
+	r2. %745
+	<9>
+	q
+	<[9-]>
+	<9 6->4 <9-> <7->
+	<4> <3> <7 5> %750
+	r2.
+	<7>4 <6!>2
+	<6>2.
+	<7>4 <6->2
+	<7->4 <6>2 %755
+	<7>4 <6>2
+	<7>4 <6>2
+	<[7 _-]>4 <[6 \t]>2
+	r2.
+	<6 4 2> %760
+	q
+	q
+	<5 3>
+	r
+	<4 2>4 <6 5>2 %765
+	r2.
+	r
+	r
+	r
+	r %770
+	r
+	<[5 3]>
+	<7>4 <6!>2
+	<[6]>2.
+	r %775
+	<9>
+	q
+	r2.
+	r
+	r %780
+	r
+	<[5 3]>
+	<9>
+	q
+	<7> %785
+	<6 5>
+	r
+	r %788 FINIS
 }
 
 % Organo = {
