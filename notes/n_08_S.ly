@@ -1163,7 +1163,7 @@ QuoniamSopranoNotes = {
 		cis?
 		cis?
 		d4 c2
-		h4 a2 %615
+		h!4 a2 %615
 		h4 c2
 		h4 a2
 		h4 c c
@@ -1187,7 +1187,7 @@ QuoniamSopranoNotes = {
 		b8. b16 b8 b b b
 		a4 a r
 		d d d8 d %650
-		c4. d8 e4
+		c!4. d8 e4
 		c2.
 		d
 		es(

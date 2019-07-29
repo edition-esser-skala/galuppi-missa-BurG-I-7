@@ -868,7 +868,7 @@ QuoniamBassoNotes = {
 		cis'8. cis16 cis8 cis cis cis
 		d4 d, r
 		h' h h8 h %650
-		c4. c8 c4
+		c!4. c8 c4
 		es2.
 		d
 		c(
