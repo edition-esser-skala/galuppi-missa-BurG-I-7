@@ -914,7 +914,7 @@ QuoniamViolinoI = {
 		R2.*6 %573
 		r16 g'\fE a h c d e fis? g8 g
 		g b b4 a8 g %575
-		f!16 f, g a h cis? d e f8 f
+		f!16 f, g a h c d e f8 f
 		f a a4 g8 f
 		e16 e, f g a h c d e8 e
 		e f16 g f8 e d c

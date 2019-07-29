@@ -431,9 +431,9 @@ QuoniamOboeII = {
 		c2.\trill
 		h16 g a h c d e fis? g8 g
 		e g g4 f!8 e %575
-		d16 d, e f g a h cis? d8 d
+		d16 d, e f g a h c d8 d
 		d f f4 e8 d
-		c!16 c, d e f g a h c8 c
+		c16 c, d e f g a h c8 c
 		c d16 e d8 c h a
 		h g g e' d c %580
 		d g, g d' c h

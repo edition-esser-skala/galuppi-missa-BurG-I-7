@@ -904,7 +904,7 @@ QuiSedesViola = {
 
 QuoniamViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key c \major \time 3/4 \tempoQuoniam
 			\set Score.currentBarNumber = #568
 		c'4\fE c, r

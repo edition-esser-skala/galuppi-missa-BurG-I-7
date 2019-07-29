@@ -871,9 +871,9 @@ QuoniamBassoNotes = {
 		c!4. c8 c4
 		es2.
 		d
-		c(
-		h4) c f,( %655
-		g2.)
+		c
+		h4 c f, %655
+		g2.
 		c,4 r r
 		r r g'
 		c c r
@@ -883,9 +883,9 @@ QuoniamBassoNotes = {
 		c c r
 		es2.
 		d %665
-		c(
-		h4) c f,(
-		g2.)
+		c
+		h4 c f,
+		g2.
 		a4 h g
 		c8 f, g2 %670
 		c,4 r r
@@ -937,8 +937,8 @@ QuoniamBassoLyrics = \lyricmode {
 	Je --
 	su,
 	Je --
-	su Chri -- %655
-	
+	_ _ su %655
+	Chri --
 	ste,
 	tu
 	so -- lus
@@ -949,8 +949,8 @@ QuoniamBassoLyrics = \lyricmode {
 	Je --
 	su, %665
 	Je --
-	su Chri --
-	
+	_ _ su
+	Chri --
 	ste, Je -- su,
 	Je -- su Chri -- %670
 	ste. %671 finis

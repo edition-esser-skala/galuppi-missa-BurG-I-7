@@ -1190,9 +1190,9 @@ QuoniamSopranoNotes = {
 		c!4. d8 e4
 		c2.
 		d
-		es(
-		d4) c c~ %655
-		c h2
+		es
+		d4 c d^\critnote %655
+		c( h2)
 		c4 r r
 		r r h
 		c c r
@@ -1202,8 +1202,8 @@ QuoniamSopranoNotes = {
 		c c r
 		c2.
 		d %665
-		es(
-		d4 c) d
+		es
+		d4 c d
 		c( h2)
 		c4 d d
 		c8 c c4( h) %670
@@ -1256,8 +1256,8 @@ QuoniamSopranoLyrics = \lyricmode {
 	Je --
 	su,
 	Je --
-	su Chri -- %655
-	_
+	_ _ su %655
+	Chri --
 	ste,
 	tu
 	so -- lus
@@ -1268,7 +1268,7 @@ QuoniamSopranoLyrics = \lyricmode {
 	Je --
 	su, %665
 	Je --
-	su
+	_ _ su
 	Chri --
 	ste, Je -- su,
 	Je -- su Chri -- %670

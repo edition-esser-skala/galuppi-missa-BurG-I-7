@@ -823,9 +823,9 @@ QuoniamTenoreNotes = {
 		e4. e8 g4
 		fis2.
 		fis?
-		fis?(
-		g8[ f)] e!4 f( %655
-		d2.)
+		fis?
+		g8[ f] e!4 f %655
+		d2.
 		e4 r r
 		r r d
 		e e r
@@ -835,8 +835,8 @@ QuoniamTenoreNotes = {
 		e e r
 		fis2.
 		fis? %665
-		fis?(
-		g8[ f] e!4) f
+		fis?
+		g8[ f] e!4 f
 		e( d2)
 		c4 f f
 		e8 f d2 %670
@@ -900,8 +900,8 @@ QuoniamTenoreLyrics = \lyricmode {
 	Je --
 	su,
 	Je --
-	su Chri -- %655
-	
+	_ _ su %655
+	Chri --
 	ste,
 	tu
 	so -- lus
@@ -912,7 +912,7 @@ QuoniamTenoreLyrics = \lyricmode {
 	Je --
 	su, %665
 	Je --
-	su
+	_ _ su
 	Chri --
 	ste, Je -- su,
 	Je -- su Chri -- %670

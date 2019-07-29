@@ -1131,8 +1131,8 @@ QuoniamAltoNotes = {
 		a2.
 		a
 		a
-		g2 a4( %655
-		g2.)
+		g2 a4 %655
+		g2.
 		g4 r r
 		r r g
 		g g r
@@ -1142,8 +1142,8 @@ QuoniamAltoNotes = {
 		g g r
 		a2.
 		a %665
-		a(
-		g2) a4
+		a
+		g2 a4
 		g2.
 		e4 d g
 		g8 a g2 %670
@@ -1207,8 +1207,8 @@ QuoniamAltoLyrics = \lyricmode {
 	Je --
 	su,
 	Je --
-	su Chri -- %655
-	
+	_ su %655
+	Chri --
 	ste,
 	tu
 	so -- lus
@@ -1219,7 +1219,7 @@ QuoniamAltoLyrics = \lyricmode {
 	Je --
 	su, %665
 	Je --
-	su
+	_ su
 	Chri --
 	ste, Je -- su,
 	Je -- su Chri -- %670
