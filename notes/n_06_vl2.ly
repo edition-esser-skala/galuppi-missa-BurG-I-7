@@ -903,6 +903,104 @@ QuoniamViolinoII = {
 		\clef treble
 		\key c \major \time 3/4 \tempoQuoniam
 			\set Score.currentBarNumber = #568
-		
+		R2.*6 %573
+		r16 e\fE fis? g a h c d e8 e
+		e g g4 f!8 e %575
+		d16 d, e f g a h cis? d8 d
+		d f f4 e8 d
+		c!16 c, d e f g a h c8 c
+		c d16 e d8 c h a
+		g4 r r %580
+		R2.*3
+		r16 c d e f g a h c8 c
+		c fis, fis2\trill %585
+		c'8 fis, fis2\trill
+		c'8 fis, fis g16 a g8 fis
+		g f f2\trill
+		e8 d16 c d4 h
+		c8 f f2\trill %590
+		e8 d16 c d4 h
+		c8 f, f2\trill
+		e8 d16 c d4 h
+		<c g' e'> r r
+		q\pE r r %595
+		R2.*6 %601
+		<d a' fis'>4 r r
+		<d h' g'> r r
+		<d a' fis'> r r
+		<h' g'> r r %605
+		r16 h,\fE c d e fis? g a h8 h
+		h8 d d4 c8 h
+		a16 a, h c d e fis? gis? a8 a
+		a c c4 h8 a
+		h16 g! a h c d e fis g8 g %610
+		g cis, cis2
+		g'8 cis, cis2
+		g'8 cis, cis d16 e d8 cis
+		d a' a2
+		h8 a16 g a4 fis %615
+		g8 a a2
+		h8 a16 g a4 fis
+		g c, c
+		c2 h4~
+		h a2 %620
+		h16 g a h c d e fis? g8 g
+		g cis, cis2
+		g'8 cis, cis d16 e d8 cis?
+		c c'! c2
+		h8 a16 g a4 fis %625
+		g8 c, c2
+		h8 a16 g a4 fis
+		g r r
+		<g, d' h' g'>\pE r r
+		q r r %630
+		R2.*3
+		r4 r8 c' h a
+		h e, e h' a gis %635
+		a e e c' h a
+		h e, e h' a gis
+		a16\f a h c d e fis? gis? a8 a
+		a4 f d
+		<cis e, a,> r r %640
+		<d f, a,> r r
+		<cis e, a,> r r
+		<fis a, d,> r8 d c h
+		c d, d c' h a
+		h d, d d' c h %645
+		c d, d c' h a
+		h16 g a h c d e fis? g8 g
+		e g g4 f8 e
+		d16 d, e f g a h cis? d8 d
+		d f f4 e8 d %650
+		c!16 c d e f g a h c8 c
+		c fis, fis2
+		c'8 fis, fis2
+		c'8 fis, fis g16 a g8 fis
+		g8. f16 e4 f %655
+		d2.\trill
+		c8 g g e' d c
+		d g, g d' c h
+		c g g e' d c
+		d g, g d' c h %660
+		c g g e' d c
+		d g, g d' c h
+		c16 c d e f g a h c8 c
+		c8 fis, fis2
+		c'8 fis, fis2 %665
+		c'8 fis, fis g16 a g8 fis
+		g8. f16 e8 f f4
+		e8 d16 c d4 h
+		c4 d d
+		c8 c c4 h %670
+		c r r
+		R2.*3
+		r16 c d e f g a h c8 c %675
+		c fis, fis2
+		c'8 fis, fis2
+		c'8 fis, fis g16 a g8 fis
+		g f f2
+		e8 d16 c d4 h %680
+		c8 e f, a d, f
+		e d16 c d8 d c4\fermata \bar "||" %682 finis
 	}
 }
