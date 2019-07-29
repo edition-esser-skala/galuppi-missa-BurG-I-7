@@ -907,6 +907,120 @@ QuoniamViola = {
 		\clef treble
 		\key c \major \time 3/4 \tempoQuoniam
 			\set Score.currentBarNumber = #568
-		
+		c'4\fE c, r
+		c' c, r
+		c' c, c' %570
+		f, f fis
+		g2 g4
+		fis2.
+		g2 g4
+		e2 e4 %575
+		f2 e4
+		d2 d4
+		e2 d4
+		c a d
+		d r r %580
+		g, r r
+		g r r
+		g r r
+		c r r
+		g' a a %585
+		c c c
+		fis, a a
+		d,2 d'4
+		g, a d,
+		c c' d %590
+		g, a d,
+		c c d
+		g, a g
+		e c''8\pE c c c
+		c4 c,8 c' c c %595
+		c4 c, c
+		a' a a
+		g4. g8 g4
+		a2 a4
+		a2. %600
+		g4 r r
+		d2.
+		d
+		d
+		cis2 cis4 %605
+		d r r
+		h'4\fE h8 h h h
+		e,4 e e
+		a a a
+		g!4. d8 d4 %610
+		e e e
+		e e e
+		e e e
+		a2 d,4
+		d d2 %615
+		d4 d2
+		d4 d2
+		d4 c e
+		d2 d4
+		e d2 %620
+		d4 g h
+		g2 g4
+		e e e
+		a2 a4
+		d, e a, %625
+		g a' fis
+		g e a,
+		h\pE g'8 g g g
+		g4 g,8 g' g g
+		g4 g,8 g' g g %630
+		gis8. gis,16 gis4 gis
+		a4. e8 a4
+		d dis2
+		e4 e, r
+		e r r %635
+		e r r
+		e r r
+		a\f r cis
+		cis? d f!
+		e r r %640
+		f r r
+		e r e
+		d r d
+		d2.
+		d %645
+		d
+		d4. g,8 g4
+		e'8 e e e e e
+		f!4 f r
+		d d d8 d %650
+		e4. g8 g4
+		a2.
+		a
+		a
+		g4 g a %655
+		g2 g4
+		g r r
+		r r g
+		g g r
+		r r g %660
+		g g r
+		r r g
+		g g r
+		a2.
+		a %665
+		a
+		g2 a4
+		g2 g4
+		e d g
+		g8 a g4 f\trill %670
+		e r r
+		g, r r
+		g r r
+		g r r
+		c r r %675
+		g' a a
+		c c c
+		fis, a a
+		d,2 g4
+		g a d, %680
+		c2 g'4
+		g8 a d,4 e\fermata \bar "||" %682 finis
 	}
 }

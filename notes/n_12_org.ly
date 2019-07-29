@@ -1792,7 +1792,7 @@ QuoniamOrgano = {
 		a a, h
 		c f g
 		c, c8\p c c c
-		c'4 c, 8 c c c %595
+		c'4 c,8 c c c %595
 		c'4 c c,
 		f f fis
 		g4. g8 g4
