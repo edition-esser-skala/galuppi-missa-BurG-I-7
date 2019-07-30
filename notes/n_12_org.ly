@@ -2074,13 +2074,13 @@ CumSanctoOrgano = {
 		e8 fis g a b! c
 		fis,2 g4
 		c d d,
-		g b8 c d es %745
+		g \clef "treble_8" b8 c d es %745
 		f, g a b c d
 		es, f g a b c
 		d, es f g a b
 		c4 a f
 		g g8 f! e!4 %750
-		f f f
+		\clef bass f f f
 		g8 f g a b c
 		a4. g8 f4
 		g2.
@@ -2181,7 +2181,7 @@ CumSanctoBassFigures = \figuremode {
 	<6 4+ 2>4 <[\t \t \t]> <6>
 	<6 5> <5 _+>2 %740
 	r2.
-	<[7]>4 <[6]>2
+	<[7]>4 <[_-]>2
 	<6 5>2.
 	<6 5 _->4 <_+>2
 	r4 <[6]>2 %745

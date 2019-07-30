@@ -1309,7 +1309,7 @@ CumSanctoAltoNotes = {
 		c4 r r
 		R2.
 		f,4 f f %770
-		g8([ f)] g([ a)] b c
+		g8([ f)] g([ a)] b! c
 		a4. g8 f4
 		R2.*2
 		a2. %775

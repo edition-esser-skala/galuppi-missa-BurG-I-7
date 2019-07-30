@@ -924,13 +924,186 @@ CumSanctoTenoreNotes = {
 		\clef "treble_8"
 		\key f \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #683
-		
+		r4 \mvTr e\fE^\tuttiE e e
+		c2. c4
+		c r r2\fermata \bar "||" %685
+		\time 3/4 \tempoCumSanctoFuga R2.*16 %701
+		c4 c c
+		d8([ c)] d([ e)] f g
+		e4. d8 c4
+		d2. %705
+		c
+		b!
+		a
+		g
+		f4 c' f~ %710
+		f e2
+		f4 r r
+		r c f~
+		f h, e~
+		e a, d~ %715
+		d g, c~
+		c h8[ a] h4
+		c4 r e
+		d2.
+		c %720
+		b!
+		a
+		d4 c2
+		c4 r r
+		g'2 f8[ e] %725
+		f2 e8[ d]
+		e2 d8[ c]
+		d2.
+		e4 a,2
+		h4 r r %730
+		r c f~
+		f h, e~
+		e a, d~
+		d g, c~
+		c h c %735
+		f e2
+		e4 r r
+		d2.
+		e4 f8[ g f d]
+		e2. %740
+		d4 r r
+		g,8[ a b! c d es]
+		d2.
+		es4 d2
+		g,8[ a b c d es] %745
+		f,[ g a b c d]
+		es,[ f g a b c]
+		d,[ es f g a b]
+		c4 a f
+		g g'8[ f!] e!4 %750
+		f c f~
+		f e2
+		f4 r r
+		b,8[ c d es f g]
+		a,[ b c d es f] %755
+		g,[ a b c d es]
+		f,[ g a b c d]
+		g,4 a2
+		b4 r r
+		R2.*4 %763
+		c4 c c
+		d8([ c)] d([ e)] f g %765
+		e4. d8 c4
+		d2.
+		c
+		b!
+		a %770
+		g
+		f4 c' f~
+		f e2
+		f4 r r
+		r c f~ %775
+		f h, e~
+		e a, d
+		c8[ d e f g a]
+		b,![ c d e f g]
+		a,[ b c d e f] %780
+		g,[ a b c d e]
+		f4 c f~
+		f h, e~
+		e a, d
+		e2 f4~ %785
+		f e2
+		f4 f( e)
+		f r r\fermata \bar "|." %788 FINIS
 	}
 }
 
 CumSanctoTenoreLyrics = \lyricmode {
+	Cum San -- cto %683
+	Spi -- ri --
+	tu. %685
 	
-% 	Cum San -- cto Spi -- ri -- tu in glo -- ri -- a De -- i Pa -- tris, a -- men.
+	Cum San -- cto %702
+	Spi -- ri -- tu in
+	glo -- ri -- a
+	De -- %705
+	i
+	Pa --
+	tris,
+	a --
+	men, a -- _ %710
+	_
+	men,
+	a -- _
+	_ _
+	_ _ %715
+	_ _
+	_ _
+	men, a --
+	_
+	_ %720
+	_
+	_
+	_ _
+	men,
+	a -- _ %725
+	_ _
+	_ _
+	_
+	_ _
+	men, %730
+	a -- _
+	_ _
+	_ _
+	_ _
+	_ _ %735
+	_ _
+	men,
+	a --
+	_ _
+	_ %740
+	men,
+	a --
+	_
+	_ men,
+	a -- %745
+	_
+	_
+	_
+	_ _ _
+	_ _ _ %750
+	men, a -- _
+	_
+	men,
+	a --
+	_ %755
+	_
+	_
+	_ _
+	men,
+	
+	cum San -- cto %764
+	Spi -- ri -- tu in %765
+	glo -- ri -- a
+	De --
+	i
+	Pa --
+	tris, %770
+	a --
+	men, a -- _
+	_
+	men,
+	a -- _ %775
+	_ _
+	_ _
+	_
+	_
+	_ %780
+	_
+	_ _ _
+	_ _
+	_ _
+	_ _ %785
+	_
+	men, a --
+	men. %788 FINIS
 }
 
 % TenoreNotes = {

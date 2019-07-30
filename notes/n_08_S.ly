@@ -1367,7 +1367,7 @@ CumSanctoSopranoNotes = {
 		e4. d8 c4
 		d2.
 		c %770
-		b
+		b!
 		a
 		b4( g2)
 		a4 r r
