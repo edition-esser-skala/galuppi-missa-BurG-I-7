@@ -2031,7 +2031,7 @@ CumSanctoOrgano = {
 		d, e f g a h
 		c, d e f g a %700
 		f4 g2
-		c,4 c c
+		c,4 \clef "treble_8" c'-\critnote c
 		d8 c d e f g
 		e4. d8 c4
 		d2. %705
@@ -2039,7 +2039,7 @@ CumSanctoOrgano = {
 		b!
 		a
 		g
-		f4 f' f %710
+		\clef bass f4 f f %710
 		g8 f g a b c
 		a4. g8 f4
 		a2.

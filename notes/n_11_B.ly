@@ -961,13 +961,191 @@ CumSanctoBassoNotes = {
 		\clef bass
 		\key f \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #683
-		
+		r4 \mvDll c'\fE^\tuttiE c c
+		e,2. e4
+		f r r2\fermata \bar "||" %685
+		\time 3/4 \tempoCumSanctoFuga R2.*3
+		r4 f b~
+		b e, a~ %690
+		a d, g~
+		g c, f~
+		f e8[ d] e4
+		f r r
+		R2.*2 %696
+		f8[ g a h c d]
+		e,[ f g a h c]
+		d,[ e f g a h]
+		c,[ d e f g a] %700
+		f4 g2
+		c,4 r r
+		R2.*7 %709
+		f4 f f %710
+		g8([ f)] g([ a)] b c
+		a4. g8 f4
+		a2.
+		g
+		f %715
+		e
+		d
+		c4 g' c~
+		c f, b!~
+		b e, a~ %720
+		a d, g~
+		g c, f
+		b, c2
+		f8([ g)] a[ b c d]
+		e,4 g c %725
+		d,8[ e f g a h]
+		c,4 e a
+		g g, g'~
+		g fis2
+		g4 r r %730
+		f!8[ g a h c d]
+		e,[ f g a h c]
+		d,[ e f g a h]
+		c,[ d e fis gis a]
+		h4 gis a %735
+		d, e2
+		a,4 e' a~
+		a d, g~
+		g f!8[ e] f4
+		g a2 %740
+		d,4 r r
+		e8[ fis g a b! c]
+		fis,2 g4
+		c d d,
+		g r r %745
+		R2.*5 %750
+		f4 f f
+		g8([ f)] g([ a)] b c
+		a4. g8 f4
+		g2.
+		f %755
+		es
+		d
+		c
+		b4 f' b~
+		b e,! a~ %760
+		a d, g~
+		g c, f
+		g4 f2
+		c4 g' c~
+		c h2 %765
+		c4 c,2~
+		c2.~
+		c~
+		c~
+		c %770
+		c
+		f4 f f
+		g8([ f)] g([ a)] b c
+		a4. g8 f4
+		f8([ g a b)] c([ d)] %775
+		e,[ f g a h c]
+		d,[ e f g a h?]
+		c4 c,2~
+		c2.~
+		c~ %780
+		c
+		f8[ g a b! c d]
+		e,[ f g a h c]
+		d,[ e f g a b!]
+		c2 f,4 %785
+		b! c2
+		f,4 f( c)
+		f r r\fermata \bar "|." %788 FINIS
 	}
 }
 
 CumSanctoBassoLyrics = \lyricmode {
+	Cum San -- cto %693
+	Spi -- ri --
+	tu. %695
 	
-% 	Cum San -- cto Spi -- ri -- tu in glo -- ri -- a De -- i Pa -- tris, a -- men.
+	A -- _ %689
+	_ _ %690
+	_ _
+	_ _
+	_ _
+	men,
+	
+	a -- %697
+	_
+	_
+	_ %700
+	_ _
+	men,
+	
+	cum San -- cto %710
+	Spi -- ri -- tu in
+	glo -- ri -- a
+	De --
+	i
+	Pa -- %715
+	tris,
+	a --
+	men, a -- _
+	_ _
+	_ _ %720
+	_ _
+	_ _
+	_ _
+	men, a --
+	_ _ _ %725
+	_
+	_ _ _
+	_ _ _
+	_
+	men, %730
+	a --
+	_
+	_
+	_
+	_ _ _ %735
+	_ _
+	men, a -- _
+	_ _
+	_ _
+	_ _ %740
+	men,
+	a --
+	_ _
+	_ _ _
+	men, %745
+	
+	cum San -- cto %751
+	Spi -- ri -- tu in
+	glo -- ri -- a
+	De --
+	i %755
+	Pa --
+	tris,
+	a --
+	men, a -- _
+	_ _ %760
+	_ _
+	_ _
+	_ _
+	men, a -- _
+	_ %765
+	_ _
+	
+	men, %771
+	cum San -- cto
+	Spi -- ri -- tu in
+	glo -- ri -- a
+	De -- i __ %775
+	Pa --
+	_
+	[tris, a] --
+	
+	_ %782
+	_
+	_
+	_ _ %785
+	_ _
+	men, a --
+	men. %788 FINIS
 }
 
 % BassoNotes = {

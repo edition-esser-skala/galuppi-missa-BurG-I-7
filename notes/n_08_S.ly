@@ -1280,7 +1280,7 @@ CumSanctoSopranoNotes = {
 		\clef treble
 		\key f \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #683
-		r4 \mvTr c'\fE^\tuttiE c c
+		r4 \mvDll c'\fE^\tuttiE c c
 		b2. b4
 		a r r2\fermata \bar "||" %685
 		\time 3/4 \tempoCumSanctoFuga c4 c c

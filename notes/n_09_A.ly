@@ -1231,7 +1231,7 @@ CumSanctoAltoNotes = {
 		\clef treble
 		\key f \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #683
-		r4 \mvTr g'\fE^\tuttiE g g
+		r4 \mvDll g'\fE^\tuttiE g g
 		g2. g4
 		f r r2\fermata \bar "||" %685
 		\time 3/4 \tempoCumSanctoFuga R2.*8 %693

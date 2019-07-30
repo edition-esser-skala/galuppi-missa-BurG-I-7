@@ -924,7 +924,7 @@ CumSanctoTenoreNotes = {
 		\clef "treble_8"
 		\key f \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #683
-		r4 \mvTr e\fE^\tuttiE e e
+		r4 \mvDll e\fE^\tuttiE e e
 		c2. c4
 		c r r2\fermata \bar "||" %685
 		\time 3/4 \tempoCumSanctoFuga R2.*16 %701
