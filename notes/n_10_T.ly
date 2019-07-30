@@ -930,6 +930,7 @@ CumSanctoTenoreNotes = {
 
 CumSanctoTenoreLyrics = \lyricmode {
 	
+% 	Cum San -- cto Spi -- ri -- tu in glo -- ri -- a De -- i Pa -- tris, a -- men.
 }
 
 % TenoreNotes = {
