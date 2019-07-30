@@ -1301,7 +1301,7 @@ CumSanctoSopranoNotes = {
 		c8[ h16 a] h2
 		c4 r r
 		R2.*2
-		f,8[ g a b c d] %705
+		f,8[ g a b! c d] %705
 		e,[ f g a b c]
 		d,[ e f g a b]
 		c,[ d e f g a]
@@ -1314,7 +1314,7 @@ CumSanctoSopranoNotes = {
 		a d2 %715
 		g,4 r r
 		R2.
-		g8[ a b c d e]
+		g8[ a b! c d e]
 		f,[ g a b c d]
 		e,[ f g a b c] %720
 		d,[ e f g a b]
@@ -1334,7 +1334,7 @@ CumSanctoSopranoNotes = {
 		d2 c4 %735
 		d h2
 		c4 r r
-		h?8[ c d e f g]
+		b!8[ c d e f g]
 		cis,2 d4~
 		d cis2 %740
 		d4 a d~
@@ -1380,7 +1380,7 @@ CumSanctoSopranoNotes = {
 		a g8[ f] g4
 		a8[ b c d e f]
 		g,[ a h? c d e]
-		f,[ g a h? c d]
+		f,[ g a b! c d]
 		c2 c4 %785
 		d( c2)
 		c4 r c
