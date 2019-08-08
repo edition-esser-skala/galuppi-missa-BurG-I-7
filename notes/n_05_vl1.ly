@@ -1112,7 +1112,7 @@ CumSanctoViolinoI = {
 		b a8 g a4 %785
 		g2.\trill
 		a4 a g
-		f r r\fermata \bar "||" %788 FINIS
+		f r r\fermata \bar "|." %788 FINIS
 	}
 }
 

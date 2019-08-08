@@ -523,6 +523,110 @@ CumSanctoOboeII = {
 		\clef treble
 		\key f \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #683
-		
+		r4 c'\fE c c
+		b2. b4
+		a r r2\fermata \bar "||"
+		\time 3/4 \tempoCumSanctoFuga c4 c c
+		d8 c d e f g
+		e4. d8 c4
+		d2.
+		c %690
+		b
+		a
+		g
+		f4 c' f~
+		f e2 %695
+		f4 r r
+		r c f~
+		f h, e~
+		e a, d~
+		d g, c~ %700
+		c8 h16 a h2
+		c4 r r
+		R2.*2
+		f,8 g a b! c d %705
+		e, f g a b c
+		d, e f g a b
+		c, d e f g a
+		b2.
+		a8 g a b c d %710
+		b4. a8 g4
+		a2.
+		R
+		d4. c8 h4
+		a d2 %715
+		g,4 r r
+		R2.
+		g8 a b! c d e
+		f, g a b c d
+		e, f g a b c %720
+		d, e f g a b
+		c, d e f g a
+		b4 g2
+		a4 c f~
+		f e8 d e4 %725
+		r a, d~
+		d c8 h c4~
+		c h8 a h4
+		c d2
+		d4 r r %730
+		a8 h c d e f
+		g, a h c d e
+		f, g a h c d
+		e, f g a h c
+		d2 c4 %735
+		d h2
+		c4 r r
+		b!8 c d e f g
+		cis,2 d4~
+		d cis2 %740
+		d4 a d~
+		d g, c~
+		c b8 a b4
+		a2.
+		b8 c d es f g %745
+		a, b c d es? f
+		g, a b c d es
+		f, g a b c d
+		es2.
+		d %750
+		c
+		R
+		r4 c f~
+		f b, es~
+		es a, d~ %755
+		d g, c~
+		c f, b
+		es, r r
+		f8 g a b c d
+		e,! f g a b c %760
+		d, e f g a b
+		c, d e f g a
+		b4 a8 g a4
+		g r r
+		R2. %765
+		c4 c c
+		d8 c d e f g
+		e4. d8 c4
+		d2.
+		c %770
+		b!
+		a
+		b4 g2
+		a4 r r
+		a8 b c d e f %775
+		g, a h? c d e
+		f, g a h? c d
+		e4 g, c~
+		c f, b!~
+		b e, a~ %780
+		a g8 f g4
+		a8 b c d e f
+		g, a h? c d e
+		f, g a b! c d
+		c2 c4 %785
+		d c2
+		c b4
+		a r r\fermata \bar "|." %788 FINIS
 	}
 }

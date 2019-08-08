@@ -1325,7 +1325,7 @@ CumSanctoAltoNotes = {
 		b a8[ g] a4 %785
 		g2.
 		a4 a( g)
-		a r r\fermata \bar "||" %788 FINIS
+		a r r\fermata \bar "|." %788 FINIS
 	}
 }
 
