@@ -311,6 +311,59 @@ CumSanctoTrombaII = {
 		\clef treble
 		\key f \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #683
-		
+		r4 g''\fE g g
+		g2. g4
+		f r r2\fermata \bar "||" %685
+		\time 3/4 \tempoCumSanctoFuga R2.*24 %709
+		r4 f a %710
+		d, e2
+		f4 c r
+		r f c
+		d g2
+		a2. %715
+		g
+		f
+		e4 r r
+		r d g
+		e4. d8 c4 %720
+		d2.
+		e4 g a
+		g g2
+		f4 r r
+		R2.*10 %734
+		d4 e2 %735
+		f4 e2
+		e4 r r
+		R2.*13 %750
+		r4 c f~
+		f e2
+		f4 r r
+		R2.
+		a %755
+		g
+		f
+		g4 c,2
+		d4 r r
+		R2.*9 %768
+		d8 e f g a b
+		c, d e f g a %770
+		g4 c,2
+		c4 r r
+		R2.
+		c8 d e f g a
+		f4. g8 a4 %775
+		g4. f8 g4
+		f2 f4
+		e8 f g a b c
+		d, e f g a b
+		c, d e f g a %780
+		g2.
+		f4 a2
+		g2.
+		f2 f4
+		e2 f4 %785
+		f e2
+		f4 a g
+		f r r\fermata \bar "|." %788 FINIS
 	}
 }
