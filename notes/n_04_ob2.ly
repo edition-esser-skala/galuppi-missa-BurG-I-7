@@ -630,3 +630,11 @@ CumSanctoOboeII = {
 		a r r\fermata \bar "|." %788 FINIS
 	}
 }
+
+CredoOboeII = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \tempoCredo
+		
+	}
+}

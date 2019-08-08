@@ -1120,3 +1120,11 @@ CumSanctoViola = {
 		f r r\fermata \bar "|." %788 FINIS
 	}
 }
+
+CredoViola = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \tempoCredo
+		
+	}
+}
