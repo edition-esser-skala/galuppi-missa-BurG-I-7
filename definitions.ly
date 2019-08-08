@@ -211,6 +211,8 @@ tempoCumSancto = \tempoMarkup "Adagio"
 	tempoCumSanctoFuga = \tempoMarkup "Allegro"
 
 tempoCredo = \tempoMarkup "Spiritoso"
+	tempoCredoB = \tempoMarkup "Adagio"
+	tempoCredoC = \tempoMarkup "Allegro"
 
 
 

@@ -2235,11 +2235,181 @@ CredoOrgano = {
 		\clef bass
 		\key f \major \time 4/4 \tempoCredo
 		\mvTr f8\fE-\tuttiE g a e f g a b
+		c b a f b a g f
+		c' d c b a g a f
+		b c d c h a h g
+		c d e d c d e d %5
+		c b! a g f g a g
+		f g a f b g16 a b8 b
+		a g a f g f g c,
+		f g a g f g a g
+		f g a b c b c c, %10
+		\tempoCredoB f2 f,
+		\tempoCredoC f'8 g a e f g a b
+		c b a f b a g f
+		c d c b a g a f
+		b c d c h a h g %15
+		c d e d c d e d
+		c' b! a g f g a g
+		f g a f b a b g
+		a g a f g f g c,
+		f g a g f g a g %20
+		f g a b c b c c,
+		f f d cis d e f g
+		a g f d g f e d
+		a' h cis a d, e fis d
+		g a b c d c b g %25
+		c b a g d es d c
+		h a h g c d es f
+		g f g g, c d es h
+		c d es f g f es c
+		f es d c \mvTr g'\p-\soloE a h g %30
+		c, d es f g f es c
+		f es d c g' a h g
+		c d c b a g a f
+		d' es d c b g b c
+		d c d d, g\f a b c %35
+		d c b g c b a g
+		d\p e fis d g a b c
+		d c b g c, d es c
+		d4 es d r
+		R1*4 %43
+		r2 b8\f c d es
+		f es d b^\critnote es d c b %45
+		f' es d c b-\tuttiE c d es
+		f es d b es d c b
+		f' g f es d c d b
+		es f g f e d e c
+		f g a g f g a f %50
+		f es d c b c d c
+		b a g' f e c f b
+		c b c c, f g a f^\critnote
+		b b, d e! f g a f
+		b b, d e! \mvTr f4\p-\soloE e %55
+		f8 g f es d4 a
+		b8 c d b es\f d es c
+		d\p c d b es f es d
+		c d es c d e fis d
+		g a b g c, d es c %60
+		f g a f b, c d b
+		es d c b c4 g
+		d'8\f e fis d g g, b c
+		d\p e fis d g\f g, b c
+		d\p c b c d c d d, %65
+		g'\f a g f e! d e c
+		f g f e d\p d e c
+		f g a f b a g f
+		g4 gis a8\f h cis a
+		d d, f g a\p h cis a %70
+		d\f d, f g a\p g f g
+		a g a a, \mvTr d\f-\tuttiE e f g
+		a g f d g f e d
+		a' b! a g f g a b
+		c b a f b a g f %75
+		c' d c b a g a f
+		b c d c h a h g
+		c d e d c d e d
+		c b! a g f g a g
+		f g a f b a b g %80
+		a g a f g f g c,
+		f g a g f g a g
+		f g a b c b c c,
+		f g a g f g a f
+		b a b g a g a f %85
+		g f g c, f g a g
+		f g a g f g a b
+		c b c c, f b, c4
+		f, r r2\fermata \bar "||" %89 finis
 	}
 }
 
 CredoBassFigures = \figuremode {
-	
+	r1
+	r8 <6 4 2> <6>4 r8 q q4
+	r2 <6>
+	r1
+	r2 <7> %5
+	r r8 <6>4.
+	r8 <6>4. <5>4 <6>
+	<7> <6> <7> <6>
+	r1
+	r8 <6> q4 <6 4> <5 3> %10
+	r1
+	r
+	r
+	r
+	r %15
+	r
+	r
+	r2 <5>4 <6>
+	<7> <6> <7> <6>
+	r1 %20
+	r8 <6> q4 <6 4> <5 3>
+	r1
+	<5 _+>8 <4+ 2> <6>4 q8 q <6+>4
+	r1
+	r2 <_+>4 <6> %25
+	<_->8 <6> <6+>4 <_+>2
+	r <_->4. <_->8
+	<6- 4>4 <5 _!> <_->4. <6>8
+	r <6!> <6> <_-> <_!>4 <6>
+	<6 _->8 <6> <6!> <_-> <_!>2 %30
+	<_->8 <6!> <6> <_-> <_!>4 <6>
+	<6 _->8 <6> <6!> <_-> <_!>2
+	<_!> <6>
+	<_+> <6>4. <_->8
+	<4>4 <_+> r <6>8 <_-> %35
+	<_+>4 <6> <6>8 <6> <6+>4
+	<_+>2. <6>8 <_->
+	<_+>4 <6> <6>2
+	<_+>2 q
+	r1*4 %43
+	r1
+	r2 <6>8 q q4 %45
+	r4 <6>8 q r2
+	r4 <6> q8 q q4
+	r2 <6>
+	r1
+	r2.. <7->8 %50
+	r4. <6>8 r2
+	r1
+	<6 4>4 <5 3> r2
+	r1
+	r2. <6>8 <5> %55
+	r2 <6>4 <6>8 <5>
+	r2.. <6>8
+	<6>1
+	<6>4 <6 3> r2
+	r1 %60
+	r
+	r4 <6!> <6 _->2
+	r1
+	r
+	<_+>4 <6>8 <_-> <6 4>4 <5 _+> %65
+	r2 <6 5>
+	<4>4 <3> <6> <5>
+	<4> <6> r <6>
+	<6> <7 5> r2
+	r1 %70
+	r2 <_+>4 <6>
+	<6 4> <5 _+> r2
+	<_+>4 <6> q8 q <6+>4
+	<_+>2 r8 <6> q4
+	r1 %75
+	r
+	r
+	r
+	r
+	r %80
+	<7>4 <6> <7> <6>
+	r1
+	r8 <6> q <6 5> <6 4>4 <5 3>
+	r1
+	<5>4 <6> <7> <6> %85
+	<7> <6> r2
+	r r8 <6> q4
+	<6 4> <5 3> r <5 3>
+	r1 %89 finis
 }
 
 % Organo = {
