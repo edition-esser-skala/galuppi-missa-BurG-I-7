@@ -1123,7 +1123,7 @@ CumSanctoViola = {
 
 CredoViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key f \major \time 4/4 \tempoCredo
 		a'8\fE b c g a b c b16 a
 		g8 c, f a d, f e f
