@@ -1431,12 +1431,115 @@ CredoAltoNotes = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 4/4 \autoBeamOff \tempoCredo
-		
+		R1*10 %10
+		\tempoCredoB \mvTr f2\fE^\tuttiE f
+		\tempoCredoC a8([ g)] f([ g)] f4 c8 f
+		e4 f e8([ f)] e([ f)]
+		e4 e f8 c16 c f8 f
+		f4 f8 f g([ h16 a] g8) g %15
+		g4 g r8 g g g
+		g([ e)] f g c,4 c
+		r8 f f f f([ d)] g g
+		g[ c,] f2 e4
+		f f r8 f c d16([ e)] %20
+		f8([ e16 d)] c8 f f4( e)\trill
+		f r r2
+		R1
+		e4 a8([ g)] fis8. fis16 fis4
+		g g fis g8 g %25
+		a([ g)] fis([ g)] fis4 r
+		g8([ d)] d4 es8([ d)] c([ as')]
+		g4 g g r
+		R1
+		r2 \mvTr d4.\pE^\solo g8 %30
+		es16([ d c h)] c8 as' h,4 c
+		d8 d16 es f8 es d4 g,
+		e' e8 e f([ e16 d)] c4
+		fis fis8 fis g f?16([ es)] d8 a'
+		g4( fis8.) g16 g4 r %35
+		R1*10 %45
+		r2 \mvTr f8([\fE^\tuttiE es)] d g
+		f4 f8 f g([ f)] es([ f)]
+		f8. f16 f4 f8([ b,)] b([ f')]
+		g([ a)] b b g([ c,)] c([ g')]
+		a([ b)] c4 r r8 es, %50
+		es?4( f8[ es] d4) d8 f
+		f4( e8[ f] g[ e]) f([ d)]
+		f4( e) f r
+		R1*19 %72
+		r4 r8 \mvTr f\fE^\tuttiE e([ d)] cis d
+		cis8. cis16 cis4 r2
+		r4 r8 f g([ f)] e f %75
+		e8. e16 e8 e f([ a16 g)] f4
+		f8([ e)] f4 g8([ h16 a)] g8 g
+		g4 g r r8 g
+		g4( f8[ g] c,4) c
+		r r8 f f([ d)] g g %80
+		g[ c,] f2 e4
+		f f r r8 f
+		f([ e16 d)] c8 f f4( e\trill)
+		f r r r8 f
+		f([ d)] g g g[ c,] f4~ %85
+		f e f f
+		r r8 f f([ e16 d)] c8 f
+		f4( e)\trillE f8 d c4
+		c r r2\fermata \bar "||" %89 finis
 	}
 }
 
 CredoAltoLyrics = \lyricmode {
+	[Cre -- do, %11
+	cre -- do, cre -- do in
+	u -- num De -- um,
+	Pa -- trem, Pa -- trem o -- mni -- po --
+	ten -- tem, fa -- cto -- rem %15
+	coe -- li, fa -- cto -- rem
+	coe -- li et ter -- rae,
+	fa -- cto -- rem coe -- li et
+	ter -- _ _
+	_ rae, fa -- cto -- rem %20
+	coe -- li et ter --
+	rae,]
 	
+	[vi -- si -- bi -- li -- um,
+	vi -- si -- bi -- li -- um %25
+	o -- mni -- um
+	et in -- vi -- si --
+	bi -- li -- um.]
+	
+	Et in %30
+	u -- num, in u -- num
+	Do -- mi -- num Je -- sum Chri -- stum,
+	Fi -- li -- um De -- i,
+	Fi -- li -- um De -- i u -- ni --
+	ge -- ni -- tum. %35
+	
+	[De -- um de %46
+	De -- o, lu -- men de
+	lu -- mi -- ne, De -- um
+	ve -- rum de De -- o __
+	ve -- ro, de %50
+	De -- o, de
+	De -- o __
+	ve -- ro.]
+	
+	[Qui pro -- pter nos %73
+	ho -- mi -- nes,
+	qui pro -- pter nos %75
+	ho -- mi -- nes, et pro -- pter
+	no -- stram, no -- stram sa --
+	lu -- tem de --
+	scen -- dit,
+	de -- scen -- dit de %80
+	coe -- _ _
+	_ lis, de --
+	scen -- dit de coe --
+	lis, de --
+	scen -- dit de coe -- _ %85
+	_ _ lis,
+	de -- scen -- dit de
+	coe -- lis, de coe --
+	lis.] %89 finis
 }
 
 % AltoNotes = {
