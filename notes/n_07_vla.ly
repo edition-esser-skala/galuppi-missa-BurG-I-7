@@ -1125,6 +1125,91 @@ CredoViola = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 4/4 \tempoCredo
-		
+		a'8\fE b c g a b c b16 a
+		g8 c, f a d, f e f
+		e g16 f e8 g c, f4 c8
+		d f b, c d g4 d8
+		e g c, d e f g f %5
+		e c d e f e f c'16 b
+		a8 e f f f d g g
+		g c, f f f d e4
+		f8 c f g a b f g
+		a e f d f4 e\trill %10
+		\tempoCredoB f r r2
+		\tempoCredoC a8 b c g a b c b
+		g c, f a^\critnote d, f e f
+		e g16 f e8 g c, f4 c8
+		d f b, c d g4 d8 %15
+		e g c, d e f g f
+		e g c, e f c f c'16 b
+		a8 c f, a d, f g g
+		g c, f f f g e4
+		f8 c f g a c f, g %20
+		a e f d c4 c
+		c8 a d e f g a g16 f
+		e8 a, d f e d cis d
+		cis d e a fis g a fis
+		g d g c a d, g b %25
+		es, d c d fis4 g8 a
+		d, g4 d8 es f g as
+		g4 g es8 f g d
+		es f g f16 es d8 g, c es
+		d c h c h\p d g,4 %30
+		R1*4
+		r4 r8 a'^\critnote\f b g d es %35
+		a, d g, b' a g fis g
+		fis\p a d,4 r2
+		R1
+		r2 d8 es d c
+		b c d b es es es es %40
+		b b b b es es es es
+		f f f f g, g' f es
+		d c d b es f d es
+		f4 f b,8\f f b es
+		c f4 b8 g b a b %45
+		a c f, g16 a b8 f b, es
+		c f4 b8 g b a b
+		a c16 b a8 c f, b4 f8
+		g b es, f g c4 g8
+		a b16 c f,8 g a b c d16 es %50
+		a,8 f g a b f b, f'16 es
+		d8 f e f g e c d
+		c4 c c8 a c a'
+		b d, f g c, f c a'
+		b d, f g c,4 r %55
+		R1
+		r4 r8 b' b es, g a
+		b\p b, d f es es, r4
+		c''8 c, r4 r2
+		h'8 h, r4 r2 %60
+		a'8 a, r4 r2
+		g'8 g, r4 r2
+		r8 a\f d fis g b, d g
+		fis\p a, d fis g\f b, d g
+		fis\p a b g d4 d %65
+		b8\f d e! f g b g e
+		c d16 e f8 f, r2
+		R1
+		r2 r8 e'\f a cis
+		d f, a d cis\p e, a cis %70
+		d\f f, a d cis\p e, a, b
+		a4 a a8\f f'16 g a8 g16 f
+		e8 a, d f e d cis d
+		cis d16 e a,8 e' f e f b
+		g c, f a d, f e f %75
+		e g16 f e8 g c, f4 c8
+		d f b, c d g4 d8
+		e g c, d e f g a16 b
+		e,8 c d e f c f c'16 b
+		a8 e f f f d g g %80
+		g c, f f f g e4
+		f8 c f g a c f, g
+		a g f d c4 c
+		c8 d16 e f8 g a16 g f e f8 f
+		f16 d e f g8 g g16 c, d e f8 f %85
+		f g e4 f8 c f g
+		a c f, g a g f d
+		c4 c c8 d c4
+		a r r2\fermata \bar "||" %89 finis
 	}
 }
