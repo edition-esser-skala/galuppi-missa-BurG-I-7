@@ -1500,12 +1500,119 @@ CredoSopranoNotes = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 4/4 \autoBeamOff \tempoCredo
-		
+		R1*10 %10
+		\tempoCredoB \mvTr a'2\fE^\tuttiE a
+		\tempoCredoC c8([ b)] a([ b)] a([ b)] c d
+		g,4 a g8([ a)] b([ a)]
+		g4 g a8 c16 b a8 a
+		b4 f8 f h([ d16 c] h8) h %15
+		c4 g r8 b b b
+		b([ a16 g)] a8 b a4 a
+		r8 a16([ b)] c8 a d([ c)] d b
+		c[ b c a] b[ a b g]
+		a[ g] f4 r8 a16([ g)] f8 g %20
+		a([ b)] c d a4( g)\trill
+		f r r2
+		R1
+		a4 a a8. a16 a4
+		b8([ c)] d([ es)] a,4 b8 b %25
+		a([ b)] c([ b)] a4 r
+		h8([ d)] g,([ a16 h)] c4 c
+		c h c r
+		R1*8 %36
+		\mvTr a4.\pE^\solo d8 b16([ a g fis)] g8 es'
+		fis,4 g a8 c16([ b)] a([ g)] fis([ g)]
+		fis4 g8.([\trill fis32 g)] a8. d,16 d4
+		b'4. f8 g es4 f16[ g] %40
+		f8 d4 es16[ f] g8 es4 f16[ g]
+		a8 f4 g16 a b8. b,16 b4
+		b'4. d8 g,([ a)] b c
+		b4( a8.)\trill b16 b4 r
+		R1 %45
+		r2 \mvTr b4\fE^\tuttiE b8 b
+		a4 b8 b c([ b)] a([ b)]
+		a8. a16 a4 b8([ d16 c] b8) b
+		b([ a)] g g c([ e!16 d] c8) c
+		c([ b)] a4 r r8 a %50
+		a4( b8[ a] b4) b8 b
+		b[( f g a] b4) a8([ b)]
+		a4( g) f r
+		R1*19 %72
+		r4 r8 \mvTr a\fE^\tuttiE g([ d)] e f
+		e8. e16 e4 r2
+		r4 r8 a b([ f)] g a %75
+		g8. g16 g8 g a([ c16 b)] a4
+		b f h8([ d16 c]) h8 h
+		c([ h)] c4 r r8 b
+		b4( c8[ b] a4) a
+		r r8 a d([ c)] d b %80
+		c[ b c a] b[ a b g]
+		a4 a r r8 a
+		a([ b)] c d a4( g)\trill
+		f r r r8 a
+		d([ c)] d b c[ b c a] %85
+		b[ a b g] a4 a
+		r r8 a a([ b)] c d
+		a4( g)\trill f8 g e4
+		f r r2\fermata \bar "||" %89 finis
 	}
 }
 
 CredoSopranoLyrics = \lyricmode {
+	[Cre -- do, %11
+	cre -- do, cre -- do in
+	u -- num De -- um,
+	Pa -- trem, Pa -- trem o -- mni -- po --
+	ten -- tem, fa -- cto -- rem %15
+	coe -- li, fa -- cto -- rem
+	coe -- li et ter -- rae,
+	fa -- cto -- rem coe -- li et
+	ter -- _
+	_ rae, fa -- cto -- rem %20
+	coe -- li et ter --
+	rae,]
 	
+	[vi -- si -- bi -- li -- um,
+	vi -- si -- bi -- li -- um %25
+	o -- mni -- um
+	et in -- vi -- si --
+	bi -- li -- um.]
+	
+	Et ex Pa -- tre, ex %37
+	Pa -- tre na -- tum an -- te
+	o -- mnia sae -- cu -- la,
+	an -- te o -- _ _ %40
+	_ _ _ _ _ _
+	_ _ mni -- a sae -- cu -- la,
+	an -- te o -- mni -- a
+	sae -- cu -- la.
+	%45
+	[De -- um de
+	De -- o, lu -- men de
+	lu -- mi -- ne, De -- um
+	ve -- rum de De -- o
+	ve -- ro, de %50
+	De -- o, de
+	De -- o
+	ve -- ro.]
+	
+	[Qui pro -- pter nos %73
+	ho -- mi -- nes,
+	qui pro -- pter nos %75
+	ho -- mi -- nes, et pro -- pter
+	no -- stram, no -- stram sa --
+	lu -- tem de --
+	scen -- dit,
+	de -- scen -- dit de %80
+	coe -- _
+	_ lis, de --
+	scen -- dit de coe --
+	lis, de --
+	scen -- dit de coe -- %85
+	_ _ lis,
+	de -- scen -- dit de
+	coe -- lis, de coe --
+	lis.] %89 finis
 }
 
 % SopranoNotes = {
