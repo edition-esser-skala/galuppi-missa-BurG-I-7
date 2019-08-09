@@ -1535,7 +1535,7 @@ CredoSopranoNotes = {
 		b([ a)] g g c([ e!16 d] c8) c
 		c([ b)] a4 r r8 a %50
 		a4( b8[ a] b4) b8 b
-		b[( f g a] b4) a8([ b)]
+		b[ f g a] b4 a8([ b)]
 		a4( g) f r
 		R1*19 %72
 		r4 r8 \mvDll a\fE^\tuttiE g([ d)] e f
@@ -1544,7 +1544,7 @@ CredoSopranoNotes = {
 		g8. g16 g8 g a([ c16 b)] a4
 		b f h8([ d16 c]) h8 h
 		c([ h)] c4 r r8 b
-		b4( c8[ b] a4) a
+		b4 c8[ b] a4 a
 		r r8 a d([ c)] d b %80
 		c[ b c a] b[ a b g]
 		a4 a r r8 a
@@ -1575,7 +1575,7 @@ CredoSopranoLyrics = \lyricmode {
 	[vi -- si -- bi -- li -- um,
 	vi -- si -- bi -- li -- um %25
 	o -- mni -- um
-	et in -- vi -- si --
+	et __ in -- vi -- si --
 	bi -- li -- um.]
 	
 	Et ex Pa -- tre, ex %37
@@ -1588,12 +1588,12 @@ CredoSopranoLyrics = \lyricmode {
 	sae -- cu -- la.
 	%45
 	[De -- um de
-	De -- o, lu -- men de
+	De -- o, lu -- men de __
 	lu -- mi -- ne, De -- um
 	ve -- rum de De -- o
 	ve -- ro, de %50
 	De -- o, de
-	De -- o __
+	De -- _ o __
 	ve -- ro.]
 	
 	[Qui pro -- pter nos %73
@@ -1602,7 +1602,7 @@ CredoSopranoLyrics = \lyricmode {
 	ho -- mi -- nes, et pro -- pter
 	no -- stram, no -- stram sa --
 	lu -- tem de --
-	scen -- dit,
+	scen -- _ _ dit,
 	de -- scen -- dit de %80
 	coe -- _
 	_ lis, de --

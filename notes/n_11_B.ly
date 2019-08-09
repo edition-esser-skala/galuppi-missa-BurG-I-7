@@ -1152,12 +1152,135 @@ CredoBassoNotes = {
 	\relative c {
 		\clef bass
 		\key f \major \time 4/4 \autoBeamOff \tempoCredo
-		
+		R1*10 %10
+		\tempoCredoB \mvTr f2\fE^\tuttiE f,
+		\tempoCredoC f'8([ g)] a([ e)] f([ g)] a b
+		c([ b)] a([ f)] b([ a)] g([ f)]
+		c'4 c, a'8 a16 g a8 f
+		b4 b8 d h([ a] h) g %15
+		c4 c, r8 c' c c
+		c([ b!)] a g f4 f
+		r8 f16([ g)] a8 f b([ a)] b g
+		a[ g a f] g[ f g c,]
+		f4 f r8 f16([ g)] a8 g %20
+		f([ g)] a b c4( c,)
+		f r r2
+		R1
+		a8([ h)] cis([ a)] d8. d,16 d4
+		g8([ a)] b([ c)] d([ c)] b g %25
+		c([ b)] a([ g)] d4 r
+		h8([ a)] h([ g)] c([ d)] es([ f)]
+		g4 g, c r
+		R1*17 %45
+		r2 \mvTr b8([\fE^\tuttiE c)] d es
+		f([ es)] d b es([ d)] c([ b)]
+		f'8. f,16 f4 d'8([ c)] d([ b)]
+		es4 es8 g e([ d)] e([ c)]
+		f4 f r r8 f %50
+		f([ es d c] b4) b8 b'
+		b[ a g f] e[ c] f([ b)]
+		c4( c,) f r
+		R1*2 %55
+		r2 \mvTr b8\pE^\solo a16([ g)] f8 es
+		d([ es)] f4 r2
+		b4 f g4. a16([ b)]
+		a4 g fis8([ g)] a4
+		g8([ f)] f([ es16 d)] es4 r16 c[ d es] %60
+		f8[ es] es[ d16 c] d4 r16 b[ c d]
+		es8[ d] c b c4 g
+		d' r r2
+		d'8. d,16 d4 r2
+		d'8([ c)] b c d4 d, %65
+		g r r2
+		r d4 e
+		f8. f,16 f4 b'8([ a)] g f
+		g4 gis a r
+		r2 a8. a,16 a4 %70
+		r2 a'8([ g)] f g
+		a4 a, d r
+		r r8 \mvDll d\fE^\tuttiE g([ f)] e d
+		a'8. a,16 a4 r2
+		r4 r8 f' b([ a)] g f %75
+		c'8. c,16 c8 c' a([ g)] a([ f)]
+		b4 b h8([ a)] h g
+		c4 c, r r8 c'
+		c[ b! a g] f4 f
+		r r8 f b([ a)] b g %80
+		a[ g a f] g[ f g c,]
+		f4 f r r8 f
+		f([ g)] a b c4( c,)
+		f r r r8 f
+		b([ a)] b g a[ g a f] %85
+		g[ f g c,] f4 f
+		r r8 f f([ g)] a b
+		c4( c,) f8 b, c4
+		f r r2\fermata \bar "||" %89 finis
 	}
 }
 
 CredoBassoLyrics = \lyricmode {
+	Cre -- do, %11
+	cre -- do, cre -- do in
+	u -- num De -- um,
+	Pa -- trem, Pa -- trem o -- mni -- po --
+	ten -- tem, fa -- cto -- rem %15
+	coe -- li, fa -- cto -- rem
+	coe -- li et ter -- rae,
+	fa -- cto -- rem coe -- li et
+	ter -- _
+	_ rae, fa -- cto -- rem %20
+	coe -- li et ter --
+	rae,
 	
+	vi -- si -- bi -- li -- um,
+	vi -- si -- bi -- li -- um %25
+	o -- mni -- um
+	et __ in -- vi -- si --
+	bi -- li -- um.
+	
+	De -- um de %46
+	De -- o, lu -- men de __
+	lu -- mi -- ne, De -- um __
+	ve -- rum de De -- o __
+	ve -- ro, de %50
+	De -- o, de
+	De -- _ o __
+	ve -- ro.
+	
+	Ge -- ni -- tum, non %56
+	fa -- ctum,
+	con -- sub -- stan -- ti --
+	a -- lem Pa -- tri:
+	Per __ quem __ o -- _ %60
+	_ _ _ _
+	_ mni -- a fa -- cta
+	sunt,
+	o -- mni -- a,
+	o -- mni -- a fa -- cta %65
+	sunt,
+	per quem
+	o -- mni -- a, o -- mni -- a
+	fa -- cta sunt,
+	o -- mni -- a, %70
+	o -- mni -- a
+	fa -- cta sunt.
+	Qui pro -- pter nos
+	ho -- mi -- nes,
+	qui pro -- pter nos %75
+	ho -- mi -- nes, et pro -- pter
+	no -- stram, no -- stram sa --
+	lu -- tem de --
+	scen -- _ dit,
+	de -- scen -- dit de %80
+	coe -- _
+	_ lis, de --
+	scen -- dit de coe --
+	lis, de --
+	scen -- dit de coe -- %85
+	_ _ lis,
+	de -- scen -- dit de
+	coe -- lis, de coe --
+	lis. %89 finis
 }
 
 % BassoNotes = {

@@ -1136,7 +1136,7 @@ CredoTenoreNotes = {
 		es8([ d16 c)] b8 b e([ g16 f] e8) e
 		f([ e16 d)] c4 r r8 c %50
 		c4( d8[ es] f4) f8 d
-		d[( c b c] c4.) d8
+		d[ c b c] c4. d8
 		c2 a4 r
 		R1
 		r2 \mvTr f'8\pE^\solo e16([ d)] c8 b %55
@@ -1163,7 +1163,7 @@ CredoTenoreNotes = {
 		c8. c16 c8 c c([ b)] c4
 		d d d8([ c)] d d
 		e4 e r r8 e
-		e([ g] c,[ d16 e] f4) f,
+		e[ g] c,[ d16 e] f4 f,
 		r r8 c' d([ f16 e)] d8 g %80
 		c,[ e16 d] c8[ f] b,[ d16 c] b8[ c]
 		a[ b] c4 r r8 c
@@ -1198,12 +1198,12 @@ CredoTenoreLyrics = \lyricmode {
 	bi -- li -- um.]
 	
 	[De -- um de %46
-	De -- o, lu -- men de
+	De -- o, lu -- men de __
 	lu -- mi -- ne, De -- um
 	ve -- rum de De -- o
 	ve -- ro, de %50
 	De -- o, de
-	De -- o
+	De -- _ o
 	ve -- ro.]
 	
 	Ge -- ni -- tum, non %55
@@ -1211,7 +1211,7 @@ CredoTenoreLyrics = \lyricmode {
 	
 	con -- sub --
 	stan -- ti -- a -- lem
-	Pa -- tri: Per quem %60
+	Pa -- tri: Per __ quem __ %60
 	o -- _ _ _
 	_ mni -- a fa -- cta
 	sunt,
@@ -1230,7 +1230,7 @@ CredoTenoreLyrics = \lyricmode {
 	ho -- mi -- nes, et pro -- pter
 	no -- stram, no -- stram sa --
 	lu -- tem de --
-	scen -- dit,
+	scen -- _ _ dit,
 	de -- scen -- dit de %80
 	coe -- _ _ _
 	_ lis, de --
