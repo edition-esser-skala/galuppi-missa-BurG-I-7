@@ -635,6 +635,71 @@ CredoOboeII = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 4/4 \tempoCredo
-		
+		r4 r8 c''\fE a16 g f e f8 d'
+		\appoggiatura f, e4 f g16 a b a b8 a
+		g c,4 d16 e f c a c f8 f
+		f d4^\critnote e16 f g d h d g8 g
+		g e4 f16 g b,a b4 b8 %5
+		g' e4 f16 g a, g a4 a8
+		f' c4 d16 es d8 b4 c16 d
+		c8 a4 b16 c b8 g4 a16 b
+		a8 f~ f16 g a b c8 a4 b32( c d e)
+		f8 e16 d c8 b a4 g\trill %10
+		\tempoCredoB f r r2
+		\tempoCredoC r4 r8 c'' a16 g f e f8 d'
+		\appoggiatura f, e4 f g16 a b a b8 a
+		g c,4 d16 e f c a c f8 f
+		f d4 e16 f g d h d g8 g %15
+		g e4 f16 g b,a b4 b8
+		g' e4 f16 g a, g a4 a8
+		f' c4 d16 es d8 b4 c16 d
+		c8 a4 b16 c b8 g4 a16 b
+		a8 f~ f16 g a b c8 a4 b32( c d e) %20
+		f8 e16 d c8 b a4 g\trill
+		f r8 a' f16 e d cis d8 b'
+		\appoggiatura d, cis4 d e16 f g f g8 f
+		e a,4 h16 cis d8 d,4 d'8
+		b16 a g fis g8 es' \appoggiatura g, fis4 g %25
+		a16 b c b c8 b a d4 e16 fis
+		g d h d g8 g g c,4 as'8
+		es4 d c r8 g'
+		es16 d c h c8 as' \appoggiatura c, h4 c
+		d16 es f es f8 es d r r4 %30
+		R1*4
+		r4 r8 d\f b16 a g fis g8 es' %35
+		\appoggiatura g, fis4 g a16 b c b c8 b
+		a r r4 r2
+		R1*6 %43
+		r4 r8 f'\f d16 c b a b8 g'
+		\appoggiatura b, a4 b c16 d es d es8 d %45
+		c f,4 es'8 d16 c b a b8 g'
+		\appoggiatura b, a4 b c16 d es d es8 d
+		c f4 g16 a b f d f b8 b
+		b g4 a16 b c g e! g c8 c
+		c a4 b16 c es, d es4 es8 %50
+		c' a4 b16 c d, c d4 d8
+		b' f4 g16 a b g a b a e! f d
+		f4 e f r8 c
+		d b4 c16 d c8 a4 b16 c
+		d8 b4 c16 d c8 f, r4 %55
+		R1*16 %71
+		r4 r8 a'\f f16 e d cis d8 b'
+		\appoggiatura d, cis4 d e16 f g f g8 f
+		e a,4 b'!8 a16 g f e f8 d'
+		\appoggiatura f, e4 f g16 a b a b8 a %75
+		g c,4 d16 e f c a c f8 f
+		f d4 e16 f g d h d g8 g
+		g e4 f16 g b, a b4 b8
+		g' e4 f16 g a, g a4 a8
+		f' c4 d16 es d8 b4 c16 d %80
+		c8 a4 b16 c b8 g4 a16 b
+		a8 f~ f16 g a b c8 a4 b32( c d e)
+		f8 e16 d c8 b a4 g\trill
+		f r8 c' f c4 d16 es
+		d8 b4 c16 d c8 a4 b16 c %85
+		b8 g4 a16 b a8 f~ f16 g a b
+		c8 a4 b32( c d e) f8 e16 d c8 f
+		a,4 g\trill f8 d' e4\trill
+		f r r2\fermata \bar "||" %89 finis
 	}
 }
