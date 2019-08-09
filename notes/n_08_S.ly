@@ -1538,7 +1538,7 @@ CredoSopranoNotes = {
 		b[( f g a] b4) a8([ b)]
 		a4( g) f r
 		R1*19 %72
-		r4 r8 \mvTr a\fE^\tuttiE g([ d)] e f
+		r4 r8 \mvDll a\fE^\tuttiE g([ d)] e f
 		e8. e16 e4 r2
 		r4 r8 a b([ f)] g a %75
 		g8. g16 g8 g a([ c16 b)] a4

@@ -2305,7 +2305,7 @@ CredoOrgano = {
 		a g a a, \mvTr d\f-\tuttiE e f g
 		a g f d g f e d
 		a' b! a g f g a b
-		c b a f b a g f %75
+		c! b a f b a g f %75
 		c' d c b a g a f
 		b c d c h a h g
 		c d e d c d e d

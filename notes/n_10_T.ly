@@ -1110,12 +1110,137 @@ CredoTenoreNotes = {
 	\relative c' {
 		\clef "treble_8"
 		\key f \major \time 4/4 \autoBeamOff \tempoCredo
-		
+		R1*10 %10
+		\tempoCredoB \mvTr c2\fE^\tuttiE c
+		\tempoCredoC f4 c c8([ b)] a d
+		c4 c b4. c8
+		c4 c c8 a16 b c8 c
+		d4 d8 d d([ h16 c] d8) d %15
+		e4 e r8 e e e
+		e([ g)] c, d16[( e)] f4 f,
+		r8 c'16([ b)] a8 c d([ f16 e]) d8 g
+		c,[ e16 d] c8[ f] b,[ d16 c] b8[ c]
+		a[ b] c4 r8 c16([ b)] a8 b %20
+		c([ b)] a d c2
+		a4 r r2
+		R1
+		cis8([ d)] e([ cis)] d8. d16 d4
+		d8([ c)] b!([ es)] d4 d8 d %25
+		es([ d)] c([ d)] d4 r
+		d4. h8 g4 c8([ d)]
+		es4 d c r
+		R1*17 %45
+		r2 \mvTr d8([\fE^\tuttiE c)] b es
+		c4 d8 d es([ b)] c([ d)]
+		c8. c16 c4 d8([ f16 es)] d4
+		es8([ d16 c)] b8 b e([ g16 f] e8) e
+		f([ e16 d)] c4 r r8 c %50
+		c4( d8[ es] f4) f8 d
+		d[( c b c] c4.) d8
+		c2 a4 r
+		R1
+		r2 \mvTr f'8\pE^\solo e16([ d)] c8 b %55
+		a([ b)] c4 r2
+		R1
+		r2 es4 b
+		c4. d16([ es)] d4 c
+		h8([ c)] d4 c8([ b)] b([ a16 g)] %60
+		a4 r16 f[ g a] b8[ as] as[ g16 f]
+		g4 a8 b a4 g
+		fis r r2
+		d'8. a16 a4 r2
+		fis'4 g8 es b4 a %65
+		g r r2
+		r b4 b
+		b8. a16 a4 d e8 f
+		e4 d cis r
+		r2 e8. a,16 a4 %70
+		r2 cis4 d8 e
+		f4 e\trill d r
+		r4 r8 \mvDll a\fE^\tuttiE b([ a)] g a
+		a8. a16 a4 r2
+		r4 r8 c! d([ c)] b c %75
+		c8. c16 c8 c c([ b)] c4
+		d d d8([ c)] d d
+		e4 e r r8 e
+		e([ g] c,[ d16 e] f4) f,
+		r r8 c' d([ f16 e)] d8 g %80
+		c,[ e16 d] c8[ f] b,[ d16 c] b8[ c]
+		a[ b] c4 r r8 c
+		c([ b)] a d c2
+		a4 r r r8 c
+		d([ f16 e]) d8 g c,[ e16 d] c8[ f] %85
+		b,[ d16 c] b8[ c] a[ b] c4
+		r r8 c c([ b)] a d
+		c2 a8 b g4
+		a r r2\fermata \bar "||" %89 finis
 	}
 }
 
 CredoTenoreLyrics = \lyricmode {
+	[Cre -- do, %11
+	cre -- do, cre -- do in
+	u -- num De -- um,
+	Pa -- trem, Pa -- trem o -- mni -- po --
+	ten -- tem, fa -- cto -- rem %15
+	coe -- li, fa -- cto -- rem
+	coe -- li et ter -- rae,
+	fa -- cto -- rem coe -- li et
+	ter -- _ _ _
+	_ rae, fa -- cto -- rem %20
+	coe -- li et ter --
+	rae,]
 	
+	[vi -- si -- bi -- li -- um,
+	vi -- si -- bi -- li -- um %25
+	o -- mni -- um
+	et in -- vi -- si --
+	bi -- li -- um.]
+	
+	[De -- um de %46
+	De -- o, lu -- men de
+	lu -- mi -- ne, De -- um
+	ve -- rum de De -- o
+	ve -- ro, de %50
+	De -- o, de
+	De -- o
+	ve -- ro.]
+	
+	Ge -- ni -- tum, non %55
+	fa -- ctum,
+	
+	con -- sub --
+	stan -- ti -- a -- lem
+	Pa -- tri: Per quem %60
+	o -- _ _ _
+	_ mni -- a fa -- cta
+	sunt,
+	o -- mni -- a,
+	o -- mni -- a fa -- cta %65
+	sunt,
+	per quem
+	o -- mni -- a, o -- mni -- a
+	fa -- cta sunt,
+	o -- mni -- a, %70
+	o -- mni -- a
+	fa -- cta sunt.
+	[Qui pro -- pter nos
+	ho -- mi -- nes,
+	qui pro -- pter nos %75
+	ho -- mi -- nes, et pro -- pter
+	no -- stram, no -- stram sa --
+	lu -- tem de --
+	scen -- dit,
+	de -- scen -- dit de %80
+	coe -- _ _ _
+	_ lis, de --
+	scen -- dit de coe --
+	lis, de --
+	scen -- dit de coe -- _ %85
+	_ _ _ lis,
+	de -- scen -- dit de
+	coe -- lis, de coe --
+	lis.] %89 finis
 }
 
 % TenoreNotes = {

@@ -1467,7 +1467,7 @@ CredoAltoNotes = {
 		f4( e8[ f] g[ e]) f([ d)]
 		f4( e) f r
 		R1*19 %72
-		r4 r8 \mvTr f\fE^\tuttiE e([ d)] cis d
+		r4 r8 \mvDll f\fE^\tuttiE e([ d)] cis d
 		cis8. cis16 cis4 r2
 		r4 r8 f g([ f)] e f %75
 		e8. e16 e8 e f([ a16 g)] f4
