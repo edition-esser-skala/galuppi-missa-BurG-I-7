@@ -2450,9 +2450,9 @@ EtIncarnatusBassFigures = \figuremode {
 	<4 2>4 <3 1>2 %150
 	r2.
 	<7>
-	r
-	<7>
-	r %155
+	q
+	q
+	q %155
 	<7 _+>
 	r
 	<6->

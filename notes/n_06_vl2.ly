@@ -1219,6 +1219,77 @@ EtIncarnatusViolinoII = {
 		\clef treble
 		\key d \minor \time 3/4 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #90
-		
+		d8\fE d d d d d
+		g, g g g gis gis
+		a a a a a a
+		a a a a a a
+		d d d d d d
+		g, g g g g g %95
+		c c c c c c
+		f f f f f f
+		b, b b b b b
+		e e e e e e
+		a, a a a a a %100
+		d d d d d d
+		g, g g g g g
+		a2.\fermata
+		a4 a2
+		f'8\p f f f f f %105
+		g g f f f f
+		e e e e g g
+		cis, cis cis cis cis cis
+		d d d d d d
+		d d d d d d %110
+		d d d d d d
+		c c c c c c
+		c c c c c c
+		b b a a a a
+		e' e f f f f %115
+		g g f f f f
+		c c c c c c
+		c c c c c c
+		a4 f''\fE a
+		\appoggiatura d, cis2 d4 %120
+		a a2
+		cis,8\pE cis d d d d
+		cis cis cis cis cis cis
+		cis cis cis cis cis cis
+		cis cis cis cis d d %125
+		cis cis d d d d
+		cis cis cis cis cis cis
+		cis cis cis cis cis cis
+		d d d d d d
+		d2 d'4 %130
+		e e2
+		e4 f8 e d cis
+		d cis d2~
+		d4 e8 d cis h
+		cis h? cis2 %135
+		d8 cis d4. f8
+		b,4 g es
+		cis2\fermata r4
+		f'4 \appoggiatura d cis2
+		d8 a d,4 cis %140
+		d cis2
+		d cis4
+		d2.
+		cis2 r4
+		f \appoggiatura d cis2 %145
+		d8\fE d f f f f
+		g g f f f f
+		e e e e a a
+		a a a a a a
+		a a a a a a %150
+		g4 b d
+		\once \slurDashed e8(-. e-. e-. e-. e-. e-.)
+		\tuplet 3/2 4 { a, f c' } e2
+		d8(-. d-. d-. d-. d-. d-.)
+		\tuplet 3/2 4 { g, e b' } d2 %155
+		cis8(-. cis-. cis-. cis-. cis-. cis-.)
+		d4 r r
+		es, r r
+		cis2.\fermata
+		r8 f d4 cis %160
+		d2.\fermata \bar "||" %161 finis
 	}
 }
