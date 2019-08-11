@@ -2466,7 +2466,7 @@ EtIncarnatusIIOrgano = {
 		\clef bass
 		\key d \minor \time 4/4 \tempoEtIncarnatusII
 			\set Score.currentBarNumber = #162
-		\mvTr d2\fE-\tuttiE c8^\critnote c c c
+		\mvTr d2\fE-\tuttiE c8 c c c
 		b4 r8 b b4 b8 b
 		a2\fermata d8.[ d16 d8 d]
 		g2\fermata r4 c, %165
@@ -2480,14 +2480,27 @@ EtIncarnatusIIOrgano = {
 
 EtIncarnatusIIBassFigures = \figuremode {
 	r2 <6 4+ _-> %162
-	<6> <6 4! [2+]>
-	<7 5 _+> <7! [_+]>
-	<7! _!>2. <7- _!>4 %165
+	<6> <6 4! 2+>
+	<7 5 _+> <7! 5 _+>
+	<7! 5 _!>2. <7- 5 _!>4 %165
 	<7->2. <6>4
-	<7 [_+]> <6 4> <5- 4> <6- [4! 2]>
-	<6 5> <[8]>8 <[7]> <6->4 <5>
-	<7 _+> <6 4> <[5] 4> <\l _+>
+	<7 5 _+> <6 4> <5- 4> <6- 4! 2>
+	<6 5> <[8]>8 <[7]> <6- _->4 <5>
+	<7 5 _+> <6 4> <5 4> <\l _+>
 	<_+>1 %170 finis
+}
+
+CrucifixusOrgano = {
+	\relative c {
+		\clef bass
+		\key a \minor \time 4/4 \tempoCrucifixus
+			\set Score.currentBarNumber = #171
+		\mvTr a8\p-\soloE h c d e d c a
+	}
+}
+
+CrucifixusBassFigures = \figuremode {
+	
 }
 
 % Organo = {

@@ -139,74 +139,113 @@
 % 			\midi { \tempo 4 = 80 }
 % 		}
 % 	}
+% 	\bookpart {
+% 		\header {
+% 			movement = "3.3 ET INCARNATUS EST II"
+% 		}
+% 		\score {
+% 			<<
+% 				\new StaffGroup <<
+% 					\set StaffGroup.instrumentName = \markup { \musicglyph #'"pedal.*" }
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "[Oboe I]"
+% 							\EtIncarnatusIIOboeI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "[Oboe II]"
+% 							\EtIncarnatusIIOboeII
+% 						}
+% 					>>
+% 				>>
+% 				\new StaffGroup <<
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino I"
+% 							\EtIncarnatusIIViolinoI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino II"
+% 							\EtIncarnatusIIViolinoII
+% 						}
+% 					>>
+% 					\new Staff <<
+% 						\set Staff.instrumentName = "Viola"
+% 						\EtIncarnatusIIViola
+% 					>>
+% 				>>
+% 				\new ChoirStaff <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Soprano"
+% 						\new Voice = "Soprano" { \dynamicUp \EtIncarnatusIISopranoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Soprano \EtIncarnatusIISopranoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Alto"
+% 						\new Voice = "Alto" { \dynamicUp \EtIncarnatusIIAltoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Alto \EtIncarnatusIIAltoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Tenore"
+% 						\new Voice = "Tenore" { \dynamicUp \EtIncarnatusIITenoreNotes }
+% 					}
+% 					\new Lyrics \lyricsto Tenore \EtIncarnatusIITenoreLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Basso"
+% 						\new Voice = "Basso" { \dynamicUp \EtIncarnatusIIBassoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Basso \EtIncarnatusIIBassoLyrics
+% 				>>
+% 				\new StaffGroup <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Organo"
+% 						\EtIncarnatusIIOrgano
+% 					}
+% 				>>
+% 				\new FiguredBass {
+% 					\EtIncarnatusIIBassFigures
+% 				}
+% 			>>
+% 			\layout { }
+% 			\midi { \tempo 4 = 60 }
+% 		}
+% 	}
 	\bookpart {
 		\header {
-			movement = "3.3 ET INCARNATUS EST II"
+			movement = "3.4 CRUCIFIXUS"
 		}
 		\score {
 			<<
-				\new StaffGroup <<
-					\set StaffGroup.instrumentName = \markup { \musicglyph #'"pedal.*" }
-					\new GrandStaff <<
-						\new Staff {
-							\set Staff.instrumentName = "[Oboe I]"
-							\EtIncarnatusIIOboeI
-						}
-						\new Staff {
-							\set Staff.instrumentName = "[Oboe II]"
-							\EtIncarnatusIIOboeII
-						}
-					>>
-				>>
-				\new StaffGroup <<
-					\new GrandStaff <<
-						\new Staff {
-							\set Staff.instrumentName = "Violino I"
-							\EtIncarnatusIIViolinoI
-						}
-						\new Staff {
-							\set Staff.instrumentName = "Violino II"
-							\EtIncarnatusIIViolinoII
-						}
-					>>
-					\new Staff <<
-						\set Staff.instrumentName = "Viola"
-						\EtIncarnatusIIViola
-					>>
-				>>
 				\new ChoirStaff <<
 					\new Staff {
 						\set Staff.instrumentName = "Soprano"
-						\new Voice = "Soprano" { \dynamicUp \EtIncarnatusIISopranoNotes }
+						\new Voice = "Soprano" { \dynamicUp \CrucifixusSopranoNotes }
 					}
-					\new Lyrics \lyricsto Soprano \EtIncarnatusIISopranoLyrics
-					
-					\new Staff {
-						\set Staff.instrumentName = "Alto"
-						\new Voice = "Alto" { \dynamicUp \EtIncarnatusIIAltoNotes }
-					}
-					\new Lyrics \lyricsto Alto \EtIncarnatusIIAltoLyrics
+					\new Lyrics \lyricsto Soprano \CrucifixusSopranoLyrics
 					
 					\new Staff {
 						\set Staff.instrumentName = "Tenore"
-						\new Voice = "Tenore" { \dynamicUp \EtIncarnatusIITenoreNotes }
+						\new Voice = "Tenore" { \dynamicUp \CrucifixusTenoreNotes }
 					}
-					\new Lyrics \lyricsto Tenore \EtIncarnatusIITenoreLyrics
+					\new Lyrics \lyricsto Tenore \CrucifixusTenoreLyrics
 					
 					\new Staff {
 						\set Staff.instrumentName = "Basso"
-						\new Voice = "Basso" { \dynamicUp \EtIncarnatusIIBassoNotes }
+						\new Voice = "Basso" { \dynamicUp \CrucifixusBassoNotes }
 					}
-					\new Lyrics \lyricsto Basso \EtIncarnatusIIBassoLyrics
+					\new Lyrics \lyricsto Basso \CrucifixusBassoLyrics
 				>>
 				\new StaffGroup <<
 					\new Staff {
 						\set Staff.instrumentName = "Organo"
-						\EtIncarnatusIIOrgano
+						\CrucifixusOrgano
 					}
 				>>
 				\new FiguredBass {
-					\EtIncarnatusIIBassFigures
+					\CrucifixusBassFigures
 				}
 			>>
 			\layout { }

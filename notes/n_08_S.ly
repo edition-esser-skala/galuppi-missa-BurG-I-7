@@ -1644,6 +1644,19 @@ EtIncarnatusIISopranoLyrics = \lyricmode {
 	est.] %170 finis
 }
 
+CrucifixusSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key a \minor \time 4/4 \autoBeamOff \tempoCrucifixus
+			\set Score.currentBarNumber = #171
+		
+	}
+}
+
+CrucifixusSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble
