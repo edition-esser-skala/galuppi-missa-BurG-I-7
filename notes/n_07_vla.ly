@@ -1293,3 +1293,12 @@ EtIncarnatusViola = {
 		a2.\fermata \bar "||" %161 finis
 	}
 }
+
+EtIncarnatusIIViola = {
+	\relative c' {
+		\clef treble
+		\key d \minor \time 4/4 \tempoEtIncarnatusII
+			\set Score.currentBarNumber = #162
+		
+	}
+}

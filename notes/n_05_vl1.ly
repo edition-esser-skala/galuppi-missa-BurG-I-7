@@ -1335,6 +1335,15 @@ EtIncarnatusViolinoI = {
 	}
 }
 
+EtIncarnatusIIViolinoI = {
+	\relative c' {
+		\clef treble
+		\key d \minor \time 4/4 \tempoEtIncarnatusII
+			\set Score.currentBarNumber = #162
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble

@@ -2461,6 +2461,19 @@ EtIncarnatusBassFigures = \figuremode {
 	r2. %161 finis
 }
 
+EtIncarnatusIIOrgano = {
+	\relative c {
+		\clef bass
+		\key d \minor \time 4/4 \tempoEtIncarnatusII
+			\set Score.currentBarNumber = #162
+		\mvTr d2\fE-\tuttiE d8 d d d
+	}
+}
+
+EtIncarnatusIIBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

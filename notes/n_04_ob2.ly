@@ -703,3 +703,12 @@ CredoOboeII = {
 		f r r2\fermata \bar "||" %89 finis
 	}
 }
+
+EtIncarnatusIIOboeII = {
+	\relative c' {
+		\clef treble
+		\key d \minor \time 4/4 \tempoEtIncarnatusII
+			\set Score.currentBarNumber = #162
+		
+	}
+}

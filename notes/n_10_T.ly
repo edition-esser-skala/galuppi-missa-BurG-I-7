@@ -1243,6 +1243,19 @@ CredoTenoreLyrics = \lyricmode {
 	lis.] %89 finis
 }
 
+EtIncarnatusIITenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key d \minor \time 4/4 \autoBeamOff \tempoEtIncarnatusII
+			\set Score.currentBarNumber = #162
+		
+	}
+}
+
+EtIncarnatusIITenoreLyrics = \lyricmode {
+	
+}
+
 % TenoreNotes = {
 % 	\relative c' {
 % 		\clef "treble_8"

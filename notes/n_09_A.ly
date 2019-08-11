@@ -1642,6 +1642,19 @@ EtIncarnatusAltoLyrics = \lyricmode {
 	est. %146 finis
 }
 
+EtIncarnatusIIAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key d \minor \time 4/4 \autoBeamOff \tempoEtIncarnatusII
+			\set Score.currentBarNumber = #162
+		
+	}
+}
+
+EtIncarnatusIIAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble
