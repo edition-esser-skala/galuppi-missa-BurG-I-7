@@ -1553,7 +1553,7 @@ EtIncarnatusAltoNotes = {
 		\mvTr a'4\pE^\soloE f d %105
 		b' d,2
 		d4( cis) e
-		g8([ cis,)] e4 a
+		g8([ cis,)] e4 g^\critnote
 		g8([ e)] f2
 		fis4. fis8 fis fis %110
 		g fis g2
@@ -1569,7 +1569,7 @@ EtIncarnatusAltoNotes = {
 		e4 f8([ e)] f4
 		e a,2
 		e'4. e8 f g
-		\appoggiatura e8 cis2 d4 %125
+		\appoggiatura e4 cis2 d4 %125
 		e f8([ e)] f4
 		e a,2
 		g'4. g8 g g
@@ -1586,7 +1586,7 @@ EtIncarnatusAltoNotes = {
 		a8 d, f4 e
 		d2 e4 %140
 		f e2
-		\appoggiatura g8 f2 e4
+		\appoggiatura g4 f2 e4
 		f f2
 		e b'!4
 		a8 d, f4 e %145

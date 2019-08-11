@@ -1250,8 +1250,8 @@ EtIncarnatusViolinoSolo = {
 		\tuplet 3/2 4 { f8 cis d a' cis, d f cis d }
 		\tuplet 3/2 4 { b d, es g d es b' d, es }
 		<cis a'>2.\fermata
-		\tuplet 3/2 4 { f'8 cis d } f,4 e
-		d2.\fermata \bar "||"
+		\tuplet 3/2 4 { f'8 cis d } f,4 e %160
+		d2.\fermata \bar "||" %161 finis
 	}
 }
 
@@ -1260,7 +1260,78 @@ EtIncarnatusViolinoI = {
 		\clef treble
 		\key d \minor \time 3/4 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #90
-		
+		d8\fE d d d d d
+		g, g g g gis gis
+		a a a a a a
+		a a a a a a
+		d d d d d d
+		g, g g g g g %95
+		c c c c c c
+		f f f f f f
+		b, b b b b b
+		e e e e e e
+		a, a a a a a %100
+		d d d d d d
+		g, g g g g g
+		a2.\fermata
+		a4 a2
+		f'8\p f f f f f %105
+		g g f f f f
+		e e e e g g
+		cis, cis cis cis cis cis
+		d d d d d d
+		a' a a a a a %110
+		b b b b b b
+		g g g g g g
+		a a a a a a
+		f f f f f f
+		b b a a a a %115
+		b b a a a a
+		g g g g g g
+		f f f f e e
+		f4 f'\fE a
+		\appoggiatura d, cis2 d4 %120
+		e f2
+		a,8\pE a a a a a
+		a a a a a a
+		a a a a a a
+		g g g g f f %125
+		g g f f f f
+		a a a a a a
+		a a a a a a
+		a a a a a a
+		a2 d4 %130
+		e e2
+		e4 f8 e d cis
+		d cis d2~
+		d4 e8 d cis h
+		cis h? cis2 %135
+		d8 cis d4. f8
+		b,4 g es
+		g2\fermata r4
+		f'4 \appoggiatura d cis2
+		d8 a d,4 a' %140
+		a a2
+		a a4
+		h2.
+		a2 r4
+		f \appoggiatura d cis2 %145
+		f8\fE f a a a a
+		b b h h h h
+		a a a a cis cis
+		e e e e e e
+		d4 f a %150
+		b8(-. b-. b-. b-. b-. b-.)
+		\once \slurDashed e,(-. e-. e-. e-. e-. e-.)
+		\tuplet 3/2 4 { a, f c' } e2
+		\once \slurDashed d8(-. d-. d-. d-. d-. d-.)
+		\tuplet 3/2 4 { g, e b' } d2 %155
+		\once \slurDashed cis8(-. cis-. cis-. cis-. cis-. cis-.)
+		d4 r r
+		b r r
+		e,!2.\fermata
+		r4 f e %160
+		d2.\fermata \bar "||" %161 finis
 	}
 }
 
