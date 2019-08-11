@@ -1288,12 +1288,28 @@ EtIncarnatusIIBassoNotes = {
 		\clef bass
 		\key d \minor \time 4/4 \autoBeamOff \tempoEtIncarnatusII
 			\set Score.currentBarNumber = #162
-		
+		\mvTr d2\fE^\tuttiE c8 c c c
+		b4 r8 b b4 b8 b
+		a4 a\fermata d8. d16 d8 d
+		g8. g16 g4\fermata r c, %165
+		f f\fermata r f
+		e2. d4
+		cis d g,2
+		a2. a4
+		d1\fermata \bar "||" %170 finis
 	}
 }
 
 EtIncarnatusIIBassoLyrics = \lyricmode {
-	
+	Et in -- car -- na -- tus %162
+	est de Spi -- ri -- tu
+	San -- cto ex Ma -- ri -- a
+	Vir -- gi -- ne, et %165
+	ho -- mo, et
+	ho -- mo 
+	fa -- _ _
+	_ ctus
+	est. %170 finis
 }
 
 % BassoNotes = {
