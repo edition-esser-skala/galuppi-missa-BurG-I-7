@@ -1547,7 +1547,9 @@ EtIncarnatusAltoNotes = {
 		\clef treble
 		\key d \minor \time 3/4 \autoBeamOff \tempoEtIncarnatus
 			\set Score.currentBarNumber = #90
-		R2.*15 %104
+		R2.*13 %102
+		R2.\fermataMarkup
+		R
 		\mvTr a'4\pE^\soloE f d %105
 		b' d,2
 		d4( cis) e

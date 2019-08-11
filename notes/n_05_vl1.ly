@@ -1217,7 +1217,41 @@ EtIncarnatusViolinoSolo = {
 		\clef treble
 		\key d \minor \time 3/4 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #90
-		
+		a''4\fE f d
+		b' d,2
+		\appoggiatura e8 d4 cis e
+		g8 cis, e4 g
+		g8 e f4 a
+		b8(-. b-. b-. b-. b-. b-.) %95
+		\tuplet 3/2 4 { e, c g' } b2
+		\once \slurDashed a8(-. a-. a-. a-. a-. a-.)
+		\tuplet 3/2 4 { d, b f' } a2
+		g8(-. g-. g-. g-. g-. g-.)
+		\tuplet 3/2 4 { cis, a e' } g2 %100
+		\tuplet 3/2 4 { f8 cis d a' cis, d f cis d }
+		\tuplet 3/2 4 { b d, es g d es b' d, es }
+		<cis g'>2.\fermata
+		\tuplet 3/2 4 { f'8 cis d } f,4 e
+		d-\critnote r r %105
+		R2.*32 %137
+		R2.\fermataMarkup
+		R2.*7 %145
+		a''4\fE^\critnote f d
+		b' d,2
+		\appoggiatura e8 d4 cis e
+		g8 cis, e4 g
+		g8 e f4 a %150
+		b8(-. b-. b-. b-. b-. b-.)
+		\tuplet 3/2 4 { e, c g' } b2
+		\once \slurDashed a8(-. a-. a-. a-. a-. a-.)
+		\tuplet 3/2 4 { d, b f' } a2
+		\once \slurDashed g8(-. g-. g-. g-. g-. g-.) %155
+		\tuplet 3/2 4 { cis, a e' } g2
+		\tuplet 3/2 4 { f8 cis d a' cis, d f cis d }
+		\tuplet 3/2 4 { b d, es g d es b' d, es }
+		<cis a'>2.\fermata
+		\tuplet 3/2 4 { f'8 cis d } f,4 e
+		d2.\fermata \bar "||"
 	}
 }
 

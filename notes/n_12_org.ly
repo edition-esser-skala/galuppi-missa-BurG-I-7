@@ -2417,7 +2417,11 @@ EtIncarnatusOrgano = {
 		\clef bass
 		\key d \minor \time 3/4 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #90
-		R2.*56 %145
+		R2.*13 %102
+		R2.\fermataMarkup
+		R2.*34 %137
+		R2.\fermataMarkup
+		R2.*7 %145
 		\mvTr d8\fE-\soloE d d d d d
 		g, g gis gis gis gis
 		a a a a a a
