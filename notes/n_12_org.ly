@@ -2466,10 +2466,10 @@ EtIncarnatusIIOrgano = {
 		\clef bass
 		\key d \minor \time 4/4 \tempoEtIncarnatusII
 			\set Score.currentBarNumber = #162
-		\mvTr d2\fE-\tuttiE d8 d d d
+		\mvTr d2\fE-\tuttiE c8^\critnote c c c
 		b4 r8 b b4 b8 b
-		a2 d8.[ d16 d8 d]
-		g2 r4 c, %165
+		a2\fermata d8.[ d16 d8 d]
+		g2\fermata r4 c, %165
 		f2\fermata r4 f
 		e2. d4
 		cis d g,2
@@ -2480,9 +2480,9 @@ EtIncarnatusIIOrgano = {
 
 EtIncarnatusIIBassFigures = \figuremode {
 	r2 <6 4+ _-> %162
-	<6> <6 4! _->
+	<6> <6 4! [2+]>
 	<7 5 _+> <7! [_+]>
-	<7! _->2. <7- _!>4 %165
+	<7! _!>2. <7- _!>4 %165
 	<7->2. <6>4
 	<7 3> <6 4> <5- 4> <6- 3>
 	<6 5>2 <6->4 <5>
