@@ -1620,12 +1620,12 @@ EtIncarnatusIISopranoNotes = {
 		\clef treble
 		\key d \minor \time 4/4 \autoBeamOff \tempoEtIncarnatusII
 			\set Score.currentBarNumber = #162
-		d'2\fE^\tuttiE es8 es es es
+		\mvTr d'2\fE^\tuttiE es8 es es es
 		d4 r8 d cis4 cis8 cis
 		cis?4 cis\fermata c8. c16 c8 c
 		h8. h16 h4\fermata r b %165
 		a a\fermata r d
-		d( c) b2
+		d( c) b!2
 		a2 g~
 		g4 f e4. e8
 		fis1\fermata \bar "||" %170 finis
