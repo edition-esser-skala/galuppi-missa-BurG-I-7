@@ -1248,7 +1248,7 @@ EtIncarnatusViolinoII = {
 		g g f f f f
 		c c c c c c
 		c c c c c c
-		a4 f''\fE a
+		a!4 f''\fE a
 		\appoggiatura d, cis2 d4 %120
 		a a2
 		cis,8\pE cis d d d d
