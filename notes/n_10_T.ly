@@ -1248,12 +1248,28 @@ EtIncarnatusIITenoreNotes = {
 		\clef "treble_8"
 		\key d \minor \time 4/4 \autoBeamOff \tempoEtIncarnatusII
 			\set Score.currentBarNumber = #162
-		
+		\mvTr a2\fE^\tuttiE a8 a a a
+		b4 r8 g e'!4 e8 e
+		e4 e\fermata d8. d16 d8 d
+		d8. d16 d4\fermata r c %165
+		c c\fermata r a
+		e'2 e~
+		e4 d8[ c] b2
+		a2. a4
+		a1\fermata \bar "||" %170 finis
 	}
 }
 
 EtIncarnatusIITenoreLyrics = \lyricmode {
-	
+	Et [in -- car -- na -- tus %162
+	est de Spi -- ri -- tu
+	San -- cto ex Ma -- ri -- a
+	Vir -- gi -- ne, et %165
+	ho -- mo, et
+	ho -- mo __
+	fa -- _
+	_ ctus
+	est.] %170 finis
 }
 
 % TenoreNotes = {
