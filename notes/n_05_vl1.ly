@@ -1340,7 +1340,15 @@ EtIncarnatusIIViolinoI = {
 		\clef treble
 		\key d \minor \time 4/4 \tempoEtIncarnatusII
 			\set Score.currentBarNumber = #162
-		
+		f'2\fE fis8 fis fis fis
+		g4 r8 g g4 g8 g
+		g4 g\fermata fis8.[ fis16 fis8 fis]
+		f8. f16 f4\fermata r e %165
+		es es\fermata r d
+		gis a2 g4~
+		g f es d
+		cis d2 cis4
+		d1\fermata \bar "||" %170
 	}
 }
 
