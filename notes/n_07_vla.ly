@@ -1248,10 +1248,10 @@ EtIncarnatusViola = {
 		b, b h h h h
 		c c c c c c
 		c c c c c c
-		f f f f f f
+		f\fE f f f f f
 		e e e e d d %120
 		cis cis d d d d
-		a a a a a a
+		a\pE a a a a a
 		a a a a a a
 		a a a a a a
 		a a a a a a %125

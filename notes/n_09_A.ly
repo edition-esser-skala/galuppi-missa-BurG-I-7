@@ -1547,12 +1547,97 @@ EtIncarnatusAltoNotes = {
 		\clef treble
 		\key d \minor \time 3/4 \autoBeamOff \tempoEtIncarnatus
 			\set Score.currentBarNumber = #90
-		
+		R2.*15 %104
+		\mvTr a'4\pE^\soloE f d %105
+		b' d,2
+		d4( cis) e
+		g8([ cis,)] e4 a
+		g8([ e)] f2
+		fis4. fis8 fis fis %110
+		g fis g2
+		e4. e8 e e
+		f e f4 c
+		d c2
+		b'4 a2 %115
+		g4( f8[ e)] f4
+		e2 c'4
+		as8 g16([ f)] g4.\trill f8
+		f2 r4
+		R2.*2 %121
+		e4 f8([ e)] f4
+		e a,2
+		e'4. e8 f g
+		\appoggiatura e8 cis2 d4 %125
+		e f8([ e)] f4
+		e a,2
+		g'4. g8 g g
+		g f16([ e)] f4 a
+		b b2 %130
+		b4 c8[ b a g]
+		a[ g] a2~
+		a4 b8[ a g fis]
+		g[ fis] g2~
+		g4 a8[ g f e] %135
+		f[ e] f4. d8
+		es8[ d] es4 g
+		g2\fermata b!4
+		a8 d, f4 e
+		d2 e4 %140
+		f e2
+		\appoggiatura g8 f2 e4
+		f f2
+		e b'!4
+		a8 d, f4 e %145
+		d2 r4
+		R2.*12 %158
+		R2.\fermataMarkup
+		R2. %160
+		R2.\fermataMarkup \bar "||" %161 finis
 	}
 }
 
 EtIncarnatusAltoLyrics = \lyricmode {
+	Et in -- car -- %105
+	na -- tus
+	est __ de
+	Spi -- ri -- tu
+	San -- cto
+	ex Ma -- ri -- a %110
+	Vir -- gi -- ne,
+	ex Ma -- ri -- a
+	Vir -- gi -- ne, et
+	ho -- mo,
+	ho -- mo %115
+	fa -- ctus
+	est, et
+	ho -- mo fa -- ctus
+	est.
 	
+	Et in -- car -- %122
+	na -- tus,
+	in -- car -- na -- tus
+	est de %125
+	Spi -- ri -- tu
+	San -- cto
+	ex Ma -- ri -- a
+	Vir -- gi -- ne, et
+	ho -- mo %130
+	fa -- _
+	_ _
+	_
+	_ _
+	_ %135
+	_ _ _
+	_ _ ctus
+	est, et
+	ho -- mo fa -- ctus
+	est, et %140
+	ho -- mo
+	fa -- ctus,
+	fa -- ctus
+	est, et
+	ho -- mo fa -- ctus %145
+	est. %146 finis
 }
 
 % AltoNotes = {
