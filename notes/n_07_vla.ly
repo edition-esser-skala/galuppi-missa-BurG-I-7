@@ -1296,7 +1296,7 @@ EtIncarnatusViola = {
 
 EtIncarnatusIIViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key d \minor \time 4/4 \tempoEtIncarnatusII
 			\set Score.currentBarNumber = #162
 		a'2\fE a8 a a a
