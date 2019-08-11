@@ -18,74 +18,121 @@
 % 		\paper { evenHeaderMarkup = {} oddHeaderMarkup = {} }
 % 		\partTitle "3" "C R E D O"
 % 	}
+% 	\bookpart {
+% 		\header {
+% 			movement = "3.1 CREDO"
+% 		}
+% 		\score {
+% 			<<
+% 				\new StaffGroup <<
+% 					\set StaffGroup.instrumentName = \markup { \musicglyph #'"pedal.*" }
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "[Oboe I]"
+% 							\CredoOboeI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "[Oboe II]"
+% 							\CredoOboeII
+% 						}
+% 					>>
+% 				>>
+% 				\new StaffGroup <<
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino I"
+% 							\CredoViolinoI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "Violino II"
+% 							\CredoViolinoII
+% 						}
+% 					>>
+% 					\new Staff <<
+% 						\set Staff.instrumentName = "Viola"
+% 						\CredoViola
+% 					>>
+% 				>>
+% 				\new ChoirStaff <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Soprano"
+% 						\new Voice = "Soprano" { \dynamicUp \CredoSopranoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Soprano \CredoSopranoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Alto"
+% 						\new Voice = "Alto" { \dynamicUp \CredoAltoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Alto \CredoAltoLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Tenore"
+% 						\new Voice = "Tenore" { \dynamicUp \CredoTenoreNotes }
+% 					}
+% 					\new Lyrics \lyricsto Tenore \CredoTenoreLyrics
+% 					
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Basso"
+% 						\new Voice = "Basso" { \dynamicUp \CredoBassoNotes }
+% 					}
+% 					\new Lyrics \lyricsto Basso \CredoBassoLyrics
+% 				>>
+% 				\new StaffGroup <<
+% 					\new Staff {
+% 						\set Staff.instrumentName = "Organo"
+% 						\CredoOrgano
+% 					}
+% 				>>
+% 				\new FiguredBass {
+% 					\CredoBassFigures
+% 				}
+% 			>>
+% 			\layout { }
+% 			\midi { \tempo 4 = 90 }
+% 		}
+% 	}
 	\bookpart {
 		\header {
-			movement = "3.1 CREDO"
+			movement = "3.2 ET INCARNATUS EST"
 		}
 		\score {
 			<<
 				\new StaffGroup <<
-					\set StaffGroup.instrumentName = \markup { \musicglyph #'"pedal.*" }
-					\new GrandStaff <<
-						\new Staff {
-							\set Staff.instrumentName = "[Oboe I]"
-							\CredoOboeI
+					\new Staff {
+							\set Staff.instrumentName = "Violino solo"
+							\EtIncarnatusViolinoSolo
 						}
-						\new Staff {
-							\set Staff.instrumentName = "[Oboe II]"
-							\CredoOboeII
-						}
-					>>
-				>>
-				\new StaffGroup <<
 					\new GrandStaff <<
 						\new Staff {
 							\set Staff.instrumentName = "Violino I"
-							\CredoViolinoI
+							\EtIncarnatusViolinoI
 						}
 						\new Staff {
 							\set Staff.instrumentName = "Violino II"
-							\CredoViolinoII
+							\EtIncarnatusViolinoII
 						}
 					>>
 					\new Staff <<
 						\set Staff.instrumentName = "Viola"
-						\CredoViola
+						\EtIncarnatusViola
 					>>
 				>>
-				\new ChoirStaff <<
-					\new Staff {
-						\set Staff.instrumentName = "Soprano"
-						\new Voice = "Soprano" { \dynamicUp \CredoSopranoNotes }
-					}
-					\new Lyrics \lyricsto Soprano \CredoSopranoLyrics
-					
+				\new ChoirStaff \with { \smallerGroupDistance }<<
 					\new Staff {
 						\set Staff.instrumentName = "Alto"
-						\new Voice = "Alto" { \dynamicUp \CredoAltoNotes }
+						\new Voice = "Alto" { \dynamicUp \EtIncarnatusAltoNotes }
 					}
-					\new Lyrics \lyricsto Alto \CredoAltoLyrics
-					
-					\new Staff {
-						\set Staff.instrumentName = "Tenore"
-						\new Voice = "Tenore" { \dynamicUp \CredoTenoreNotes }
-					}
-					\new Lyrics \lyricsto Tenore \CredoTenoreLyrics
-					
-					\new Staff {
-						\set Staff.instrumentName = "Basso"
-						\new Voice = "Basso" { \dynamicUp \CredoBassoNotes }
-					}
-					\new Lyrics \lyricsto Basso \CredoBassoLyrics
+					\new Lyrics \lyricsto Alto \EtIncarnatusAltoLyrics
 				>>
 				\new StaffGroup <<
 					\new Staff {
 						\set Staff.instrumentName = "Organo"
-						\CredoOrgano
+						\EtIncarnatusOrgano
 					}
 				>>
 				\new FiguredBass {
-					\CredoBassFigures
+					\EtIncarnatusBassFigures
 				}
 			>>
 			\layout { }

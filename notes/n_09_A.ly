@@ -1542,6 +1542,19 @@ CredoAltoLyrics = \lyricmode {
 	lis.] %89 finis
 }
 
+EtIncarnatusAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key d \minor \time 3/4 \autoBeamOff \tempoEtIncarnatus
+			\set Score.currentBarNumber = #90
+		
+	}
+}
+
+EtIncarnatusAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble

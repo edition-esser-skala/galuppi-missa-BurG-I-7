@@ -1212,6 +1212,24 @@ CredoViolinoI = {
 	}
 }
 
+EtIncarnatusViolinoSolo = {
+	\relative c' {
+		\clef treble
+		\key d \minor \time 3/4 \tempoEtIncarnatus
+			\set Score.currentBarNumber = #90
+		
+	}
+}
+
+EtIncarnatusViolinoI = {
+	\relative c' {
+		\clef treble
+		\key d \minor \time 3/4 \tempoEtIncarnatus
+			\set Score.currentBarNumber = #90
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble
