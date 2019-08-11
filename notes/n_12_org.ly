@@ -2417,12 +2417,44 @@ EtIncarnatusOrgano = {
 		\clef bass
 		\key d \minor \time 3/4 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #90
-		
+		R2.*56 %145
+		\mvTr d8\fE-\soloE d d d d d
+		g, g gis gis gis gis
+		a a a a a a
+		a a a a a a
+		d d d d d d %150
+		g g g g g g
+		c, c c c c c
+		f f f f f f
+		b, b b b b b
+		e e e e e e %155
+		a, a a a a a
+		d4 r r
+		g, r r
+		a2.\fermata
+		a4 a2 %160
+		d,2.\fermata \bar "||" %161 finis
 	}
 }
 
 EtIncarnatusBassFigures = \figuremode {
-	
+	r2.*56 %145
+	r2.
+	<8 6>4 <7 5 _!>2
+	<4>4 <_+>2
+	<\t>2.
+	<4>4 <3>2 %150
+	r2.
+	<7>
+	r
+	<7>
+	r %155
+	<7 _+>
+	r
+	<6->
+	<_+>
+	<6 4>2 <5 _+>4 %160
+	r2. %161 finis
 }
 
 % Organo = {
