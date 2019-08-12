@@ -2496,11 +2496,63 @@ CrucifixusOrgano = {
 		\key a \minor \time 4/4 \tempoCrucifixus
 			\set Score.currentBarNumber = #171
 		\mvTr a8\p-\soloE h c d e d c a
+		h' a gis e a, h c d
+		e d c a h d e e,
+		a' h c a h a g! e
+		fis a h h, e fis g e %175
+		fis h gis e a, h c d
+		e d c a h d e e,
+		a h c a h e cis a
+		d e f d e d e a,
+		d e f d e a fis d %180
+		g, g' e cis d e f g
+		a, g' f d^\critnote e g a a,
+		d e f d h e a, a'
+		h, d e e, a h c d
+		e d c a d h e e, %185
+		a h c a h e cis a
+		d e f d e d e a,
+		d e f d gis, gis' a a,
+		d f e d c h a c
+		h e cis a d, d' h gis %190
+		a h c d e fis gis e
+		a, h cis a h d cis a
+		d, d' h gis a h c a
+		h e cis a d d' h gis
+		a a dis, dis e e, a d? %195
+		e d e e, a4 a'
+		r e\p a, r\fermata \bar "||" %197 finis
 	}
 }
 
 CrucifixusBassFigures = \figuremode {
-	
+	r2 <_+>4 <6> %171
+	<6+> <[6]>8 <7 5 [_+]> r2
+	<_+>4 <6> <7>8 <6 4+ 3> <_+>8 <7 [_+]>
+	r2 <_+>4 <6>
+	r8 <7+ 3> <[5+] _+> <7 [\t \t]> r4 <[6]> %175
+	<7>8 <_!> <5> <7 [_+]> r4 <[6]>8 <3>
+	<_+>4 <6> <7>8 <4+ 3> <_+> <7 [_+]>
+	r4 <6> <7>8 <5 3> <6 5> <[7 _+]>
+	<9>4 <6> <7> <6+>8 <[_+]>
+	<4>4 <6 3> <7>8 <_!> <5> <7 [_+]> %180
+	r2 r4. <_->8
+	<_+>4 <6> r8 <4+ _-> <_+>4
+	r2 <7>8 <_+> <_!>4
+	<7>8 <4+ 3> <_+> <7 [_+]> r4 <6>8 <3>
+	<_+>4 <6> <7>8 <4+ 3> <_+> <7 [_+]> %185
+	r4 <[6]> r2
+	r1
+	r
+	r
+	<7>8 <_!> <6 5> <[7 _+]> <9> <8> r <7 5> %190
+	r2 <4>4 <5 3>
+	<4> <6 5> <7>8 <6 4!> <6 5> <[7 _+]>
+	<9>8 <8> r <7 5> r4 <[6]>
+	<7>8 <_!> <6 5> <[7 _+]> <9>8 <8> r <7 5>
+	r4 <7 5 [_+]> <_+>4. <6>8 %195
+	<6 4>4 <5 _+> r2
+	r4 <_+> r2 %197 finis
 }
 
 % Organo = {
