@@ -1365,7 +1365,7 @@ EtResurrexitViolinoII = {
 		\tempoJudicareD a8-\critnote a16 a a a a a a c a c a c a c
 		\tempoVivos a4 gis r2 %245
 		h8\p h h h h4 r\fermata
-		e8 f e d c d c h
+		\tempoCuiusRegni e8 f e d c d c h
 		a' h a g! f e f d
 		g a g f e d e c
 		f g f e d e f d %250

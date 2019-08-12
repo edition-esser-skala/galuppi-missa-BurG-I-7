@@ -726,6 +726,130 @@ EtResurrexitOboeII = {
 		\clef treble
 		\key f \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #198
-		
+		r2 f'8\fE f16 f f8 c
+		a4 r c8 c16 c c8 a
+		f8 f16 f f8 c f16 f f f f f f f %200
+		g g g g g g g g a c c c f, c' c c
+		d f f f c f f f b, f' f f a, f' f f
+		g, c c c c, c' c c d, b' b b e, b' b b
+		f a a a f f f f f f f f c e' e e
+		f4 r f8 f16 f f8 c %205
+		a4 r c8 c16 c c8 a
+		f8 f16 f f8 c f16 f f f f f f f
+		g g g g g g g g a c c c f, c' c c
+		d f f f c f f f b, f' f f a, f' f f
+		g, c c c c, g'' g g a c c c g c c c %210
+		f, c' c c e, c' c c d, g g g g, g' g g
+		a, f' f f h, f' f f c e e e e, c' c c
+		f, c' c c g h' h h c4 r
+		c8 c16 c c8 g e4 r
+		g8 g16 g g8 e c c16 c c8 g %215
+		e16 g g g e e e e f4 r
+		f'8 f16 f f8 c a4 r
+		c8 c16 c c8 a f f16 f f8 c
+		f16 f f f f f f f g g g g g g g g
+		a c c c f, c' c c d f f f c f f f %220
+		b, f' f f a, f' f f g, c c c c, c' c c
+		d, b' b b e, b' b b f a a a f f f f
+		f f f f c e e e f\p c' c c c, c' c c
+		d, b' b b e, b' b b f a a a f\f f f f
+		f f f f c e' e e f4 r %225
+		f8 f16 f f8 c a4 r
+		c8 c16 c c8 a f f16 f f8 c
+		f4 r r2
+		R1*6 %234
+		r2 r4 r8 a'\f %235
+		f16 e d cis d8 a d, r r4
+		R1
+		r4 r8 b''!8\f a16 g f e f8 c!
+		f, r r4 r2
+		R1\fermataMarkup %240
+		\tempoJudicare R1\fermataMarkup
+		\tempoJudicareB c'8\f c16 c c c c c c e c e c e c e
+		\tempoJudicareC a,4 r r2\fermata
+		\tempoJudicareD a8 a16 a a a a a a c a c a c a c
+		\tempoVivos a4 gis r2 %245
+		e2.\p r4\fermata
+		\tempoCuiusRegni R1*8 %254
+		r4 r8 e'\f c16 h a gis a8 f' %255
+		\appoggiatura a, gis4 a h16 c d c d8 c
+		h e,4 d'8 c16 h a gis a8 f'
+		\appoggiatura a, gis4 a h16 c d c d8 c
+		h e,4 f'8 e16 d c h c8 a'
+		\appoggiatura c, h4 c d16 e f e f8 e %260
+		d g,4 a16 h c g e g c8 c
+		c a4 h16 c d a fis a d8 d
+		d h4 c16 d f, e f4 f8
+		d' h4 c16 d e, d e4 g'8
+		c g4 c16 b! a8 f4 g16 a %265
+		g8 e4 f16 g f8 d4 e16 f
+		e8 c~ c16 d e f g8 e4 f32( g a h)
+		c8 h16 a g8 f e4 d\trill
+		c8 h16 a g8 f e4 d\trill
+		c r r2 %270
+		R1*8 %278
+		r4 r8 e'\f c16 h a gis a8 a'
+		f16 e d cis d8 b'! \appoggiatura d, cis4 d %280
+		e16 f g f g8 f e a,4 b'!8
+		a16 g f e f8 d' \appoggiatura f, e4 f
+		g16 a b a b8 a g c,4 r8
+		R1*7 %290
+		r2 r8 fis4\f g16 a
+		c, h c4 c8 a' fis4 g16 a
+		h, a h4 c16 d f,! e f4 f8
+		d' h4 c16 d e d e4 f16 g
+		b, a b4 b8 g' e4 f16 g %295
+		a, g a4 a8 f' c4 d16 es
+		d8 b~ b16 c d e f8 c4 d16 es
+		d8 b4 c32( d e fis) g8 d4 e16 f?
+		e8 c~ c16 d e f g8 d4 e16 f
+		e8 c4 d32( e f g) a8 e4 f16 g %300
+		f8 d~ d16 e f g a8 e4 f16 g
+		f8 d~ d16 e f g a8 d,4 e32( fis g a)
+		b!8 g4 g8 g e4 g8
+		cis,1
+		cis\fermata %305
+		\tempoMortuorum R1
+		<< { \oneVoice R1 } \\ { s2 \tempoEtVitam s2 } >>
+		R1*12 %319
+		r8 g'4\f a16 h c g e g c8 c %320
+		c a4 h16 c d a f a d8 d
+		d h4 c16 d g, e f g a8 f
+		h,16 g a h c8 a' e4 d\trill
+		c16 g e g b8 b g' f16 e f8 d
+		f4 e8 c' a16 g f e f8 c %325
+		a16 g f e f8 f' d16 c b a b8 g'
+		\appoggiatura b, a4 b c16 d es d es8 d
+		c8 f,~ f16 g a b c8 a4 b32( c d e)
+		f16 c a c f8 f f d4 e16 f
+		g e c e g8 g cis, a d4~ %330
+		d8 e cis4 d8 h c4~
+		c8 d h4 c8 g4 a16 h
+		c g e g c8 c c a4 h16 c
+		d h g h d8 d gis e a4~
+		a8 h gis e c16 h a gis a8 e' %335
+		c16 h a gis a8 a' f16 e d cis d8 b'
+		\appoggiatura d, cis4 d e16 f g f g8 f
+		e a,4 b!8 a16 g f e f8 c''
+		a16 g f e f8 d' \appoggiatura f, e4 f
+		g16 a b a b8 a g c,4 d16 e %340
+		f c a c f8 f f d4 e16 f
+		g d b d g8 g g e4 f16 g
+		b, a b4 b8 g' e4 f16 g
+		a, g a4 b16 c f,8 g a f
+		f1~\p %345
+		f2~ f8 c'4\f d16 es
+		d8 b4 c16 d c8 a4 b16 c
+		b8 g4 a16 b a8 f~ f16 g a b
+		c8 a4 b32( c d e) f8 e16 d c8 b
+		a4 g8 c a16 g f e f8 c %350
+		f g a f f2~\p
+		f1~
+		f8 c'4\f d16 es d8 b4 c16 d
+		c8 a4 b16 c b8 g4 a16 b
+		a8 f~ f16 g a b c8 a4 b32( c d e) %355
+		f8 e16 d c8 b a4 g
+		f16 f' e d c8 b a4 g
+		f r r2\fermata \bar "|." %358 FINIS
 	}
 }
