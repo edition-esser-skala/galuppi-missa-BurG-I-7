@@ -217,6 +217,11 @@
 		\header {
 			movement = "3.4 CRUCIFIXUS"
 		}
+		\paper {
+			systems-per-page = #2
+			page-count = #2
+			system-system-spacing.basic-distance = #27
+		}
 		\score {
 			<<
 				\new ChoirStaff <<
