@@ -1714,10 +1714,239 @@ EtResurrexitSopranoNotes = {
 		\clef treble
 		\key f \major \time 4/4 \autoBeamOff \tempoEtResurrexit
 			\set Score.currentBarNumber = #198
-		
+		R1*7 %204
+		r2 r8 \mvTr a'\fE^\tuttiE a a %205
+		a a r4 r8 a16 a a a a a
+		a8 f r4 r8 a a a
+		g g c c a a a a
+		b4 c b a8 a
+		g g g g a4 e %210
+		f g8 g g g r h
+		a a r g g g r c
+		c c16 c h4 c r
+		r8 c c c c c r4
+		r8 c16 c c c c c c8 g r4 %215
+		R1
+		r8 a a a a a r4
+		r8 a16 a a a a a a8 f r4
+		r8 a a a g g c c
+		a a a a b4 c %220
+		b a8 a g g r c
+		b b r b a a r a
+		g g16 g g4 a r8 c\p
+		b b r b a a r a\f
+		g g16 g g4 a r %225
+		R1*31 %256
+		r2 \mvTr c8([\fE^\tuttiE h)] a([ h)]
+		gis4 a8 a h([ a)] gis([ a)]
+		gis8. gis16 gis4 e'8([ d)] c([ d)]
+		h4 c d8([ c h c] %260
+		h[ a]) g4 g b
+		a a a c
+		h h h8([ a)] g([ a)]
+		h4 g8 h c4 c
+		c c c8([ a)] d d %265
+		d[ g,] c2 h4
+		c4 c c8([ g)] a([ h)]
+		c4 c8 c c4( h)
+		c r r2
+		R1*2 %271
+		\mvTr g4.\pE^\solo a8 h([ c)] d g,
+		fis8. g16 g4 a8 h c h
+		a4 d,8 cis' d c c h16([ a)]
+		h([ a)] h8 r4 c4. e8 %275
+		a,([ gis)] a c h4 a
+		gis8 a h4~ h8[ e,] a([ g)]
+		fis4 h8 a gis4 a8[ h]
+		a4 gis a r8 \mvTr a\fE^\tutti
+		a([ g)] f([ b!)] a4 a %280
+		g8([ d)] e f e8. e16 e8 b'!
+		a([ g)] f([ b)] g4 a
+		b8([ f)] g([ a)] g8. g16 g4
+		R1*8 %291
+		\mvDll a4\fE^\tuttiE a a8([ fis g a]
+		h4) h h h
+		h8([ g a h] c4) c
+		b b b8([ c16 d] c8[ b] %295
+		a4) a r r8 a
+		b4 f a8 b c a
+		b4 b r r8 h
+		c4 g h8 c d h
+		c4 c r r8 cis %300
+		d4 a cis8 d e cis
+		d4 d a8 g fis a
+		b! g g2 g4
+		g1
+		g\fermata %305
+		\tempoMortuorum r4 f2\p e4
+		d2 \tempoEtVitam cis4 r
+		r4 r8 \mvTr c'!\pE^\solo a16([ g f e)] f8 d'
+		e,4 f8 f g([ a)] b([ a)]
+		g8. c,16 c4 r2 %310
+		r r8 g'4 a16[ h]
+		c4. b8 a a4 b16[ c]
+		d4. c8 h4 r
+		r r8 f'( h,4) c8([ a)]
+		c4( h)\trill c8 g b4~ %315
+		b8[ g] a([ b)] a4( g)\trill
+		f r r2
+		R1*2
+		r4 r8 \mvTr g~\fE^\tutti g[ a16 h] c4~ %320
+		c8[ b] a4~ a8[ h16 cis] d4~
+		d8[ c] h4 r2
+		r8 g([ c)] d g,2
+		g4 r8 g( c4.) d8
+		c2 c4 r8 c %325
+		a([ g)] f a b([ f)] b c
+		a4 b8 b c([ b)] a([ b)]
+		a8. a16 a4 r r8 c~
+		c[ d16 e] f4~ f8[ e d f]
+		e[ d cis d] cis a d4~ %330
+		d8 e cis4 d8 h c4~
+		c8 d h4 c r8 g~
+		g[ a16 h] c4~ c8[ h a c]
+		h[ a gis a] gis e a4~
+		a8 h gis4 a r8 h %335
+		a4 e8 a a([ g)] f b
+		a4 a8 a g([ d)] e([ f)]
+		e8. e16 e4 r r8 g
+		a([ b)] c a g4 a8 a
+		b([ f)] g([ a)] g8. g16 g4 %340
+		r2 r8 f4( g16[ a]
+		b8) b, r4 r8 g'4( a16[ b])
+		e,4 r r8 g([ a b)]
+		a4 r r r8 \mvTr c\pE^\solo
+		d b4 c16[ d] c8 a4 b16[ c] %345
+		b8 g4 a16[ b] a8 f r \mvTr c'\fE^\tutti
+		d b4 c16[ d] c8 a4 b16[ c]
+		b8 g4 a16[ b] a[ b] c8 r4
+		r8 c4 d16[ e] f8[ e16 d] c8 b
+		a4( g) f r %350
+		r r8 \mvTr c'\pE^\solo d b4 c16[ d]
+		c8 a4 b16[ c] b8 g4 a16[ b]
+		a8 f r \mvTr c'\fE^\tutti d b4 c16[ d]
+		c8 a4 b16[ c] b8 g4 a16[ b]
+		a[ b] c8 r4 r8 c4 d16[ e] %355
+		f8[ e16 d] c8 b a4( g)
+		f r r e
+		f r r2\fermata \bar "|." %358 FINIS
 	}
 }
 
 EtResurrexitSopranoLyrics = \lyricmode {
+	[Et re -- sur -- %205
+	re -- xit, re -- sur -- re -- xit, re -- sur --
+	re -- xit, et re -- sur --
+	re -- xit, re -- sur -- re -- xit, re -- sur --
+	re -- xit ter -- ti -- a
+	di -- e, re -- sur -- re -- xit %210
+	ter -- ti -- a di -- e se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras,
+	et re -- sur -- re -- xit,
+	re -- sur -- re -- xit, re -- sur -- re -- xit, %215
 	
+	et re -- sur -- re -- xit,
+	re -- sur -- re -- xit, re -- sur -- re -- xit,
+	et re -- sur -- re -- xit, re -- sur --
+	re -- xit, re -- sur -- re -- xit %220
+	ter -- ti -- a di -- e se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras.] %225
+	
+	[Et in %257
+	Spi -- ri -- tum San -- ctum,
+	Do -- mi -- num et vi --
+	vi -- fi -- can -- %260
+	tem, qui ex
+	Pa -- tre Fi -- li --
+	o -- que, Fi -- li --
+	o -- que pro -- ce -- dit,
+	Fi -- li -- o -- que pro -- %265
+	ce -- _ _
+	_ dit, Fi -- li --
+	o -- que pro -- ce --
+	dit.]
+	
+	Qui cum Pa -- tre et %272
+	Fi -- li -- o si -- mul ad -- o --
+	ra -- tur et con -- glo -- ri -- fi --
+	ca -- tur, qui lo -- %275
+	cu -- tus, lo -- cu -- tus
+	est, lo -- cu -- tus
+	est per Pro -- phe -- _
+	_ _ tas. [Et
+	u -- nam san -- ctam, %280
+	san -- ctam ca -- tho -- li -- cam et
+	a -- po -- sto -- li --
+	cam ec -- cle -- si -- am.]
+	
+	[Et ex -- pe -- %292
+	cto, et ex --
+	pe -- cto,
+	et ex -- pe -- %295
+	cto,] ex --
+	pe -- cto re -- sur -- re -- cti --
+	o -- nem, ex --
+	pe -- cto re -- sur -- re -- cti --
+	o -- nem, ex -- %300
+	pe -- cto re -- sur -- re -- cti --
+	o -- nem, re -- sur -- re -- cti --
+	[o -- nem mor -- tu --
+	o --
+	rum, %305
+	mor -- tu --
+	o -- rum.]
+	Et vi -- tam ven --
+	tu -- ri, ven -- tu -- ri
+	sae -- cu -- li, %310
+	a -- _
+	_ _ _ _ _
+	_ _ men,
+	a -- men,
+	a -- men, a -- _ %315
+	men, a --
+	men,
+	
+	a -- _ %320
+	_ _
+	men,
+	a -- men, a --
+	men, a -- men,
+	a -- men, et %325
+	vi -- tam, et vi -- tam ven --
+	tu -- ri, ven -- tu -- ri
+	sae -- cu -- li, a --
+	_
+	_ men, a -- _ %330
+	men, a -- men, a -- _
+	men, a -- men, a --
+	_
+	_ men, a -- _
+	men, a -- men, et %335
+	vi -- tam, et vi -- tam ven --
+	tu -- ri, ven -- tu -- ri
+	sae -- cu -- li, et
+	vi -- tam ven -- tu -- ri, ven --
+	tu -- ri sae -- cu -- li, %340
+	a --
+	men, a --
+	men, a --
+	men, a --
+	_ _ _ _ _ _ %345
+	_ _ _ _ men, a --
+	_ _ _ _ _ _
+	_ _ _ _ men,
+	a -- _ _ _ men,
+	a -- men, %350
+	a -- _ _ _
+	_ _ _ _ _ _
+	_ men, a -- _ _ _
+	_ _ _ _ _ _
+	_ men, a -- _ %355
+	_ _ men, a --
+	men, a --
+	men. %358 FINIS
 }

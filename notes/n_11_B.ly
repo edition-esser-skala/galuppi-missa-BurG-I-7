@@ -1377,10 +1377,263 @@ EtResurrexitBassoNotes = {
 		\clef bass
 		\key f \major \time 4/4 \autoBeamOff \tempoEtResurrexit
 			\set Score.currentBarNumber = #198
-		
+		R1*7 %204
+		r2 r8 \mvTr f\fE^\tuttiE f f %205
+		f f, r4 r8 f'16 f f f f f
+		f8 f, r4 r8 f'16([ g)] a8 f
+		e d e c f f f f
+		b4 a g f8 f
+		c' c, c c f4 e %210
+		d c8 c g' g, r g'
+		a a r h c c, r e
+		f e16 f g4 c, r
+		r8 c' c c c c, r4
+		r8 c'16 c c c c c c8 c, r4 %215
+		R1
+		r8 f f f f f, r4
+		r8f'16 f f f f f f8 f, r4
+		r8 f'16([ g)] a8 f e d e c
+		f f f f b4 a %220
+		g f8 f c' c, r c
+		d d r e f f, r a'
+		b a16 b c4 f, r8 c\p
+		d d r e f f, r a'\f
+		b a16 b c4 f, r %225
+		R1*10 %235
+		r4 r8 \mvTr a\pE^\soloE f16([ e)] d([ cis)] d8 b'
+		cis,4 d8 d e f g f
+		e8. a,16 a4 r r8 c'
+		a16([ g)] f([ e)] f8 d' e,4 f8 f
+		g a b a g8. c,16 c4\fermata %240
+		\tempoJudicare c' c c c,\fermata
+		\tempoJudicareB R1
+		\tempoJudicareC a'4 a a a,\fermata
+		\tempoJudicareD R1
+		\tempoVivos f'4 e8 e f,4. f8 %245
+		e2 r\fermata
+		\tempoCuiusRegni gis'4 e a a,
+		c' a d d,8 d'
+		h4 g c c,
+		a' r h r %250
+		e, r8 gis a4 a,8 a'
+		f d e4 a, r
+		a' r h r
+		e, r8 gis a4 a,8 a'
+		f d e4 a, r %255
+		R1
+		r2 \mvTr a8([\fE^\tutti h)] c([ d)]
+		e([ d)] c a d([ c)] h([ a)]
+		e'8. e16 e4 c8([ d)] e([ f)]
+		g([ f)] e([ c)] f([ e d c] %260
+		g'4) g, e'8([ d)] e([ c)]
+		f4 f fis8([ e)] fis([ d)]
+		g4 g g8([ a)] h([ a)]
+		g([ f!)] e d c4 c
+		c8([ d)] e([ c)] f([ e)] f d %265
+		e[ d e c] d[ c d g,]
+		c4 c c8([ d)] e([ d)]
+		c([ d)] e f g4( g,)
+		c r r2
+		R1*9 %278
+		r4 r8 \mvTr e\fE^\tuttiE a4 a,8 a
+		d([ e)] f([ g)] a([ g)] f([ d)] %280
+		g([ f)] e d a'8. a,16 a8 g'
+		f([ g)] a([ b)] c([ b)] a([ f)]
+		b([ a)] g([ f)] c'8. c,16 c8 \mvTr c'\pE^\solo
+		c4 b a r
+		r r8 f b4 a8 b %285
+		g4 f e! d8 d
+		a'4 a, a'8([ h)] cis([ h)]
+		a([ g)] f([ e)] d4 d
+		d8([ e)] fis([ e)] d([ c)] h([ a)]
+		g4 g g'4. f8 %290
+		es2 d4 r
+		\mvDll d'\fE^\tutti d d8([ c h a]
+		g4) g g g
+		g8([ f! e d] c4) c
+		c' c c8([ b! a g] %295
+		f4) f r r8 f
+		b4 b, a'8 g a f
+		b4 b, r r8 g'
+		c4 c, h'8 a h g
+		c4 c, r r8 a' %300
+		d4 d, cis'8 h cis a
+		d4 d, fis8 e fis d
+		g4. e8 cis4. e8
+		a,1
+		a\fermata %305
+		\tempoMortuorum r4 d2\p c!4
+		b!2 \tempoEtVitam a4 r
+		R1*10 %317
+		r4 r8 \mvDll f'\pE^\solo e16([ d c h)] c8 a'
+		h,4 c8 c d([ e)] f([ e)]
+		d8. g,16 g4 r8 \mvTr c4\fE^\tutti d16[ e] %320
+		f4. e8 d d4 e16[ f]
+		g4. f8 e c f4~
+		f8[ g] e([ f]) g4( g,)
+		c r8 g'( e[ c)] f([ b!)]
+		c4( c,) f r8 e %325
+		f4 f,8 f' b,([ c)] d es
+		f([ es)] d b es([ d)] c([ b)]
+		f'8. f,16 f4 r2
+		r8 f'4 g16[ a] b4. a8
+		g4. b8 a a, r d( %330
+		g) e a4 d, r8 e(
+		f) d g4 c, r
+		r8 c4 d16[ e] f4. e8
+		d4. f8 e4 r8 a,(
+		d) h e4 a, r8 gis' %335
+		a4 a,8 a d([ e)] f g
+		a([ g)] f d g([ f)] e([ d)]
+		a'8. a,16 a4 r r8 e'
+		f([ g)] a b c([ b)] a f
+		b([ a)] g([ f)] c'8. c,16 c4 %340
+		r8 f4( g16[ a] b8) b, r4
+		r8 g'4( a16[ b] c8) c, r4
+		c'8 c, r4 r8 c'16([ b] a8[ g]
+		f) f r4 r2
+		R1 %345
+		r2 r4 r8 f
+		b[ a b g] a[ g a f]
+		g[ f g c,] f f, r4
+		r8 c''16[ b] a8[ g] f[ g] a([ b)]
+		c4( c,) f r %350
+		R1*2
+		r4 r8 f b[ a b g]
+		a[ g a f] g[ f g c,]
+		f f, r4 r8 c''16[ b] a8[ g] %355
+		f[ g] a([ b)] c4( c,)
+		f r r c
+		f, r r2\fermata \bar "|." %358 FINIS
 	}
 }
 
 EtResurrexitBassoLyrics = \lyricmode {
+	Et re -- sur -- %205
+	re -- xit, re -- sur -- re -- xit, re -- sur --
+	re -- xit, et re -- sur --
+	re -- xit, re -- sur -- re -- xit, re -- sur --
+	re -- xit ter -- ti -- a
+	di -- e, re -- sur -- re -- xit %210
+	ter -- ti -- a di -- e se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras,
+	et re -- sur -- re -- xit,
+	re -- sur -- re -- xit, re -- sur -- re -- xit, %215
 	
+	et re -- sur -- re -- xit,
+	re -- sur -- re -- xit, re -- sur -- re -- xit,
+	et re -- sur -- re -- xit, re -- sur --
+	re -- xit, re -- sur -- re -- xit %220
+	ter -- ti -- a di -- e se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras, se --
+	cun -- dum Scri -- ptu -- ras. %225
+	
+	Et i -- te -- rum ven -- %236
+	tu -- rus, ven -- tu -- rus est cum
+	glo -- ri -- a, et
+	i -- te -- rum ven -- tu -- rus, ven --
+	tu -- rus est cum glo -- ri -- a, %240
+	ju -- di -- ca -- re,
+	
+	ju -- di -- ca -- re
+	
+	vi -- vos et mor -- tu -- %245
+	os:
+	Cu -- ius re -- gni,
+	cu -- ius re -- gni non
+	e -- rit fi -- nis,
+	non, non, %250
+	non, non e -- rit, non
+	e -- rit fi -- nis,
+	non, non,
+	non, non e -- rit, non
+	e -- rit fi -- nis. %255
+	
+	Et in
+	Spi -- ri -- tum San -- ctum,
+	Do -- mi -- num et vi --
+	vi -- fi -- can -- %260
+	tem, qui ex
+	Pa -- tre Fi -- li --
+	o -- que, Fi -- li --
+	o -- que pro -- ce -- dit,
+	Fi -- li -- o -- que pro -- %265
+	ce -- _
+	_ dit, Fi -- li --
+	o -- que pro -- ce --
+	dit.
+	
+	Et u -- nam et %279
+	u -- nam san -- ctam, %280
+	san -- ctam ca -- tho -- li -- cam et
+	a -- po -- sto -- li --
+	cam ec -- cle -- si -- am. Con --
+	fi -- te -- or,
+	con -- fi -- te -- or %285
+	u -- num, u -- num ba --
+	pti -- sma in re --
+	mis -- si -- o -- nem,
+	in re -- mis -- si --
+	o -- nem pec -- ca -- %290
+	to -- rum.
+	Et ex -- pe --
+	cto, et ex --
+	pe -- cto,
+	et ex -- pe -- %295
+	cto, ex --
+	pe -- cto re -- sur -- re -- cti --
+	o -- nem, ex --
+	pe -- cto re -- sur -- re -- cti --
+	o -- nem, ex -- %300
+	pe -- cto re -- sur -- re -- cti --
+	o -- nem, re -- sur -- re -- cti --
+	o -- nem mor -- tu --
+	o --
+	rum, %305
+	mor -- tu --
+	o -- rum.
+	
+	Et vi -- tam ven -- %318
+	tu -- ri, ven -- tu -- ri
+	sae -- cu -- li, a -- _ %320
+	_ _ _ _ _
+	_ _ _ men, a --
+	men, a --
+	men, a -- men,
+	a -- men, et %325
+	vi -- tam, et vi -- tam ven --
+	tu -- ri, ven -- tu -- ri
+	sae -- cu -- li,
+	a -- _ _ _
+	_ _ _ men, a -- %330
+	men, a -- men, a --
+	men, a -- men,
+	a -- _ _ _
+	_ _ men, a --
+	men, a -- men, et %335
+	vi -- tam, et vi -- tam ven --
+	tu -- ri, ven -- tu -- ri
+	sae -- cu -- li, et
+	vi -- tam ven -- tu -- ri, ven --
+	tu -- ri sae -- cu -- li, %340
+	a -- men,
+	a -- men,
+	a -- men, a --
+	men,
+	
+	a --
+	_ _
+	_ _ men,
+	a -- _ _ men,
+	a -- men, %350
+	
+	a -- _ %353
+	_ _
+	_ men, a -- _ %355
+	_ men, a --
+	men, a --
+	men. %358 FINIS
 }
