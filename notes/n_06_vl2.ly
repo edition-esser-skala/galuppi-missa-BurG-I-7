@@ -1438,7 +1438,7 @@ EtResurrexitViolinoII = {
 		d8 e cis4 d8 h c4~
 		c8 d h4 c8 g4 a16 h
 		c g e g c8 c c a4 h16 c
-		d h g h d8 d gis e a4~
+		d h gis? h d8 d gis e a4~
 		a8 h gis e c16 h a gis a8 e %335
 		c16 h a gis a8 a'' f16 e d cis d8 b'
 		\appoggiatura d, cis4 d e16 f g f g8 f

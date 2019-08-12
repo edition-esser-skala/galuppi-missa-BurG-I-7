@@ -826,7 +826,7 @@ EtResurrexitOboeII = {
 		d8 e cis4 d8 h c4~
 		c8 d h4 c8 g4 a16 h
 		c g e g c8 c c a4 h16 c
-		d h g h d8 d gis e a4~
+		d h gis? h d8 d gis e a4~
 		a8 h gis e c16 h a gis a8 e' %335
 		c16 h a gis a8 a' f16 e d cis d8 b'
 		\appoggiatura d, cis4 d e16 f g f g8 f
@@ -837,15 +837,15 @@ EtResurrexitOboeII = {
 		g d b d g8 g g e4 f16 g
 		b, a b4 b8 g' e4 f16 g
 		a, g a4 b16 c f,8 g a f
-		f1~\p %345
-		f2~ f8 c'4\f d16 es
+		b2\p f %345
+		b f8\f c'4 d16 es
 		d8 b4 c16 d c8 a4 b16 c
 		b8 g4 a16 b a8 f~ f16 g a b
 		c8 a4 b32( c d e) f8 e16 d c8 b
 		a4 g8 c a16 g f e f8 c %350
-		f g a f f2~\p
-		f1~
-		f8 c'4\f d16 es d8 b4 c16 d
+		f g a f b2\p
+		f b
+		f8\f c'4 d16 es d8 b4 c16 d
 		c8 a4 b16 c b8 g4 a16 b
 		a8 f~ f16 g a b c8 a4 b32( c d e) %355
 		f8 e16 d c8 b a4 g
