@@ -1323,6 +1323,7 @@ CrucifixusBassoNotes = {
 
 CrucifixusBassoLyrics = \lyricmode {
 	
+% 	Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis, sub Pon -- ti -- o Pi -- la -- to pas -- sus et se -- pul -- tus est.
 }
 
 % BassoNotes = {
