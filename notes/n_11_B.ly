@@ -1317,13 +1317,59 @@ CrucifixusBassoNotes = {
 		\clef bass
 		\key a \minor \time 4/4 \autoBeamOff \tempoCrucifixus
 			\set Score.currentBarNumber = #171
-		
+		R1*3 %173
+		\mvTr a'4.\pE^\soloE c8 dis,4 e
+		a8 c h a g([ fis)] e4 %175
+		R1
+		r8 e a4~ a8 gis gis fis16([ gis)]
+		a8 e a4~ a8 g g f16([ e)]
+		f4. f8 e4 g~
+		g f r2 %180
+		r a4. b8
+		cis,4 d g8 b a g
+		f([ e)] d4 r8 e a4~
+		a8 gis gis fis16([ gis)] a8 e r4
+		R1 %185
+		r4 a~ a8 g! g f16([ e)]
+		f4. f8 e4 r
+		d4. f8 gis,4 a
+		d8 f e d c([ h)] a4
+		R1 %190
+		r8 e' a4~ a8 gis gis fis16([ gis)]
+		a8 e a4~ a8 g g f16([ e)]
+		f4. f8 e4 r
+		r2 d'4( h8) gis
+		a4 dis, e a,8 d? %195
+		e4. e8 a,4 a'
+		r e8.\p e16 a,4 r\fermata \bar "||" %197 finis
 	}
 }
 
 CrucifixusBassoLyrics = \lyricmode {
+	Cru -- ci -- fi -- xus %174
+	e -- ti -- am pro no -- bis, %175
 	
-% 	Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis, sub Pon -- ti -- o Pi -- la -- to pas -- sus et se -- pul -- tus est.
+	sub Pon -- ti -- o Pi --
+	la -- to pas -- sus et se --
+	pul -- tus est, pas --
+	sus, %180
+	cru -- ci --
+	fi -- xus e -- ti -- am pro
+	no -- bis, sub Pon --
+	ti -- o Pi -- la -- to
+	%185
+	pas -- sus et se --
+	pul -- tus est,
+	cru -- ci -- fi -- xus
+	e -- ti -- am pro no -- bis,
+	%190
+	sub Pon -- ti -- o Pi --
+	la -- to pas -- sus et se --
+	pul -- tus est,
+	pas -- sus
+	et se -- pul -- tus, se -- %195
+	pul -- tus est, se --
+	pul -- tus est. %197 finis
 }
 
 % BassoNotes = {
