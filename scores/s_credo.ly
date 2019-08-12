@@ -263,19 +263,19 @@
 		}
 		\score {
 			<<
-				\new StaffGroup <<
-					\set StaffGroup.instrumentName = \markup { \musicglyph #'"pedal.*" }
-					\new GrandStaff <<
-						\new Staff {
-							\set Staff.instrumentName = "[Oboe I]"
-							\EtResurrexitOboeI
-						}
-						\new Staff {
-							\set Staff.instrumentName = "[Oboe II]"
-							\EtResurrexitOboeII
-						}
-					>>
-				>>
+% 				\new StaffGroup <<
+% 					\set StaffGroup.instrumentName = \markup { \musicglyph #'"pedal.*" }
+% 					\new GrandStaff <<
+% 						\new Staff {
+% 							\set Staff.instrumentName = "[Oboe I]"
+% 							\EtResurrexitOboeI
+% 						}
+% 						\new Staff {
+% 							\set Staff.instrumentName = "[Oboe II]"
+% 							\EtResurrexitOboeII
+% 						}
+% 					>>
+% 				>>
 				\new StaffGroup <<
 					\new GrandStaff <<
 						\new Staff {

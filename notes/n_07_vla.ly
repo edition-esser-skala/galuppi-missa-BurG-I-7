@@ -1316,6 +1316,133 @@ EtResurrexitViola = {
 		\clef treble
 		\key f \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #198
-		
+		f4\fE r f8 f f f
+		f4 r a,8 a a a
+		a4 r c8 c c c %200
+		c c c c c f f f
+		f r f r g r c, r
+		e f g e f r g r
+		a, b c a d b' g4
+		f4 r f8 f f f %205
+		f4 r a,8 a a a
+		a4 r c8 c c c
+		c c c c c f f f
+		f r f r f r f r
+		e f g e c r c' r %210
+		c r c r h c d h
+		c r d r g, f g e
+		d d16 d d8 g e4 r
+		c8 c c c c4 r
+		e8 e e e e4 r %215
+		c8 c c c c4 r
+		c8 c c c c4 r
+		a8 a a a a4 r
+		c8 c c c c c c c
+		c f f f f r f r %220
+		f r f r e f g e
+		f r g r a, b c a
+		d b' g c a\p f g e
+		f r g r a, b c a\f
+		d b g c a4 r %225
+		c8 c c c c4 r
+		a8 a a a a a a a
+		f4 r r2
+		R1*11 %239
+		R1\fermataMarkup %240
+		\tempoJudicare R1\fermataMarkup
+		\tempoJudicareB c'8\fE c16 c c c c c c e c e c e c e
+		\tempoJudicareC a,4 r r2\fermata
+		\tempoJudicareD a8 a16 a a a a a a c a c a c a c
+		\tempoVivos f4 h, r2 %245
+		gis8\pE gis gis gis gis4 r\fermata
+		\tempoCuiusRegni e'8 f e d c d c h
+		a' h a g! f e f d
+		g a g f e d e c
+		f g f e d e f d %250
+		e f e d c h c a
+		d h e gis a h a g?
+		f g f e d e f d
+		e f e d c h c a
+		d h e gis a\fE e a d %255
+		h e, a c f, a gis a
+		gis h? e, fis16 gis a8 e a d
+		h e, a c f, a gis a
+		gis4. a16 h c8 g c, f
+		d g, c e a, c h c %260
+		h d16 c h8 d g, c4 g8
+		a c f c a d4 a8
+		h d g d h c d h
+		h? d g, a16 h c8 g c d
+		e f16 g c,8 d16 e f8 a d d %265
+		d g, c c c a h4
+		c8 g c, d e f16 g c,8 d
+		e f g a g4 g
+		g8 f e a, c4 h
+		c4 r r2 %270
+		R1*8 %278
+		r4 r8 h\fE c d e cis
+		d a'4 g16 f e8 a, d f %280
+		b,! d cis d cis d e g
+		a c!4 b16 a g8 c, f a
+		d, f e f e f16 g c,4
+		R1*7 %290
+		r2 fis8\fE a d, e
+		fis g a g fis a d, e16 fis
+		g8 d g, a h c d c
+		h d g f! e g c, d
+		e f g f e g c, d16 e %295
+		f8 c f g a c f, g16 a
+		b8 f b, d c f c a'
+		b f f a h d g, h
+		c g c, e d g d h'
+		c g g e cis e a, cis %300
+		d f a f e a e cis'
+		d a d, e fis g16 a d,8 fis
+		g8 d b! g e' g e cis
+		a g' e cis a g' e cis
+		a1\fermata %305
+		\tempoMortuorum r4 d2\p a4
+		d2 \tempoEtVitam a8\f cis d e
+		f c a g' a a, r4
+		R1*11 %319
+		r8 d16\fE c h8 d g, c4 g8 %320
+		a c16 h a8 c f d4 a8
+		g g'4 c,8 c4 c
+		d^\critnote r8 d c4 h
+		c r8 d c c'4 d8
+		a4 g f8 c f g %325
+		a c,^\critnote f a b f b, es
+		c f4 d8 g f16 g a8 b
+		a c f, g a b16 c f,8 g
+		a f4 c8 d f b, d
+		e g b d, e4 r8 f %330
+		b g e a f4 r8 e
+		a f d g e16 d c h c8 d
+		e c4 g8 a c f a
+		h d, f a, h4 r8 e
+		f d h4 c8 e4 fis16 gis %335
+		a8 e a, cis d a'4 g16 f
+		e8 a, d f b! d, cis d
+		cis d16 e a,8 e' f c a c
+		f c f b g c, f a
+		e f e f e g16 f e8 g %340
+		c, f4 c8 d f b, c
+		d g4 d8 e f g f
+		e f g f e c c d16 e
+		f8 c4 d16 e f8 g a f
+		b\p b, b b f' f f f %345
+		b b, b b a'16\f g f e f8 f
+		f d g g g c, f f
+		f d e4 f8 c e g
+		a c f, g a e f d
+		f4 e f8 c4 d16 e %350
+		f8 g a f b\p b, b b
+		f' f f f b b, b b
+		a'16\f g f e f8 f f d g g
+		g c, f f f d e4
+		f8 c f g a c f, g %355
+		a e f d f4 e
+		f8 e16 d c8 b a4 g
+		a r r2\fermata \bar "|." %358 FINIS
 	}
 }
