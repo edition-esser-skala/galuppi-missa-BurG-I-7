@@ -1277,13 +1277,63 @@ CrucifixusTenoreNotes = {
 		\clef "treble_8"
 		\key a \minor \time 4/4 \autoBeamOff \tempoCrucifixus
 			\set Score.currentBarNumber = #171
-		
+		R1
+		r2 \mvTr e4.\pE^\soloE f8
+		gis,4 a d8 f e d
+		c([ h)] a4 r8 h e4~
+		e8 dis dis cis16([ dis)] e8 h e4~ %175
+		e8 d d c16([ h)] c4. c8
+		h4 r r2
+		r r4 e~
+		e d r2
+		r r4 a~ %180
+		a8 g g f16([ e]) f4. f8
+		e8 a d4~ d8 cis cis h!16([ cis)]
+		d8 a d4~d8 c c h16([ a)]
+		h4. h8 a e'4 f8
+		gis,4 a d8 f e d %185
+		c([ h)] a4 r2
+		r8 a d4~ d8 cis cis h16([ cis)]
+		d8 a d4~ d8 c c h16([ a)]
+		h4. h8 a4 a~
+		a8 g! g f16([ e)] f4. f8 %190
+		e4 r r8 h' d4~
+		d8 cis cis h16([ cis)] d8 h e4~
+		e8 d d c16([ h)] c4. c8
+		h4 e~ e8 d d c16([ h)]
+		c4. c8 h4 c8([ d)] %195
+		c4( h8) a a4 a
+		r gis8.\p a16 a4 r\fermata \bar "||" %197 finis
 	}
 }
 
 CrucifixusTenoreLyrics = \lyricmode {
-	
-% 	Cru -- ci -- fi -- xus e -- ti -- am pro no -- bis, sub Pon -- ti -- o Pi -- la -- to pas -- sus et se -- pul -- tus est.
+	Cru -- ci -- %172
+	fi -- xus e -- ti -- am pro
+	no -- bis, sub Pon --
+	ti -- o Pi -- la -- to pas -- %175
+	sus et se -- pul -- tus
+	est,
+	pas --
+	sus,
+	pas -- %180
+	sus et se -- pul -- tus
+	est, sub Pon -- ti -- o Pi --
+	la -- to pas -- sus et se --
+	pul -- tus est, cru -- ci --
+	fi -- xus e -- ti -- am pro %185
+	no -- bis,
+	sub Pon -- ti -- o Pi --
+	la -- to pas -- sus et se --
+	pul -- tus est, pas --
+	sus et se -- pul -- tus %190
+	est, sub Pon --
+	ti -- o Pi -- la -- to pas --
+	sus et se -- pul -- tus
+	est, pas -- sus et se --
+	pul -- tus est, se -- %195
+	pul -- tus est, se --
+	pul -- tus est. %197 finis
 }
 
 % TenoreNotes = {

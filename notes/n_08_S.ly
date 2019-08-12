@@ -1672,7 +1672,7 @@ CrucifixusSopranoNotes = {
 		c4. c8 h4 r
 		R1
 		r2 r4 a~
-		a8 g g f16([ e)] f4. f8
+		a8 g! g f16([ e)] f4. f8
 		e4 r8 a gis4 a8 h %195
 		a4( gis8) a a4 c,
 		r h8.\p a16 a4 r\fermata \bar "||" %197 finis
