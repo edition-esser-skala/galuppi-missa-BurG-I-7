@@ -1336,14 +1336,15 @@ CrucifixusTenoreLyrics = \lyricmode {
 	pul -- tus est. %197 finis
 }
 
-% TenoreNotes = {
-% 	\relative c' {
-% 		\clef "treble_8"
-% 		
-% 		
-% 	}
-% }
-% 
-% TenoreLyrics = \lyricmode {
-% 	
-% }
+EtResurrexitTenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key f \major \time 4/4 \autoBeamOff \tempoEtResurrexit
+			\set Score.currentBarNumber = #198
+		
+	}
+}
+
+EtResurrexitTenoreLyrics = \lyricmode {
+	
+}

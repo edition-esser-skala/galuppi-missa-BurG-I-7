@@ -1352,10 +1352,11 @@ EtIncarnatusIIViolinoI = {
 	}
 }
 
-% ViolinoI = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 		
-% 	}
-% }
+EtResurrexitViolinoI = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \tempoEtResurrexit
+			\set Score.currentBarNumber = #198
+		
+	}
+}

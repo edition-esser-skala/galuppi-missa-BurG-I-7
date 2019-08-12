@@ -1310,3 +1310,12 @@ EtIncarnatusIIViolinoII = {
 		fis1\fermata \bar "||" %170 finis
 	}
 }
+
+EtResurrexitViolinoII = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \tempoEtResurrexit
+			\set Score.currentBarNumber = #198
+		
+	}
+}

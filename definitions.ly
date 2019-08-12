@@ -216,6 +216,7 @@ tempoCredo = \tempoMarkup "Spiritoso"
 tempoEtIncarnatus = \tempoMarkup "[Tempo deest]"
 tempoEtIncarnatusII = \tempoMarkup "Adagio"
 tempoCrucifixus = \tempoMarkup "Largo"
+tempoEtResurrexit = \tempoMarkup "Allegro"
 
 
 

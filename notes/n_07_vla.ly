@@ -1310,3 +1310,12 @@ EtIncarnatusIIViola = {
 		a1\fermata \bar "||" %170 finis
 	}
 }
+
+EtResurrexitViola = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \tempoEtResurrexit
+			\set Score.currentBarNumber = #198
+		
+	}
+}

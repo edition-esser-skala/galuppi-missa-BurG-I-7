@@ -1671,14 +1671,15 @@ EtIncarnatusIIAltoLyrics = \lyricmode {
 	est.] %170 finis
 }
 
-% AltoNotes = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 		
-% 	}
-% }
-% 
-% AltoLyrics = \lyricmode {
-% 	
-% }
+EtResurrexitAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \autoBeamOff \tempoEtResurrexit
+			\set Score.currentBarNumber = #198
+		
+	}
+}
+
+EtResurrexitAltoLyrics = \lyricmode {
+	
+}

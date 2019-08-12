@@ -2555,14 +2555,15 @@ CrucifixusBassFigures = \figuremode {
 	r4 <_+> r2 %197 finis
 }
 
-% Organo = {
-% 	\relative c {
-% 		\clef bass
-% 		
-% 		
-% 	}
-% }
-% 
-% BassFigures = \figuremode {
-% 	
-% }
+EtResurrexitOrgano = {
+	\relative c {
+		\clef bass
+		\key f \major \time 4/4 \tempoEtResurrexit
+			\set Score.currentBarNumber = #198
+		\mvTr f4\fE-\tuttiE r f8 f f f
+	}
+}
+
+EtResurrexitBassFigures = \figuremode {
+	
+}

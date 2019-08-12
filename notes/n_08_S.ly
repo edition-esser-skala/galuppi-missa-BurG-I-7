@@ -1709,14 +1709,15 @@ CrucifixusSopranoLyrics = \lyricmode {
 	pul -- tus est. %197 finis
 }
 
-% SopranoNotes = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 		
-% 	}
-% }
-% 
-% SopranoLyrics = \lyricmode {
-% 	
-% }
+EtResurrexitSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 4/4 \autoBeamOff \tempoEtResurrexit
+			\set Score.currentBarNumber = #198
+		
+	}
+}
+
+EtResurrexitSopranoLyrics = \lyricmode {
+	
+}
