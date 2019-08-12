@@ -2610,11 +2610,11 @@ EtResurrexitOrgano = {
 		\tempoVivos f,4 e f2\pE %245
 		e8 e e e e4 r\fermata
 		\tempoCuiusRegni e'8 f e d c d c h
-		a' h a g f e f d
+		a' h a g! f e f d
 		g a g f e d e c
 		f g f e d e f d %250
 		e f e d c h c a
-		d h e e, a' h a g
+		d h e e, a' h a g!
 		f g f e d e f d
 		e f e d c h c a
 		d h e e, a\fE a'16 h c8 d %255

@@ -1357,6 +1357,152 @@ EtResurrexitViolinoI = {
 		\clef treble
 		\key f \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #198
-		
+		f'8\fE f16 f f8 c f,4 r
+		c'8 c16 c c8 a f4 r
+		f8 f16 f f8 c a16 f' f f f f f f %200
+		g g g g g g g g a c c c f, c' c c
+		d f f f c f f f b, f' f f a, f' f f
+		g, c c c c, c' c c d, b' b b e, b' b b
+		f a a a a, f' f f b, f' f f c e' e e
+		f8 f16 f f8 c f,4 r %205
+		c'8 c16 c c8 a f4 r
+		f8 f16 f f8 c a16 f' f f f f f f
+		g g g g g g g g a c c c f, c' c c
+		d f f f c f f f b, f' f f a, f' f f
+		g, c c c c, g'' g g a c c c g c c c %210
+		f, c' c c e, c' c c d, g g g g, g' g g
+		a, f' f f h, f' f f c e e e e, c' c c
+		f, c' c c g h' h h c8c16 c c8 g
+		e4 r g8 g16 g g8 e
+		c4 r c8 c16 c c8 g %215
+		e16 g g g b! b b b <a f'>8 f'16 f f8 c
+		a4 r c8 c16 c c8 a
+		f4 r f8 f16 f f8 c
+		a16 f' f f f f f f g g g g g g g g
+		a c c c f, c' c c d f f f c f f f %220
+		b, f' f f a, f' f f g, c c c c, c' c c
+		d, b' b b e, b' b b f a a a a, f' f f
+		b, f' f f c e e e f\p c' c c c, c' c c
+		d, b' b b e, b' b b f a a a a,\f f' f f
+		b, f' f f c e' e e f8 f16 f f8 c %225
+		a4 r c8 c16 c c8 a
+		f4 r f8 f16 f f8 c
+		a4 r r2
+		r r8 a''\p a,4
+		r2 r8 d g,4 %230
+		r2 r8 e' a,4
+		r2 r8 e a,4
+		r8 a'' a,4 r8 h' h,4
+		r8 cis' cis,4 r8 d' d,4
+		r2 r4 r8 a'\f %235
+		f16 e d cis d8 a d,\p a'4 g16 f
+		e8 a, d f e d cis d
+		cis16 d e4 b''!8\f a16 g f e f8 c
+		f,\p c'4 b16 a g8 c, f a
+		g f e f e16 f g4 r8\fermata %240
+		\tempoJudicare R1\fermataMarkup
+		\tempoJudicareB c,8\f c16 c c c c c c e c e c e c e
+		\tempoJudicareC a,4 r r2\fermata
+		\tempoJudicareD a8-\critnote a16 a a a a a a c a c a c a c
+		\tempoVivos d4 e r2 %245
+		e8\p e e e e4 r\fermata
+		e8 f e d c d c h
+		a' h a g! f e f d
+		g a g f e d e c
+		f g f e d e f d %250
+		e f e d c h c a
+		d h e gis a h a g?
+		f g f e d e f d
+		e f e d c h c a
+		d h e e'\f c16 h a gis a8 f' %255
+		\appoggiatura a, gis4 a h16 c d c d8 c
+		h e,4 d'8 c16 h a gis a8 f'
+		\appoggiatura a, gis4 a h16 c d c d8 c
+		h e,4 f'8 e16 d c h c8 a'
+		\appoggiatura c, h4 c d16 e f e f8 e %260
+		d g,4 a16 h c g e g c8 c
+		c a4 h16 c d a fis a d8 d
+		d h4 c16 d f, e f4 f8
+		d' h4 c16 d e, d e4 g'8
+		c g4 c16 b! a8 f4 g16 a %265
+		g8 e4 f16 g f8 d4 e16 f
+		e8 c~ c16 d e f g8 e4 f32( g a h)
+		c8 h16 a g8 f e4 d\trill
+		c8 h16 a g8 f e4 d\trill
+		c r r2 %270
+		R1*3
+		r8 fis'4\p g16 a c, h c4 r8
+		r h4 c16 d e, d e4 r8 %275
+		R1*3
+		r4 r8 e'\f c16 h a gis a8 a'
+		f16 e d cis d8 b'! \appoggiatura d, cis4 d %280
+		e16 f g f g8 f e a,4 b'!8
+		a16 g f e f8 d' \appoggiatura f, e4 f
+		g16 a b a b8 a g c,4 g'8\p
+		e16 f g4 b,8 a f4 c'8
+		a16 b c4 a8 b4 r %285
+		R1
+		r8 cis4 d16 e g, fis g4 g8
+		e' cis4 d16 e f,8 a4 b!16 c
+		fis, e fis4 a8 c fis,4 g16 a
+		d,8 b'4 c16 d g,4. d8 %290
+		g2 a8\f fis'4 g16 a
+		c, h c4 c8 a' fis4 g16 a
+		h, a h4 c16 d f,! e f4 f8
+		d' h4 c16 d e d e4 f16 g
+		b, a b4 b8 g' e4 f16 g %295
+		a, g a4 a8 f' c4 d16 es
+		d8 b~ b16 c d e f8 c4 d16 es
+		d8 b4 c32( d e fis) g8 d4 e16 f?
+		e8 c~ c16 d e f g8 d4 e16 f
+		e8 c4 d32( e f g) a8 e4 f16 g %300
+		f8 d~ d16 e f g a8 e4 f16 g
+		f8 d~ d16 e f g a8 d,4 e32( fis g a)
+		b!8 g4 g8 g e4 g8
+		g1
+		g\fermata %305
+		\tempoMortuorum r4 f,2\p e4
+		d2 \tempoEtVitam cis4 r8 b'\f
+		a16 g f e f8 c' f f, r4
+		R1*11 %319
+		r8 g'4\f a16 h c g e g c8 c %320
+		c a4 h16 c d a f a d8 d
+		d h4 c16 d g, e f g a8 f
+		h,16 g a h c8 a' e4 d\trill
+		c16 g e g b8 b g' f16 e f8 d
+		f4 e8 c' a16 g f e f8 c %325
+		a16 g f e f8 f' d16 c b a b8 g'
+		\appoggiatura b, a4 b c16 d es d es8 d
+		c8 f,~ f16 g a b c8 a4 b32( c d e)
+		f16 c a c f8 f f d4 e16 f
+		g e c e g8 g cis, a d4~ %330
+		d8 e cis4 d8 h c4~
+		c8 d h4 c8 g4 a16 h
+		c g e g c8 c c a4 h16 c
+		d h g h d8 d gis e a4~
+		a8 h gis e c16 h a gis a8 e %335
+		c16 h a gis a8 a'' f16 e d cis d8 b'
+		\appoggiatura d, cis4 d e16 f g f g8 f
+		e a,4 b!8 a16 g f e f8 c''
+		a16 g f e f8 d' \appoggiatura f, e4 f
+		g16 a b a b8 a g c,4 d16 e %340
+		f c a c f8 f f d4 e16 f
+		g d b d g8 g g e4 f16 g
+		b, a b4 b8 g' e4 f16 g
+		a, g a4 b16 c f,8 g a f
+		b\p b, b b f' f f f %345
+		b b, b b f''\f c4 d16 es
+		d8 b4 c16 d c8 a4 b16 c
+		b8 g4 a16 b a8 f~ f16 g a b
+		c8 a4 b32( c d e) f8 e16 d c8 b
+		a4 g8 c a16 g f e f8 c %350
+		f g a f b\p b, b b
+		f' f f f b b, b b
+		f''\f c4 d16 es d8 b4 c16 d
+		c8 a4 b16 c b8 g4 a16 b
+		a8 f~ f16 g a b c8 a4 b32( c d e) %355
+		f8 e16 d c8 b a4 g
+		f8 e16 d c8 b a4 g
+		f' r r2\fermata \bar "|." %358 FINIS
 	}
 }
