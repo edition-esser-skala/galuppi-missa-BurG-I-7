@@ -217,6 +217,14 @@ tempoEtIncarnatus = \tempoMarkup "[Tempo deest]"
 tempoEtIncarnatusII = \tempoMarkup "Adagio"
 tempoCrucifixus = \tempoMarkup "Largo"
 tempoEtResurrexit = \tempoMarkup "Allegro"
+	tempoJudicare = \tempoMarkup "Adagio"
+	tempoJudicareB = \tempoMarkup "Presto"
+	tempoJudicareC = \tempoMarkup "Adagio"
+	tempoJudicareD = \tempoMarkup "Presto"
+	tempoVivos = \tempoMarkup "Adagio"
+	tempoCuiusRegni = \tempoMarkup "Allegro"
+	tempoMortuorum = \tempoMarkup "Adagio"
+	tempoEtVitam = \tempoMarkup "Allegro"
 
 
 

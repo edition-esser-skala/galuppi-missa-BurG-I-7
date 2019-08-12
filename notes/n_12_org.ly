@@ -2561,9 +2561,329 @@ EtResurrexitOrgano = {
 		\key f \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #198
 		\mvTr f4\fE-\tuttiE r f8 f f f
+		f4 r f8 f f f
+		f4 r f8 g a f %200
+		e d e c f g a f
+		b r a r g r f r
+		c d e c d r e r
+		f g a f b g c c,
+		f4 r f8 f f f %205
+		f4 r f8 f f f
+		f4 r f8 g a f
+		e d e c f g a f
+		b r a r g r f r
+		c d e c f r e r %210
+		d r c r g' a h g
+		a r h r c, d e c
+		f e16 f g8 g, c4 r
+		c8 c c c c4 r
+		c8 c c c c4 r %215
+		c8 c c c f4 r
+		f8 f f f f4 r
+		f8 f f f f4 r
+		f8 g a f e d e c
+		f g a f b r a r %220
+		g r f r c d e c
+		d r e r f g a f
+		b a16 b c8 c, f, f'\p e c
+		d r e r f, g a f\f
+		b a16 b c8 c, f4 r %225
+		f8 f f f f4 r
+		f8 f f f f f f f
+		f'8 \mvTr g\pE-\soloE f e d d' cis a
+		d c b!4 a8 b a g
+		fis e fis d g a h g %230
+		gis fis gis e a g f e
+		d4 gis a8 b! a g
+		f e f d g f g e
+		a g a f b a b g
+		g e f g a g a a, %235
+		d e f cis d e f g
+		a g f d g f e d
+		a' b! a g f g a e
+		f g a b c b a f
+		b a g f c4 r\fermata %240
+		\tempoJudicare R1\fermataMarkup
+		\tempoJudicareB c8\fE c16 c c c c c c e c e c e c e
+		\tempoJudicareC a,4 r r2\fermata
+		\tempoJudicareD a8 a16 a a a a a a c a c a c a c
+		\tempoVivos f,4 e f2 %245
+		e8\pE e e e e4 r\fermata
+		\tempoCuiusRegni e'8 f e d c d c h
+		a' h a g f e f d
+		g a g f e d e c
+		f g f e d e f d %250
+		e f e d c h c a
+		d h e e, a' h a g
+		f g f e d e f d
+		e f e d c h c a
+		d h e e, a\fE a'16 h c8 d %255
+		e d c a d c h a
+		e d c h a-\tuttiE h c d
+		e d c a d c h a
+		e' f e d c d e f
+		g f e c f e d c %260
+		g' a g f e d e c
+		f g a g fis e fis d
+		g a h a g a h a
+		g f! e d c d e d
+		c d e c f e f d %265
+		e d e c d c d g,
+		c d e d c d e d
+		c d e f g f g g,
+		c d e f g f g g,
+		\mvTr c\p-\soloE d e h c d e f %270
+		g f e c f e d c
+		g' a h a g a h c
+		d c h g c h a g
+		d e fis? e d e fis? d
+		g a h g c, d e c %275
+		f! e d c d e f d
+		e fis gis e a, h c a
+		d c d h e d c d
+		e d e e, \mvTr a\fE-\tuttiE h c a
+		d e f g a g f d %280
+		g f e d a' b! a g
+		f g a b c b a f
+		b a g f c d e d
+		\mvTr c\p-\soloE d e c f g a g
+		f g a f d b' a b %285
+		g g, f' f, e' e, d d'
+		a' h cis h a h cis h
+		a g f e d e f e
+		d e fis e d c h a
+		g' a b! a g4. f8 %290
+		es2 \mvTr d8\f-\tuttiE e fis e
+		d e fis e d c h a
+		g' a h a g a h a
+		g f e d c d e d
+		c d e d c b! a g %295
+		f' g a g f g a f
+		b c d b a g a f
+		b c b a g a h g
+		c d e c h a h g
+		c, d c b! a h cis a %300
+		d e f d cis h cis a
+		d e f e d e fis d
+		g, g'4 e8 cis e4 cis8
+		a g' e cis a g' e cis
+		a1\fermata %305
+		\tempoMortuorum r4 d2\p c4
+		b2 \tempoEtVitam a8\f b! a g
+		f' g a \mvTr e\p-\soloE f g a b
+		c b a f b a g f
+		c d e f g f e c %310
+		f e d c g' g16 a g8 f
+		e d e c f g a f
+		b! c b a g a h g
+		c b a f g f e a
+		g f g g, c c' d b! %315
+		c b a d c b c c,
+		f, g a b c b a f
+		b a g f c' d e f
+		g f e c d e f e
+		\mvTr g,\f-\tuttiE a g f e' c d e %320
+		f g f e d e f d
+		g a g f e c f4~
+		f8 g e f g f g g,
+		c c d g e c f b!
+		c, b c c, f' g a e %325
+		f g a f b, c d es
+		f es d c es d c b
+		f' g a g f g a g
+		f g a f b c b a
+		g a b4 a8 g f d %330
+		g e a a, d e f e
+		f d g g, c d e d
+		c d e c-\critnote f g f e
+		d e f4 e8 d c a
+		d h e e, a' h c gis %335
+		a, h c a d e f g
+		a g f d g f e d
+		a' b! a g f g a e
+		f g a b c b a f
+		b a g f c' d c b %340
+		a f g a b c d c
+		h? g a h? c d e d
+		c d e d c b a g
+		f g a g f4 r
+		R1 %345
+		r2 f8 g a f
+		b a b g a g a f
+		g f g c, f g a g
+		f g a g f g a b
+		c b c c, f g a g %350
+		f4 r r2
+		R1
+		f8 g a f b a b g
+		a g a f g f g c,
+		f g a g f g a g %355
+		f g a b c b c c,
+		f, g a b c4 c,
+		f r r2\fermata \bar "|." %358 FINIS
 	}
 }
 
 EtResurrexitBassFigures = \figuremode {
-	
+	r1 %198
+	r
+	r2. <[6]>4 %200
+	q2. q4
+	r q <[7]>2
+	r4 <[6]> q <[6 5]>
+	r <[6]> r2
+	r1 %205
+	r
+	r2. <[6]>4
+	q2. q4
+	r q <[7]>2
+	r4 <[6]> r q %210
+	<[7]>2 <_!>4 <[6]>
+	q <[6 5]> r <[6]>
+	<[6 5]> <_!> r2
+	r1
+	r %215
+	r4 <7> r2
+	r1
+	r
+	r4 <[6]> q2
+	r4 q r <6> %220
+	<[7]>2. <[6]>4
+	<6> <6 5> r <[6]>
+	r2. <[6]>4
+	q <[6 5]> r <[6]>
+	r8 <[6]> r2. %225
+	r1
+	r
+	r4. <6\\>8 r4 <[6]>8 <7 [_+]>
+	r <[6]> <6>4 <_+>2
+	<6>4 <5>8 <7 [_+]> <4>4 <6 3> %230
+	<[6]>4. <7 [_+]>8 <_+>4 <6>8 <6\\>
+	r4 <7 5 [_!]> <_+>2
+	<6> <6 3>
+	<_+>4 <6 [_+]> r2
+	<6>8 <6\\> <6> <6 5> <6 4>4 <5 _+> %235
+	r4 <[6]>8 <6> r4 <[6]>
+	<_+>4 <6> q8 q <6\\>4
+	<_+>2 r4 <[6]>8 <6! 5>
+	r4 <[6]> r <6>
+	q8 q q4 r2 %240
+	r1
+	r
+	r
+	r
+	<6>4 <_+> <7> <6> %245
+	<_+>1
+	<[_+]>2 <[6]>
+	<_!> <6>
+	<_!> <6>
+	r <6!> %250
+	<_+> <6>
+	r4 <[5!] _+> r2
+	r <6!>
+	<[5!] _+> <6>
+	r4 <[5!] _+> r <6>8 <3> %255
+	<[5!] _+>4 <6> <6!>8 <6> <6\\>4
+	<[5!] _+> <6>8 <6\\> r4 <[6]>8 <6! 3>
+	<[5!] _+>4 <6> <6!>8 <6> <6\\>4
+	<[5!] _+>2 <5 3>8 <6! 4 3> <[6]> <6>
+	<_!>4 <[6]> r8 <[6]> <6!>4 %260
+	<_!>2 <6>4 <6 5->
+	r2 <6>4 <6 5>8 <[7 _+]>
+	<[_!]>1
+	<\t>1
+	r2 <[5]>4 <[6]> %265
+	<7> <6> <7> <6!>8 <7>
+	r2.. <6!>8
+	r q <[6]>4 <6 4> <5 _!>
+	r8 <6!> <[6]>4 <6 4> <5 _!>
+	r4 <[6]>8 q r <6!> <6 3>4 %270
+	<_!> <6> q8 q <6!>4
+	<[_!]>1
+	<_+>4 <6> q8 q <6\\> <_!>
+	<[_+]>4 <6>8 <6\\> <7 _+>2
+	<7 [_!]>1 %275
+	r8 <_+> r <[6]> <6!>4 <6 3>8 <5>
+	<[5!] _+>4 <5 [_!]> <9> <6>8 <7>
+	<9 _+>4 <8 6!> <_+> <6>8 <6!>
+	<6 4>4 <5 _+> r <6>8 <_+>
+	r <6\\> <6> <_-> <_+>4 <6> %280
+	<_->8 <6> <6\\>4 <_+>4. <[6] _->8
+	r4 <6> r q
+	r <[6]> r2
+	r4 <5>8 <7> r2
+	r4 <5->8 <7-> <[6]>4 <6>8 q %285
+	<6->4 <6> <6\\>2
+	<[_+]>2 <7 [_+]>
+	<_+> <_!>
+	<7 [_+]> <_+>
+	<[_-]> <6->8 <5>4 <6>8 %290
+	<7>4 <6> <_+>2
+	<[\t]>1
+	<_!>2 <7 [_!]>
+	<[\t \t]>1
+	r2 <[7-]> %295
+	r1
+	r2 <[6]>
+	r <_!>
+	r <6>
+	r4. <6 4 3>8 <_+>2 %300
+	<_!> <[6]>4. <[_+]>8
+	r2 <_+>
+	<[8 _-]>2.. \bassFigureExtendersOn <8 _->8 \bassFigureExtendersOff
+	<7 [_+]>1 \bassFigureExtendersOn
+	<7 _+> \bassFigureExtendersOff %305
+	r2. <6>4
+	<[7]> <[6]> <[_+]>4. <[6 _-]>8
+	r4. <[6]>8 r4 q
+	r <[6]> <6>8 <[6]> <6>4
+	r2 <_!>4 <[6]> %310
+	<6>8 q <6!>4 <_!>2
+	<[6]>4. <7->8 r2
+	r <_!>
+	r4 <[6]> <_!> <[6]>8 <6>
+	<6 4>4 <5 _!> r <6>8 q %315
+	r4 <[6]>8 <6> <6 4>4 <5 3>
+	r <[6]> r q
+	<6>8 q q4 r4 <[6]>
+	<_!> <[6]> <[6!]>8 <6> <4!> <6>
+	<_!>2 <[6]> %320
+	r1
+	<_!>2 <[6]>
+	<6 4! 2>4 <6> <6 4> <5 _!>
+	r <6->8 <_-> <6 5->2
+	<6 4>4 <5 3> r4. <6>8 %325
+	r4 <[6]> r8 <6 4 _-> <6> q
+	r4 <6> q8 q <6 [_-]>4
+	r1
+	r
+	<6>8 <6 4> <6>4 <_+>4 <6> %330
+	<6 5> <_+> r4. <6! 3>8
+	<6 5>4 <_!> r2
+	r1
+	r2 <[5!] _+>4 <6>
+	r <[5!] _+> r <[6]>8 <6 [_!]> %335
+	r4. <_+>8 r <6+ 4 3> <6> <6 _->
+	<_+>4 <6> <6 _->8 <6> <6\\>4
+	<_+>4. <[6 _-]>8 r4. <6 3>8
+	r <6 4 3> <6>4 r q
+	q8 q q4 r2 %340
+	<[6]>1
+	q
+	r1
+	r
+	r %345
+	r
+	<5>4 <6> <7> <6>
+	<7> <6> r2
+	r r8 <6> q4
+	<6 4> <5 3> r2 %350
+	r1
+	r
+	r2 <5>4 <6>
+	<7> <6> <7> <6>
+	r1 %355
+	r8 <6> q4 <6 4> <5 3>
+	r8 <6> <[6]>4 <6 4> <5 3>
+	r1 %358 FINIS
 }
