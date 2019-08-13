@@ -26,8 +26,8 @@
 			<<
 				\new StaffGroup <<
 					\new Staff <<
-						\set Staff.instrumentName = \markup { \center-column { "Tromba I, II" "[in C]" } }
-						\partcombine \GloriaTrombaI \GloriaTrombaII
+						\set Staff.instrumentName = \markup { \center-column { "Tromba" "[in C]" } }
+						\GloriaTromba
 					>>
 				>>
 				\new StaffGroup <<
@@ -320,8 +320,8 @@
 			<<
 				\new StaffGroup <<
 					\new Staff <<
-						\set Staff.instrumentName = \markup { \center-column { "Tromba I, II" "[in C]" } }
-						\partcombine \DomineFiliTrombaI \DomineFiliTrombaII
+						\set Staff.instrumentName = \markup { \center-column { "Tromba" "[in C]" } }
+						\DomineFiliTromba
 					>>
 				>>
 				\new StaffGroup <<
@@ -399,8 +399,8 @@
 			<<
 				\new StaffGroup <<
 					\new Staff <<
-						\set Staff.instrumentName = \markup { \center-column { "Tromba I, II" "[in C]" } }
-						\partcombine \QuiTollisTrombaI \QuiTollisTrombaII
+						\set Staff.instrumentName = \markup { \center-column { "Tromba" "[in C]" } }
+						\QuiTollisTromba
 					>>
 				>>
 				\new StaffGroup <<
@@ -510,8 +510,8 @@
 			<<
 				\new StaffGroup <<
 					\new Staff <<
-						\set Staff.instrumentName = \markup { \center-column { "Tromba I, II" "[in C]" } }
-						\partcombine \QuoniamTrombaI \QuoniamTrombaII
+						\set Staff.instrumentName = \markup { \center-column { "Tromba" "[in C]" } }
+						\QuoniamTromba
 					>>
 				>>
 				\new StaffGroup <<
@@ -589,8 +589,8 @@
 			<<
 				\new StaffGroup <<
 					\new Staff <<
-						\set Staff.instrumentName = \markup { \center-column { "Tromba I, II" "[in C]" } }
-						\partcombine \CumSanctoTrombaI \CumSanctoTrombaII
+						\set Staff.instrumentName = \markup { \center-column { "Tromba" "[in C]" } }
+						\CumSanctoTromba
 					>>
 				>>
 				\new StaffGroup <<
