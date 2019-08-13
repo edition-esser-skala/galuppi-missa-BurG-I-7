@@ -312,7 +312,7 @@ tempoEtResurrexit = \tempoMarkup "Allegro"
 		\Score
 		\override MetronomeMark.font-series = #'medium
 		\compressFullBarRests
-		\override BarNumber.break-visibility = #'#(#f #t #t) % uncomment to show each bar number
+% 		\override BarNumber.break-visibility = #'#(#f #t #t) % uncomment to show each bar number
 	}
 	\context {
 		\StaffGroup
@@ -388,8 +388,7 @@ tempoEtResurrexit = \tempoMarkup "Allegro"
 	}
 }
 
-\include "notes/n_01_tr1.ly"
-\include "notes/n_02_tr2.ly"
+\include "notes/n_01_tr.ly"
 \include "notes/n_03_ob1.ly"
 \include "notes/n_04_ob2.ly"
 \include "notes/n_05_vl1.ly"

@@ -6,8 +6,8 @@
 # change the following variables according to your project
 project = Galuppi_Missa_BurG_I_7
 zipname = Galuppi_Missa_BurG_I_7_Engraving_Files
-notes = A B ob1 ob2 org S T tr1 tr2 vl1 vl2 vla
-parts = b coro ob1 ob2 org tr12 vl1 vl2 vla
+notes = A B ob1 ob2 org S T tr vl1 vl2 vla
+parts = b coro ob1 ob2 org tr vl1 vl2 vla
 movements = kyrie gloria credo
 
 

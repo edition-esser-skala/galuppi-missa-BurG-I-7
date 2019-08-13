@@ -8,9 +8,9 @@
 
 % \include "scores/s_kyrie.ly"
 % \include "scores/s_gloria.ly"
-\include "scores/s_credo.ly"
+% \include "scores/s_credo.ly"
 
-% \include "parts/p_tr12.ly"
+% \include "parts/p_tr.ly"
 % \include "parts/p_ob1.ly"
 % \include "parts/p_ob2.ly"
 % \include "parts/p_vl1.ly"

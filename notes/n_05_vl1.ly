@@ -1352,6 +1352,16 @@ EtIncarnatusIIViolinoI = {
 	}
 }
 
+CrucifixusViolinoI = {
+	\relative c' {
+		\clef treble
+		\key a \minor \time 4/4 \tempoCrucifixus
+			\set Score.currentBarNumber = #171
+		\override MultiMeasureRest.minimum-length = #40
+			R1*27 \bar "||" %197 finis
+	}
+}
+
 EtResurrexitViolinoI = {
 	\relative c' {
 		\clef treble

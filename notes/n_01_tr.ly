@@ -4,7 +4,7 @@
 
 \version "2.18.0"
 
-GloriaTrombaI = {
+GloriaTromba = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 3/4 \tempoGloria
@@ -127,7 +127,7 @@ GloriaTrombaI = {
 	}
 }
 
-DomineFiliTrombaI = {
+DomineFiliTromba = {
 	\overrideTimeSignatureSettings
 		2/4
 		1/8
@@ -187,7 +187,7 @@ DomineFiliTrombaI = {
 	}
 }
 
-QuiTollisTrombaI = {
+QuiTollisTromba = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 3/2 \tempoQuiTollis
@@ -226,7 +226,7 @@ QuiTollisTrombaI = {
 	}
 }
 
-QuoniamTrombaI = {
+QuoniamTromba = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 3/4 \tempoQuoniam
@@ -306,7 +306,7 @@ QuoniamTrombaI = {
 	}
 }
 
-CumSanctoTrombaI = {
+CumSanctoTromba = {
 	\relative c' {
 		\clef treble
 		\key f \major \time 4/4 \tempoCumSancto

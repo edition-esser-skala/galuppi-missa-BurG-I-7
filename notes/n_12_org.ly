@@ -2461,6 +2461,86 @@ EtIncarnatusBassFigures = \figuremode {
 	r2. %161 finis
 }
 
+EtIncarnatusBassi = {
+	\relative c {
+		\clef "treble_8"
+		\key d \minor \time 3/4 \tempoEtIncarnatus
+			\set Score.currentBarNumber = #90
+		\mvTr d'8\fE-\soloE ^\tweak TextScript.X-offset #0 ^\markup { \remark "Viola" } d d d d d
+		g, g g g gis gis
+		a a a a a a
+		a a a a a a
+		d d d d d d
+		g, g g g g g %95
+		c c c c c c
+		f f f f f f
+		b, b b b b b
+		e e e e e e
+		a, a a a a a %100
+		d d d d d d
+		g, g g g g g
+		a2.\fermata
+		a4 a2
+		d8\pE d d d d d %105
+		g, g g g gis gis
+		a a a a a a
+		a a a a a a
+		d d d d d d
+		c c c c c c %110
+		b b b b b b
+		b b b b b b
+		a a a a a a
+		b b a a a a
+		e' e f f f f %115
+		b, b h h h h
+		c c c c c c
+		c c c c c c
+		f\fE f f f f f
+		e e e e d d %120
+		cis cis d d d d
+		a\pE a a a a a
+		a a a a a a
+		a a a a a a
+		a a a a a a %125
+		a a a a a a
+		a a a a a a
+		a a a a a a
+		d d d d d d
+		g, g g g g g %130
+		c c c c c c
+		f f f f f f
+		b, b b b b b
+		e e e e e e
+		a, a a a a a %135
+		d d d d d d
+		g, g g g g g
+		a2\fermata r4
+		a4 a2
+		d8 d d d a a %140
+		a a a a a a
+		a a a a a a
+		gis gis gis gis gis gis
+		a2 r4
+		a a2 %145
+		\clef bass d,8\fE^\markup { "Organo" } d d d d d
+		g, g gis gis gis gis
+		a a a a a a
+		a a a a a a
+		d d d d d d %150
+		g g g g g g
+		c, c c c c c
+		f f f f f f
+		b, b b b b b
+		e e e e e e %155
+		a, a a a a a
+		d4 r r
+		g, r r
+		a2.\fermata
+		a4 a2 %160
+		d,2.\fermata \bar "||" %161 finis
+	}
+}
+
 EtIncarnatusIIOrgano = {
 	\relative c {
 		\clef bass
