@@ -1,0 +1,24 @@
+composer: Galuppi, Baldassare
+title: Missa in e
+id: BurG I/7
+genre: mass
+scoring: 2 S, A, T, B (solo), S, A, T, B (coro), clno (C), 2 ob, vl solo, 2 vl, vla, b, org
+sources:
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2973-D-16
+    type: manuscript copy
+    date: 1750–1764
+    rism: 212006148
+    url: http://digital.slub-dresden.de/id426418212
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2973-D-19
+    type: manuscript copy
+    date: 1750–1764
+    rism: 212006218
+    url: http://digital.slub-dresden.de/id42603967X
+github: galuppi-missa-BurG-I-7
+imslp: Missa_in_E_minor,_BurG_I/7_(Galuppi,_Baldassare)
+notes:
+
