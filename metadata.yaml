@@ -1,24 +1,29 @@
-composer: Galuppi, Baldassare
-title: Missa in e
+composer:
+  last: Galuppi
+  first: Baldassare
+title: Missa
 id: BurG I/7
 genre: mass
-scoring: 2 S, A, T, B (solo), S, A, T, B (coro), clno (C), 2 ob, vl solo, 2 vl, vla, b, org
+scoring: 2 S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 clno (C), vl solo, 2 vl, vla, b, org
+license: cc-by-sa-4.0
 sources:
-  1:
-    siglum: D-Dl
-    shelfmark: Mus.2973-D-16
-    type: manuscript copy
-    date: 1750–1764
-    rism: 212006148
-    url: http://digital.slub-dresden.de/id426418212
-  2:
+  B1:
     siglum: D-Dl
     shelfmark: Mus.2973-D-19
-    type: manuscript copy
     date: 1750–1764
     rism: 212006218
-    url: http://digital.slub-dresden.de/id42603967X
-github: galuppi-missa-BurG-I-7
+    url: https://digital.slub-dresden.de/id42603967X
+    license: public domain
+    principal: true
+  B2:
+    siglum: D-Dl
+    shelfmark: Mus.2973-D-16
+    date: 1750–1764
+    rism: 212006148
+    url: https://digital.slub-dresden.de/id426418212
+    license: public domain
+    notes: only Credo
 imslp: Missa_in_E_minor,_BurG_I/7_(Galuppi,_Baldassare)
-notes:
-
+parts:
+  clno12: Clarino I, II in C
+  vl1: Violino I\\Violino solo
